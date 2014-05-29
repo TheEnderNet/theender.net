@@ -70,7 +70,7 @@
             <div class="large-12-centered columns"> <h1><center> Playstation 3 </center></h1> </div><hr>
             </a>
 
-            <div class="large-4 columns panel">
+            <div class="large-4 columns panel"> 
                 <h2> Grand Theft Auto 5</h2>
                 <hr>
                 <p>
