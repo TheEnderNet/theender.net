@@ -3,8 +3,9 @@
     <center><img src="/img/banner.png"></center>
   </div>
 </div>
-<br />
 
+
+<!--
 <div class="row">
   <div class="contain-to-grid">
     <nav class="top-bar" data-topbar data-options="is_hover: true">
@@ -23,6 +24,7 @@
   </div>
 </div>
 <br />
+-->
 
 <map name="navMap">
   <area shape="rect" coords="13,14,132,60" href="/" alt="Home">
