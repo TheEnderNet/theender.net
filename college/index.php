@@ -18,7 +18,7 @@
         </div>
         <div class="large-4 columns panel">
             <h2 style="color:green">Xbox</h2>
-            <p>This is the start of a paragraph for the Xbox content</p>
+            <p>This is the start of a paragraph for the Xbox content </p>
         </div>
         <div class="large-4 columns panel">
             <h2 style="color:red">PC</h2>
