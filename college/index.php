@@ -22,7 +22,7 @@
         </div>
         <div class="large-4 columns panel">
             <h2 style="color:red">PC</h2>
-            <p>This is the start of a paragraph for teh PC content</p>
+            <p>This is the start of a paragraph for teh PC content ololol</p>
         </div>
     </div>
 
