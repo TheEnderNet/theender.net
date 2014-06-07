@@ -8,8 +8,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><?php echo $Title ?></title>
-    <link rel="stylesheet" href="http://www.thatjoshgreen.me/css/foundation.css" />
-    <script src="http://www.thatjoshgreen.me/js/modernizr.js"></script>
+    <link rel="stylesheet" href="../css/foundation.css" />
+    <script src="../js/modernizr.js"></script>
   </head>
   
   <body style="background-color:black;">
@@ -26,8 +26,8 @@
           <li class="has-dropdown">
             <a href="#">Sites</a>
             <ul class="dropdown">
-              <li class="active"><a href="http://www.thatjoshgreen.me">JoshTheEnder</a></li>
-              <li><a href="http://www.thatjoshgreen.me/superminor2/">SuPeRMiNoR2</a></li>
+              <li class="active"><a href="http://www.theender.net">JoshTheEnder</a></li>
+              <li><a href="http://superminor2.no-ip.org/">SuPeRMiNoR2</a></li>
             </ul>
           </li>
         </ul>
@@ -35,10 +35,10 @@
         <!-- Left Nav Sesction -->
         <ul class="left">
           <li class="has-dropdown">
-            <a href="projects.html">Projects</a>
+            <a href="projects/">Projects</a>
             <ul class="dropdown">
-              <li><a href="projects.html#LaserCraft">Laser Craft</a></li>
-              <li><a href="projects.html#EnderBot">EnderBot</a></li>
+              <li><a href="projects/#LaserCraft">Laser Craft</a></li>
+              <li><a href="projects/#EnderBot">EnderBot</a></li>
             </ul>
           </li>
         </ul>
@@ -63,8 +63,8 @@
       </div>
     </div>
     
-    <script src="http://www.thatjoshgreen.me/js/vendor/jquery.js"></script>
-    <script src="http://www.thatjoshgreen.me/js/foundation.min.js"></script>
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
     <script>
       $(document).foundation();
     </script>
