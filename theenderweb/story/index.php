@@ -8,8 +8,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><?php echo $Title ?></title>
-    <link rel="stylesheet" href="../css/foundation.css" />
-    <script src="../js/modernizr.js"></script>
+    <link rel="stylesheet" href="/css/foundation.css" />
+    <script src="/js/modernizr.js"></script>
   </head>
   
   <body style="background-color:black;">
@@ -47,7 +47,7 @@
 
 
     <div class="row">
-      <center><img src="img/bannerAlt.png"></center>
+      <center><img src="/img/bannerAlt.png"></center>
     </div>
 
     <div class="row">
