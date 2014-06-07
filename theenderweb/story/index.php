@@ -52,14 +52,15 @@
 
     <div class="row">
       <div class="panel" style="padding-top: 20">
-        <h1>Hello</h1>
+        <h1>Teaser</h1>
         <hr>
-        <p>
-          Well hello there, welcome to my site. <br>
-          This site is home to my random projects and may include stuff from other people :) <br>
-          Use the links up the top or at the side or wherever I decide to throw them, to get to the other areas of my site. <br>
-          as you can probably tell at the moment theres not much on here, I know about it and I am adding more content when I have the time :) <br>
-        </p>
+        <pre>
+          *loud gasp*
+          I awake suddenly, body aching, in what appears to be a circular road. Completely disoriented I get myself to my feet and begin to wander to the sidewalk.
+          I look around; all I can see is dimly lit bits of what looks like a small residential district. I look up to see the sky; it's a full moon tonight.
+          "That's the last time I use that blasted vortex manipulator!" I say to myself. "I can't keep dying when it's not necessary...."
+          As I rest myself against a light post, I check my heartbeat locator and see a blip. "There he is...” I say to myself as I walk off in the direction of the blip.
+        </pre>
       </div>
     </div>
     
