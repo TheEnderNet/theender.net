@@ -49,9 +49,9 @@
             </div>
 
             <div class="large-4 columns panel" data-equalizer-watch>
-                <h2> Game title here</h2>
+                <h2> RC Revenge Pro </h2>
                 <hr>
-                <img src="../img/noimg.png">
+                <img src="http://upload.wikimedia.org/wikipedia/en/b/b4/RC_Revenge_Pro.gif" width="128" height="163"><a href="#" class="button tiny">&#8356;10</a>
                 <p>This is the best game in the world</p>
             </div>
 
