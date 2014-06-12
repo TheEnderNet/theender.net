@@ -10,6 +10,7 @@
 
   <body>
     <?php include "../resources/bannerAndNavbar.php"; ?>
+
     <div class="row">
         <div class="large-12 columns"> <h1><center> Recent additions </center></h1></div>
         <div class="large-6 columns panel">
@@ -23,6 +24,60 @@
             <hr>
             <img src="../img/noimg.png">
             <p>This is the start of a paragraph for teh Xbox content</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <a name="360">
+            <div class="large-12-centered panel"> <h1><center> Xbox 360 </center></h1></div>
+        </a>
+
+        <div class="large-4 columns panel">
+            <h2> Game title here </h2>
+            <hr>
+            <img src="../img/noimg.png">
+            <p>Game description here</p>
+        </div>
+
+        <div class="large-4 columns panel">
+            <h2> Game title here </h2>
+            <hr>
+            <img src="../img/noimg.png">
+            <p>Game description here</p>
+        </div>
+
+        <div class="large-4 columns panel">
+            <h2> Game title here </h2>
+            <hr>
+            <img src="../img/noimg.png">
+            <p>Game description here</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <a name="One">
+            <div class="large-12-centered panel"> <h1><center> Xbox One </center></h1></div>
+        </a>
+
+        <div class="large-4 columns panel">
+            <h2> Game title here </h2>
+            <hr>
+            <img src="../img/noimg.png">
+            <p>Game description here</p>
+        </div>
+
+        <div class="large-4 columns panel">
+            <h2> Game title here </h2>
+            <hr>
+            <img src="../img/noimg.png">
+            <p>Game description here</p>
+        </div>
+
+        <div class="large-4 columns panel">
+            <h2> Game title here </h2>
+            <hr>
+            <img src="../img/noimg.png">
+            <p>Game description here</p>
         </div>
     </div>
 
