@@ -29,7 +29,7 @@
 
     <div class="row">
         <a name="360">
-            <div class="large-12-centered panel"> <h1><center> Xbox 360 </center></h1></div>
+            <div class="large-12-centered"> <h1><center> Xbox 360 </center></h1></div>
         </a>
 
         <div class="large-4 columns panel">
@@ -56,7 +56,7 @@
 
     <div class="row">
         <a name="One">
-            <div class="large-12-centered panel"> <h1><center> Xbox One </center></h1></div>
+            <div class="large-12-centered"> <h1><center> Xbox One </center></h1></div>
         </a>
 
         <div class="large-4 columns panel">
