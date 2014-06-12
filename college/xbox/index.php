@@ -26,6 +26,7 @@
             <p>This is the start of a paragraph for teh Xbox content</p>
         </div>
     </div>
+    <br>
 
     <div class="row">
         <a name="360">
@@ -53,6 +54,7 @@
             <p>Game description here</p>
         </div>
     </div>
+    <br>
 
     <div class="row">
         <a name="One">
