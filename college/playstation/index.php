@@ -101,9 +101,9 @@
             </a>
 
             <div class="large-4 columns panel">
-                <h2> Game title here</h2>
+                <h2>Assassin's Creed Unity</h2>
                 <hr>
-                <img src="../img/noimg.png">
+                <img src="img/ACUnity.png">
                 <p>This is the best game in the world</p>
             </div>
 
