@@ -73,8 +73,9 @@
             <div class="large-4 columns panel">
                 <h2> Grand Theft Auto 5</h2>
                 <hr>
+                <img src="img/gta5.jpg" width="150" height="183">
                 <p>
-                <img src="img/gta5.jpg" width="150" height="183">This is the best game in the world
+                This is the best game in the world
                 </p>
             </div>
 
