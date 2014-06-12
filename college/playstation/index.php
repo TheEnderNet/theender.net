@@ -10,28 +10,28 @@
 
     <body>
         <?php include "../resources/bannerAndNavbar.php"; ?>
-        
+
         <div class="row"><!-- Recent additions section -->
             <div class="large-12 columns"> <h1><center> Recent additions </center></h1> </div><hr>
-            
+
             <div class="large-4 columns panel">
                 <a href="#2"><h2 style="color:blue"> PlayStation 2 </h2></a>
                 <hr>
                 <img src="img/dah2.jpg" width="128" height="163" alt="Errm, crap">
-                <p>This is the start of a paragraph for the PlayStation content</p>
+                <p>This is the start of a paragraph for the PlayStation 2 content</p>
             </div>
-            
+
             <div class="large-4 columns panel">
                 <a href="#3"><h2 style="color:green"> PlayStation 3 </h2></a>
                 <hr>
-                <img src="img/gta5.jpg" width="150" height="183" alt="Errm, crap">
-                <p>This is the start of a paragraph for the Xbox content</p>
+                <img src="img/gta5.jpg" width="128" height="163" alt="Errm, crap">
+                <p>This is the start of a paragraph for the Playstation 3 content</p>
             </div>
-            
+
             <div class="large-4 columns panel">
                 <a href="#4"><h2 style="color:red">Playstation 4 </h2></a>
                 <hr>
-                <p>This is the start of a paragraph for the PC content</p>
+                <p>This is the start of a paragraph for the Playstation 4 content</p>
             </div>
 
         </div>
@@ -74,7 +74,7 @@
                 <h2> Grand Theft Auto 5</h2>
                 <hr>
                 <p>
-                    <img src="img/gta5.jpg" width="150" height="183">This is the best game in the world
+                <img src="img/gta5.jpg" width="150" height="183">This is the best game in the world
                 </p>
             </div>
 
