@@ -123,9 +123,9 @@
 
         </div>
 
-        <script src="../js/vendor/jquery.js"></script>
-        <script src="../js/foundation/foundation.js"></script>
-        <script src="../js/foundation/foundation.equalizer.js"></script>
+        <script src="../resources/js/vendor/jquery.js"></script>
+        <script src="../resources/js/foundation/foundation.js"></script>
+        <script src="../resources/js/foundation/foundation.equalizer.js"></script>
         <script>
           $(document).foundation();
         </script>
