@@ -71,7 +71,7 @@
             </a>
 
             <div class="large-4 columns panel">
-                <h2> Grand Theft Auto 5</h2>
+                <h2>Grand Theft Auto 5</h2>
                 <hr>
                 <img src="img/gta5.jpg" width="150" height="183">
                 <p>
@@ -80,9 +80,9 @@
             </div>
 
             <div class="large-4 columns panel">
-                <h2> Game title here</h2>
+                <h2>Little Bit Planet 2</h2>
                 <hr>
-                <img src="../img/noimg.png">
+                <img src="http://upload.wikimedia.org/wikipedia/en/e/e7/Littlebigplanet2-boxart.jpg" width="150" height="183"><a href="#" class="button tiny">&#8356;25</a>
                 <p>This is the best game in the world</p>
             </div>
 
@@ -103,7 +103,7 @@
             <div class="large-4 columns panel">
                 <h2>Assassin's Creed Unity</h2>
                 <hr>
-                <img src="img/ACUnity.png"><a href="#" class="button tiny">&#8356;40</a>
+                <img src="img/ACUnity.png" width="128" height="163"><a href="#" class="button tiny">&#8356;40</a>
                 <p>This is the best game in the world</p>
             </div>
 
