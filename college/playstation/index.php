@@ -45,7 +45,7 @@
                 <h2> Destroy All Humans 2 </h2>
                 <hr>
                 <img src="img/dah2.jpg" width="128" height="163">
-                <p>This is the best game in the world</p>
+                <p>Make war, not love!</p>
             </div>
 
             <div class="large-4 columns panel" data-equalizer-watch>
@@ -56,9 +56,9 @@
             </div>
 
             <div class="large-4 columns panel" data-equalizer-watch>
-                <h2> Game title here</h2>
+                <h2> Grand Theft Auto III </h2>
                 <hr>
-                <img src="../img/noimg.png">
+                <img src="http://upload.wikimedia.org/wikipedia/en/thumb/b/be/GTA3boxcover.jpg/250px-GTA3boxcover.jpg" width="128" height="163">
                 <p>This is the best game in the world</p>
             </div>
 
