@@ -11,7 +11,7 @@
     <body>
         <?php include "../resources/bannerAndNavbar.php"; ?>
 
-        <div class="row"><!-- Recent additions section -->
+        <div class="row" data-equalizer><!-- Recent additions section -->
             <div class="large-12 columns"> <h1><center> Recent additions </center></h1> </div><hr>
 
             <div class="large-4 columns panel" data-equalizer-watch>
@@ -37,7 +37,7 @@
         </div>
         <br>
 
-        <div class="row"> <!-- 2 -->
+        <div class="row" data-equalizer> <!-- 2 -->
             <a name="2">
             <div class="large-12-centered columns"> <h1><center> Playstation 2 </center></h1> </div><hr>
             </a>
@@ -65,7 +65,7 @@
         </div>
         <br>
 
-        <div class="row"> <!-- 3 -->
+        <div class="row" data-equalizer> <!-- 3 -->
             <a name="3">
             <div class="large-12-centered columns"> <h1><center> Playstation 3 </center></h1> </div><hr>
             </a>
@@ -95,7 +95,7 @@
         </div>
         <br>
 
-        <div class="row"> <!-- 4 -->
+        <div class="row" data-equalizer> <!-- 4 -->
             <a name="4">
             <div class="large-12-centered columns"> <h1><center> Playstation 4 </center></h1> </div><hr>
             </a>
