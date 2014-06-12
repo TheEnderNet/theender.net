@@ -12,7 +12,7 @@
     <?php include "../resources/bannerAndNavbar.php"; ?>
 
     <div class="row">
-        <div class="large-12 columns"> <h1><center> Recent additions </center></h1></div>
+        <div class="large-12 columns"> <h1><center> Recent additions </center></h1></div><hr>
         <div class="large-6 columns panel">
             <a href="#360"><h2 style="color:blue"> Xbox 360 </h2></a>
             <hr>
@@ -30,7 +30,7 @@
 
     <div class="row">
         <a name="360">
-            <div class="large-12-centered"> <h1><center> Xbox 360 </center></h1></div>
+            <div class="large-12-centered"> <h1><center> Xbox 360 </center></h1></div><hr>
         </a>
 
         <div class="large-4 columns panel">
@@ -58,7 +58,7 @@
 
     <div class="row">
         <a name="One">
-            <div class="large-12-centered"> <h1><center> Xbox One </center></h1></div>
+            <div class="large-12-centered"> <h1><center> Xbox One </center></h1></div><hr>
         </a>
 
         <div class="large-4 columns panel">
