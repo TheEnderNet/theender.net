@@ -103,7 +103,7 @@
             <div class="large-4 columns panel">
                 <h2>Assassin's Creed Unity</h2>
                 <hr>
-                <img src="img/ACUnity.png"><a href="#" class="button tiny">&#8355;40</a>
+                <img src="img/ACUnity.png"><a href="#" class="button tiny">&#8356;40</a>
                 <p>This is the best game in the world</p>
             </div>
 
