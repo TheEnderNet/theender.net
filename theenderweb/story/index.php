@@ -52,7 +52,7 @@
 
     <div class="row">
       <div class="panel" style="padding-top: 20">
-        <h1>Teaser</h1>
+        <h1>Prolog</h1>
         <hr>
         <p>
           <b>*loud gasp*</b><br>
