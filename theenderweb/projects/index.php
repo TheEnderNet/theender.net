@@ -14,7 +14,7 @@
         <hr>
         <p style="color:white">
           Hello and welcome to a page on the interwebs that will tell you about the projects that I, JoshTheEnder, am currently working on.<br>
-          This page will serve as a place for me to put information related to stuff I work on. Though some projects may get a dedicated page if they become big enough. <?php echo getcwd(); ?>
+          This page will serve as a place for me to put information related to stuff I work on. Though some projects may get a dedicated page if they become big enough.
         </p>
     </div>
 

@@ -15,6 +15,12 @@
           <li><a href="http://superminor2.no-ip.org/">SuPeRMiNoR2</a></li>
         </ul>
       </li>
+      <?php 
+        if (getcwd() == "/home/znc/theenderweb") {
+          echo "<li><a href=\"/\">Back Home</a></li>"
+        }
+
+      ?>
     </ul>
 
     <!-- Left Nav Sesction -->
