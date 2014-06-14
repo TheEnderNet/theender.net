@@ -1,4 +1,4 @@
-<div class="row">
+
 	<h1 style="color:white">Back In Time</h1>
 	<hr>
 	<p style="color:white">
@@ -19,5 +19,5 @@
 		Ender: "Well, knowing EnderBot he probably managed to transverse the time stream. so now he's somewhere in 2014...."<br>
 		Kat: "Ohh dear......"<br>
 	</p>
-</div>
+
 <br>

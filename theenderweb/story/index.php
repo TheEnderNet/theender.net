@@ -27,22 +27,38 @@
     </div>
     <br>
 
-
-    <?php
-      $dir = "docs";
-      $files = array_diff(scandir($dir), array('..', '.'));
-      #print_r($files);
-      foreach ($files as $file) {
-        $myfile = fopen($dir."/".$file, "r") or die("Unable to open file!");
-        echo fread($myfile,filesize($dir."/".$file));
-        fclose($myfile);
-      };
-    ?>
+    <div class="row">
+      <ul class="orbit" data-orbit>
+        <?php
+          $dir = "docs";
+          $files = array_diff(scandir($dir), array('..', '.'));
+          #print_r($files);
+          foreach ($files as $file) {
+            $myfile = fopen($dir."/".$file, "r") or die("Unable to open file!");
+            echo "<li>".fread($myfile,filesize($dir."/".$file))."</li>";
+            fclose($myfile);
+          };
+        ?>
+      </ul>
+    </div>
     
     <script src="../_resources/js/vendor/jquery.js"></script>
     <script src="../_resources/js/foundation.min.js"></script>
     <script>
-      $(document).foundation();
+      $(document).foundation({
+          orbit: {
+              animation: 'slide',
+              next_on_click: true, 
+              animation_speed: 1500, 
+              stack_on_small: false,
+              navigation_arrows: true,
+              slide_number: false,
+              timer: false, 
+              variable_height: false, 
+              circular: false,
+              bullets: false
+          }
+      });
     </script>
   </body>
 </html>
