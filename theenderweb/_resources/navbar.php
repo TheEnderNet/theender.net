@@ -17,7 +17,7 @@
       </li>
       <?php 
         if (getcwd() == "/home/znc/theenderweb") {
-          echo "<li><a href=\"/\">Back Home</a></li>"
+          echo "<li><a href=\"/\">Back Home</a></li>";
         }
 
       ?>
