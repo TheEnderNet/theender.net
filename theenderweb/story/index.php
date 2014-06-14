@@ -12,7 +12,8 @@
     
     <?php include "../_resources/navbar.php"; ?>
     <div class="row">
-      <h1 style="color:white"><i>Foreword</i></h1><br>
+      <h1 style="color:white"><i>Foreword</i></h1>
+      <hr>
       <p style="color:white">
         This story is semi-based around ShadowKatStudios' story so I may link
         parts for you ( the reader ) to go read before hand. When I write the

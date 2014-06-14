@@ -26,6 +26,7 @@
           <li><a href="/projects/#EnderBot">EnderBot</a></li>
         </ul>
       </li>
+      <li><a href="/story/">Story Corner</a></li>
     </ul>
   </section>
 </nav>
