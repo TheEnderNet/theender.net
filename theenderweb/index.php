@@ -1,6 +1,6 @@
 <?php
   ini_set('display_errors','On');
-  $Title = "Josh | Home";
+  $Title = "Ender's Home";
   $PageName = "Ender's Lare"
 ?>
 <!doctype html>
