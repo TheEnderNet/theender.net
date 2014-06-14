@@ -13,7 +13,7 @@
     <?php include "../_resources/navbar.php"; ?>
     <div class="row">
       <h1 style="color:white"><i>Foreword</i></h1><br>
-      <p>
+      <p style="color:white">
         This story is semi-based around ShadowKatStudios' story so I may link
         parts for you ( the reader ) to go read before hand. When I write the
         story and post it up here, <b>it will not be in chronological order</b>.
@@ -22,7 +22,7 @@
         to indicate where abouts that chapter happens :)<br>Anyway, Ender out o/
       </p>
     </div>
-    <br><hr>
+    <br>
     <div class="row">
       <div class="panel" style="padding-top: 20">
         <h1>Prologue</h1>
