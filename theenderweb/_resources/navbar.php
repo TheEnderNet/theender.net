@@ -16,7 +16,7 @@
         </ul>
       </li>
       <?php 
-        if (getcwd() !== "/home/znc/www/theenderweb") {
+        if ($_SERVER['PHP_SELF'] !== "/index.php") {
           echo "<li><a href=\"/\">Back Home</a></li>";
         }
 

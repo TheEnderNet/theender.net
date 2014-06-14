@@ -12,17 +12,14 @@
     <?php include "_resources/navbar.php"; ?>
 
     <div class="row">
-      <div class="panel" style="padding-top: 20">
-        <h1>Hello</h1>
+        <h1 style="color:white">Hello</h1>
         <hr>
-        <p>
+        <p style="color:white">
           Well hello there, welcome to my site. <br>
           This site is home to my random projects and may include stuff from other people :) <br>
           Use the links up the top or at the side or wherever I decide to throw them, to get to the other areas of my site. <br>
           as you can probably tell at the moment theres not much on here, I know about it and I am adding more content when I have the time :) <br>
-          <?php echo $_SERVER['PHP_SELF']; ?>
         </p>
-      </div>
     </div>
     
     <script src="_resources/js/vendor/jquery.js"></script>
