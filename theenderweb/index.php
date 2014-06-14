@@ -6,10 +6,10 @@
 <!doctype html>
 <html class="no-js" lang="en">
   
-  <?php include"../_resources/header.php"; ?>
+  <?php include"_resources/header.php"; ?>
   
   <body style="background-color:black;">
-    <?php include "../_resources/navbar.php"; ?>
+    <?php include "_resources/navbar.php"; ?>
 
     <div class="row">
       <div class="panel" style="padding-top: 20">
@@ -24,8 +24,8 @@
       </div>
     </div>
     
-    <script src="../_resources/js/vendor/jquery.js"></script>
-    <script src="../_resources/js/foundation.min.js"></script>
+    <script src="_resources/js/vendor/jquery.js"></script>
+    <script src="_resources/js/foundation.min.js"></script>
     <script>
       $(document).foundation();
     </script>
