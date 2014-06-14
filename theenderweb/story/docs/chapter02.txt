@@ -1,0 +1,23 @@
+<div class="row">
+	<h1 style="color:white">Back In Time</h1>
+	<hr>
+	<p style="color:white">
+		Kat: "do you think it worked?"<br>
+		Ender: "I think so, we still have a problem though..."<br>
+		Kat: "and what would that be?"<br>
+		Ender: "The fact that there's a crack in time next to me perhaps?"<br>
+		Kat: "Ahh, that could be a problem. Do you know wher- I mean when it leads to?"<br>
+		Ender: "Somewhere in 2014 I'm guessing"<br>
+		Kat: "ahh, makes sense I guess"<br>
+		Ender: "I wonder....."<br>
+		Kat: "You wonder what?"<br>
+		Ender: "If I could use it to go back in time..... EnderBot, analyse that crack... EnderBot?!"<br>
+		<br>
+		I look around to where EnderBot used to be but he's not there.<br>
+		Ender: "Ermmm, that's not good..."<br>
+		Kat: "What?"<br>
+		Ender: "Well, knowing EnderBot he probably managed to transverse the time stream. so now he's somewhere in 2014...."<br>
+		Kat: "Ohh dear......"<br>
+	</p>
+</div>
+<br>
