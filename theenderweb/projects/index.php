@@ -30,8 +30,8 @@
         I'm currently still putting thoughts and ideas together on what exactly I want to have in it so there's no actual version of the mod in some form at this current time.<br>
         The main things I definitly know i want it (the mod in gneral) to do are:
         <ul>
-          <li>Run on RF (Redstone Flux from Thermal Expansion 3)</li>
-          <li>Be able to be contolled by an upcomming feature in a later version of a mod called StargateTech (see <a href="#EnderBot">EnderBot's info</a> below)</li>
+          <li style="color:white">Run on RF (Redstone Flux from Thermal Expansion 3)</li>
+          <li style="color:white">Be able to be contolled by an upcomming feature in a later version of a mod called StargateTech (see <a href="#EnderBot">EnderBot's info</a> below)</li>
         </ul>
       </p>
     </div>
@@ -48,26 +48,24 @@
     </div>
 
     <div class="row">
-      <div class="panel" style="padding-top:20">
-        <a name="GMod"></a>
-        <h1>Garrys Mod</h1>
-        <hr>
-        <h2>Starfall</h2>
-        <p>
-          For those of you who don't know what Starfall is, it's an addon for GMod/WireMod that adds in programable chips similar to those of Expression 2 (E2) however the code for these 'chips' is written in Lua.<br> 
-          Not many servers run Starfall but the server I play on (<a href="http://teamscm.co.uk/">TSCM</a>) has it installed so \o/. <br>
-          You can find my Starfall scripts on their own page (<a href="scripts.html#Starfall">LINK</a>)
-        </p>
-        <hr>
-        <h2>Ships</h2>
-        <p>
-          Nothing here yet, I did have some truly magnificent ships but they have since been lost due to computer resets or data loss. :(
-        </p>
-      </div>
+      <a name="GMod"></a>
+      <h1 style="color:white">Garrys Mod</h1>
+      <hr>
+      <h2 style="color:white">Starfall</h2>
+      <p style="color:white">
+        For those of you who don't know what Starfall is, it's an addon for GMod/WireMod that adds in programable chips similar to those of Expression 2 (E2) however the code for these 'chips' is written in Lua.<br> 
+        Not many servers run Starfall but the server I play on (<a href="http://teamscm.co.uk/">TSCM</a>) has it installed so \o/. <br>
+        You can find my Starfall scripts on their own page (<a href="scripts.html#Starfall">LINK</a>)
+      </p>
+      <hr>
+      <h2 style="color:white">Ships</h2>
+      <p style="color:white">
+        Nothing here yet, I did have some truly magnificent ships but they have since been lost due to computer resets or data loss. :(
+      </p>
     </div>
     
-    <script src="../js/vendor/jquery.js"></script>
-    <script src="../js/foundation.min.js"></script>
+    <script src="../_resources/js/vendor/jquery.js"></script>
+    <script src="../_resources/js/foundation.min.js"></script>
     <script>
       $(document).foundation();
     </script>
