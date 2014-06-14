@@ -8,6 +8,10 @@
   <section class="top-bar-section">
     <!-- Right Nav Section -->
     <ul class="right">
+      <?php if ($_SERVER['PHP_SELF'] !== "/index.php") {
+        echo "<li><a href=\"/\" style=\"color:green\">Back Home</a></li>";
+        }
+      ?>
       <li class="has-dropdown">
         <a href="#">Sites</a>
         <ul class="dropdown">
@@ -15,12 +19,6 @@
           <li><a href="http://superminor2.no-ip.org/">SuPeRMiNoR2</a></li>
         </ul>
       </li>
-      <?php 
-        if ($_SERVER['PHP_SELF'] !== "/index.php") {
-          echo "<li><a href=\"/\">Back Home</a></li>";
-        }
-
-      ?>
     </ul>
 
     <!-- Left Nav Sesction -->
