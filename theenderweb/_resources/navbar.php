@@ -16,7 +16,7 @@
         </ul>
       </li>
       <?php 
-        if (getcwd() == "/home/znc/theenderweb") {
+        if (getcwd() != "/home/znc/theenderweb") {
           echo "<li><a href=\"/\">Back Home</a></li>";
         }
 
