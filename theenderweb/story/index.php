@@ -11,7 +11,18 @@
   <body style="background-color:black">
     
     <?php include "../_resources/navbar.php"; ?>
-
+    <div class="row">
+      <h1 style="color:white"><i>Foreword</i></h1><br>
+      <p>
+        This story is semi-based around ShadowKatStudios' story so I may link
+        parts for you ( the reader ) to go read before hand. When I write the
+        story and post it up here, <b>it will not be in chronological order</b>.
+        If you have ever played <i>Beyond: Two Souls</i> on the PS3 then my
+        uploading style may be similar to that. I will post a 'timeline' picture
+        to indicate where abouts that chapter happens :)<br>Anyway, Ender out o/
+      </p>
+    </div>
+    <br><hr>
     <div class="row">
       <div class="panel" style="padding-top: 20">
         <h1>Prologue</h1>
