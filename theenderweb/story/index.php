@@ -54,7 +54,7 @@
               navigation_arrows: true,
               slide_number: false,
               timer: false, 
-              variable_height: true, 
+              variable_height: false, 
               circular: false,
               bullets: false
           }
