@@ -3,6 +3,7 @@
   <hr>
   <p> <img src="../_resources/img/story/prologue.png"></p><hr>
   <p style="color:white">
+    <i><b style="color:green">Current date: Unknown</b></i><br>
     <b>*loud gasp*</b><br>
     I awake suddenly, body aching, in what appears to be a circular road.<br>
     Completely disoriented I get myself to my feet and begin to wander to the sidewalk. <br>

@@ -3,6 +3,7 @@
 	<hr>
 	<p> <img src="../_resources/img/story/backintime.png"></p><hr>
 	<p style="color:white">
+		<i><b style="color:green">Current date 31/5/2024</b></i><br>
 		Kat: "do you think it worked?"<br>
 		Ender: "I think so, we still have a problem though..."<br>
 		Kat: "and what would that be?"<br>
@@ -18,7 +19,24 @@
 		Ender: "Ermmm, that's not good..."<br>
 		Kat: "What?"<br>
 		Ender: "Well, knowing EnderBot he probably managed to transverse the time stream. so now he's somewhere in 2014...."<br>
-		Kat: "Ohh dear......"<br>
+		Kat: "Ohh dear......"<br><br>
+		For a moment there is silence.<br>
+		Ender: "Uhoh...."<br>
+		Shadow: "What is it now?"<br>
+		Ender: "This is bad, this is very bad....."<br>
+		Kat: "What are you talking about?"<br>
+		Shadow: "Yeah, we managed to save me. I am still here, arn't I?"<br>
+		Ender: "That's entirely the problem. We've managed to distrupt the norm that is the SpaceTime Continuum."<br>
+		Shadow: "How do you know?"<br>
+		<i>A moment of silence passes</i><br>
+		Ender: "Because I can feel it. You know the feeling you get when you're lost, afraid, scared because of the fact that you don't know what's happening?"<br>
+		Shadow+Kat: "Yeah?...."<br>
+		Ender: "I'm feeling that right now, and I wasn't before we messed with the timestreams...."<br>
+		Ender: "I'm about to do something incredibly dangerous. Meet me back here in about a month!"<br>
+		Kat: "What are you about to do and why is it dangerous?"<br>Shadow: "And why a month?"<br>
+		Ender: "Trust me..."<br>
+		<i>The instant I finish that sentance there is a bright flash of light and a loud 'bang' as I disappear into the time rift</i><br>
+		Kat: "Well, I was not expecting that..."<br>Shadow: "Okay, I get why he said a month now"
 	</p>
 
 <br>
