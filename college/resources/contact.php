@@ -46,6 +46,14 @@
         <div class="large-2 columns"><hr></div>
       </div>
 
+      <div class="row">
+        <div class="large-8 columns">
+          <label>Feedback area
+            <textarea placeholder="Feedback"></textarea>
+          </label>
+        </div>
+      </div>
+
 
 
     </form>
