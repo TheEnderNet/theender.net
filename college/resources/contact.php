@@ -52,7 +52,7 @@
           <label>Feedback area
             <textarea placeholder="Feedback"></textarea>
           </label>
-          <input type="submit" value="Submit">
+          <input type="submit" class="button" value="Submit">
         </div>
         <div class="large-2 columns"><hr></div>
       </div>
