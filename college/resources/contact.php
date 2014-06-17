@@ -28,7 +28,13 @@
           </div>
           <div class="large-3 columns">
             <label>Section
-              <input type="text" placeholder="Home" />
+              <select>
+                <option value="Home">Home</option>
+                <option value="Playstation">Playstation</option>
+                <option value="Xbox">Xbox</option>
+                <option value="Pc">Pc</option>
+                <option value="Contact">Contact</option>
+              </select>
             </label>
           </div>
           <div class="large-5 columns">
@@ -39,6 +45,9 @@
         </div>
         <div class="large-2 columns"></div>
       </div>
+
+
+
     </form>
   </body>
 </html>
