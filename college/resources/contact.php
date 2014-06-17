@@ -19,7 +19,7 @@
 
     <form>
       <div class="row">
-        <div class="large-2 columns"></div>
+        <div class="large-2 columns"><hr></div>
         <div class="large-8 columns panel">
           <div class="large-3 columns">
             <label>Name
@@ -43,7 +43,7 @@
             </label>
           </div>
         </div>
-        <div class="large-2 columns"></div>
+        <div class="large-2 columns"><hr></div>
       </div>
 
 
