@@ -19,7 +19,8 @@
 
     <form>
       <div class="row">
-        <div class="large-8-centered columns panel">
+        <div class="large-2 columns"></div>
+        <div class="large-8 columns panel">
           <div class="large-2 columns">
             <label>Name
               <input type="text" />
@@ -36,6 +37,7 @@
             </label>
           </div>
         </div>
+        <div class="large-2 columns"></div>
       </div>
     </form>
   </body>
