@@ -19,7 +19,7 @@
 
     <form>
       <div class="row">
-        <div class="large-8-centered columns">
+        <div class="large-8-centered columns panel">
           <div class="large-2 columns">
             <label>Name
               <input type="text" />
