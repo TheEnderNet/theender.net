@@ -52,8 +52,8 @@
           <label>Feedback area
             <textarea placeholder="Feedback"></textarea>
           </label>
-          <input type="submit" class="button expanded" value="Submit">
-          <input type="reset" class="button alert expanded" value="Reset">
+          <input type="submit" class="button [expanded]" value="Submit">
+          <input type="reset" class="button [alert expanded]" value="Reset">
         </div>
         <div class="large-2 columns"><hr></div>
       </div>
