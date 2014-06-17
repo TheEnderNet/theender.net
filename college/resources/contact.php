@@ -21,12 +21,12 @@
       <div class="row">
         <div class="large-2 columns panel"></div>
         <div class="large-8 columns panel">
-          <div class="large-2 columns">
+          <div class="large-3 columns">
             <label>Name
               <input type="text" />
             </label>
           </div>
-          <div class="large-2 columns">
+          <div class="large-3 columns">
             <label>Section
               <input type="text" placeholder="Home" />
             </label>
