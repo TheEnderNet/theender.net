@@ -19,20 +19,22 @@
 
     <form>
       <div class="row">
-        <div class="large-2 columns">
-          <label>Name
-            <input type="text" />
-          </label>
-        </div>
-        <div class="large-2 columns">
-          <label>Section
-            <input type="text" placeholder="Home" />
-          </label>
-        </div>
-        <div class="large-4 columns">
-          <label>Contact back Email
-            <input type="text" placeholder="Someone@something.co.uk" />
-          </label>
+        <div class="large-8 columns">
+          <div class="large-2 columns">
+            <label>Name
+              <input type="text" />
+            </label>
+          </div>
+          <div class="large-2 columns">
+            <label>Section
+              <input type="text" placeholder="Home" />
+            </label>
+          </div>
+          <div class="large-4 columns">
+            <label>Contact back Email
+              <input type="text" placeholder="Someone@something.co.uk" />
+            </label>
+          </div>
         </div>
       </div>
     </form>
