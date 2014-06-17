@@ -31,7 +31,7 @@
               <input type="text" placeholder="Home" />
             </label>
           </div>
-          <div class="large-3 columns">
+          <div class="large-5 columns">
             <label>Contact back Email
               <input type="text" placeholder="Someone@something.co.uk" />
             </label>
