@@ -15,7 +15,7 @@
       <div class="large-12 columns"> <h1><center>Contact</center></h1> </div><hr></div>
     </div>
 
-    
+
 
     <form>
       <div class="row">
@@ -27,8 +27,18 @@
       </div>
 
       <div class="row">
-        
+        <div class="large-4 columns">
+          <label>Section
+            <input type="text" placeholder="Home" />
+          </label>
+        </div>
+        <div class="large-4 columns">
+          <label>Contact back Email
+            <input type="text" placeholder="Someone@something.co.uk" />
+          </label>
+        </div>
       </div>
     </form>
   </body>
 </html>
+
