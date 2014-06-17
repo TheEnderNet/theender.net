@@ -27,6 +27,12 @@
     </div>
 
     <div class="row">
+        <a name="pc">
+            <div class="large-12-centered">
+                <h1><center>PC</center></h1>
+                <hr>
+            </div>
+        </a>
 
         <div class="large-4 columns panel">
             <h2>game title here</h2>
