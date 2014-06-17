@@ -19,12 +19,12 @@
 
     <form>
       <div class="row">
-        <div class="large-4 columns">
+        <div class="large-2 columns">
           <label>Name
             <input type="text" />
           </label>
         </div>
-        <div class="large-4 columns">
+        <div class="large-2 columns">
           <label>Section
             <input type="text" placeholder="Home" />
           </label>
