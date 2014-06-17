@@ -31,7 +31,7 @@
   <area shape="rect" coords="154,14,394,60" href="/playstation" alt="playstation">
   <area shape="rect" coords="402,14,532,60" href="/xbox" alt="xbox">
   <area shape="rect" coords="536,14,611,60" href="/pc" alt="pc">
-  <area shape="rect" coords="628,14,788,60" href="/contact" alt="contact">
+  <area shape="rect" coords="628,14,788,60" href="/resources/college.php" alt="contact">
 </map>
 
 <div class="row">
