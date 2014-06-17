@@ -47,11 +47,13 @@
       </div>
 
       <div class="row">
-        <div class="large-8 columns">
+        <div class="large-2 columns"><hr></div>
+        <div class="large-8 columns panel">
           <label>Feedback area
             <textarea placeholder="Feedback"></textarea>
           </label>
         </div>
+        <div class="large-2 columns"><hr></div>
       </div>
 
 
