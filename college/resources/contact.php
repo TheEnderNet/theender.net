@@ -12,19 +12,23 @@
     <?php include "bannerAndNavbar.php"; ?>
 
     <div class="row">
-        <div class="large-12 columns"> <h1><center>Recent additions</center></h1> </div><hr>
-        <div class="large-4 columns panel">
-            <h2 style="color:blue">Game title here</h2>
-            <p>This is the start of a paragraph for the content</p>
-        </div>
-        <div class="large-4 columns panel">
-            <h2 style="color:green">Game title here</h2>
-            <p>This is the start of a paragraph for the Xbox content</p>
-        </div>
-        <div class="large-4 columns panel">
-            <h2 style="color:red">Game title here</h2>
-            <p>This is the start of a paragraph for the PC content</p>
-        </div>
+      <div class="large-12 columns"> <h1><center>Contact</center></h1> </div><hr></div>
     </div>
+
+    
+
+    <form>
+      <div class="row">
+        <div class="large-12 columns">
+          <label>
+            <input type="text" />
+          </label>
+        </div>
+      </div>
+
+      <div class="row">
+        
+      </div>
+    </form>
   </body>
 </html>
