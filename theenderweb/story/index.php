@@ -22,7 +22,10 @@
         story and post it up here, <b>it will not be in chronological order</b>.
         If you have ever played <i>Beyond: Two Souls</i> on the PS3 then my
         uploading style may be similar to that. I will post a 'timeline' picture
-        to indicate where abouts that chapter happens :)<br>Anyway, Ender out o/
+        to indicate where abouts that chapter happens :)<br>
+        Also some of the characters may be based on people I know in real life; If your character does
+        something unlike real life, just remember that it's fiction :)<br>
+        Anyway, Ender out o/
       </p>
     </div>
     <br>
