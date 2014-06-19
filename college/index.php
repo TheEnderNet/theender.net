@@ -16,7 +16,7 @@
             <h2 style="color:blue">Playstation</h2>
             <h3>Grand Theft Auto 5</h3>
             <hr>
-            <img src="img/gta5.jpg" width="150" height="183">
+            <img src="playstation/img/gta5.jpg" width="150" height="183">
             <p>This is the best game in the world</p>
         </div>
         <div class="large-4 columns panel">
