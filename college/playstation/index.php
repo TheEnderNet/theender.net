@@ -44,21 +44,21 @@
             <div class="large-4 columns panel" data-equalizer-watch>
                 <h2> Destroy All Humans 2 </h2>
                 <hr>
-                <img src="img/dah2.jpg" width="128" height="163">
+                <img src="img/dah2.jpg" width="128" height="163"><a href="" class="button tiny">&#8356;15</a>
                 <p>Make war, not love!</p>
             </div>
 
             <div class="large-4 columns panel" data-equalizer-watch>
                 <h2> RC Revenge Pro </h2>
                 <hr>
-                <img src="http://upload.wikimedia.org/wikipedia/en/b/b4/RC_Revenge_Pro.gif" width="128" height="163"><a href="#" class="button tiny">&#8356;10</a>
+                <img src="http://upload.wikimedia.org/wikipedia/en/b/b4/RC_Revenge_Pro.gif" width="128" height="163"><a href="" class="button tiny">&#8356;10</a>
                 <p>This is the best game in the world</p>
             </div>
 
             <div class="large-4 columns panel" data-equalizer-watch>
                 <h2> Grand Theft Auto III </h2>
                 <hr>
-                <img src="http://upload.wikimedia.org/wikipedia/en/thumb/b/be/GTA3boxcover.jpg/250px-GTA3boxcover.jpg" width="128" height="163">
+                <img src="http://upload.wikimedia.org/wikipedia/en/thumb/b/be/GTA3boxcover.jpg/250px-GTA3boxcover.jpg" width="128" height="163"><a href="" class="button tiny">&#8356;15</a>
                 <p>This is the best game in the world</p>
             </div>
 
@@ -73,10 +73,8 @@
             <div class="large-4 columns panel" data-equalizer-watch>
                 <h2>Grand Theft Auto 5</h2>
                 <hr>
-                <img src="img/gta5.jpg" width="150" height="183">
-                <p>
-                This is the best game in the world
-                </p>
+                <img src="img/gta5.jpg" width="150" height="183"><a href="" class="button tiny">&#8356;25</a>
+                <p>This is the best game in the world</p>
             </div>
 
             <div class="large-4 columns panel" data-equalizer-watch>
@@ -89,7 +87,7 @@
             <div class="large-4 columns panel" data-equalizer-watch>
                 <h2> Game title here</h2>
                 <hr>
-                <img src="../img/noimg.png">
+                <img src="../img/noimg.png"><a href="" class="button tiny">&#8356;0</a>
                 <p>This is the best game in the world</p>
             </div>
         </div>
@@ -110,14 +108,14 @@
             <div class="large-4 columns panel" data-equalizer-watch>
                 <h2> Game title here</h2>
                 <hr>
-                <img src="../img/noimg.png">
+                <img src="../img/noimg.png"><a href="" class="button tiny">&#8356;0</a>
                 <p>This is the best game in the world</p>
             </div>
 
             <div class="large-4 columns panel" data-equalizer-watch>
                 <h2> Game title here</h2>
                 <hr>
-                <img src="../img/noimg.png">
+                <img src="../img/noimg.png"><a href="" class="button tiny">&#8356;0</a>
                 <p>This is the best game in the world</p>
             </div>
 
