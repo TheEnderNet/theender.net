@@ -36,21 +36,21 @@
         <div class="large-4 columns panel">
             <h2> Game title here </h2>
             <hr>
-            <img src="../img/noimg.png">
+            <img src="../img/noimg.png"><a href="" class="button tiny">&#8356;0</a>
             <p>Game description here</p>
         </div>
 
         <div class="large-4 columns panel">
             <h2> Game title here </h2>
             <hr>
-            <img src="../img/noimg.png">
+            <img src="../img/noimg.png"><a href="" class="button tiny">&#8356;0</a>
             <p>Game description here</p>
         </div>
 
         <div class="large-4 columns panel">
             <h2> Game title here </h2>
             <hr>
-            <img src="../img/noimg.png">
+            <img src="../img/noimg.png"><a href="" class="button tiny">&#8356;0</a>
             <p>Game description here</p>
         </div>
     </div>
@@ -64,21 +64,21 @@
         <div class="large-4 columns panel">
             <h2> Game title here </h2>
             <hr>
-            <img src="../img/noimg.png">
+            <img src="../img/noimg.png"><a href="" class="button tiny">&#8356;0</a>
             <p>Game description here</p>
         </div>
 
         <div class="large-4 columns panel">
             <h2> Game title here </h2>
             <hr>
-            <img src="../img/noimg.png">
+            <img src="../img/noimg.png"><a href="" class="button tiny">&#8356;0</a>
             <p>Game description here</p>
         </div>
 
         <div class="large-4 columns panel">
             <h2> Game title here </h2>
             <hr>
-            <img src="../img/noimg.png">
+            <img src="../img/noimg.png"><a href="" class="button tiny">&#8356;0</a>
             <p>Game description here</p>
         </div>
     </div>
