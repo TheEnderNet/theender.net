@@ -1,15 +1,15 @@
 <?php
   ini_set('display_errors','On');
-  $Title = "Ender's Home";
-  $PageName = "Ender's Lare"
+  $Title = "OCJam";
+  $PageName = "OCJam"
 ?>
 <!DOCTYPE HTML>
 <html class="no-js" lang="en">
   
-  <?php include"_resources/header.php"; ?>
+  <?php include"../_resources/header.php"; ?>
   
   <body style="background-color:black;">
-    <?php include "_resources/navbar.php"; ?>
+    <?php include "../_resources/navbar.php"; ?>
 
     <div class="row">
       <h1 style="color:white">Hello</h1>
