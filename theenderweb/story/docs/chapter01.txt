@@ -1,5 +1,6 @@
 
   <h1 style="color:white">Prologue</h1>
+  <p style="color:gray"><i>Chapter 1</i></p>
   <hr>
   <p> <img src="../_resources/img/story/prologue.png"></p><hr>
   <p style="color:white">

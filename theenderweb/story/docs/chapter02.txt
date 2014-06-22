@@ -1,5 +1,6 @@
 
 	<h1 style="color:white">Back In Time</h1>
+	<p style="color:gray"><i>Chapter 2</i></p>
 	<hr>
 	<p> <img src="../_resources/img/story/backintime.png"></p><hr>
 	<p style="color:white">
