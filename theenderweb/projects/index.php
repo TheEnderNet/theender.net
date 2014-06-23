@@ -26,12 +26,14 @@
         Ok, so. LaserCraft. Well, for starters it's going to be a mod for Minecraft.
         The main concept of it (Lasers) I got from an old mod called LaserMod (or The
         Laser Mod, can't remember what one it was) which hasnt been updated since MC 1.2.5. 
-        I loved that mod, you could do so many cool thinks with it. So that's the basic idea for LaserCraft, that and the fact that lasers are awesome in general :). <br>
-        I'm currently still putting thoughts and ideas together on what exactly I want to have in it so there's no actual version of the mod in some form at this current time.<br>
-        The main things I definitly know i want it (the mod in gneral) to do are:
+        I loved that mod, you could do so many cool things with it. <br>
+        So that's the basic idea for LaserCraft, that and the fact that lasers are awesome in general :). <br>
+        <del>I'm currently still putting thoughts and ideas together on what exactly I want to have in it so there's no actual version of the mod in some form at this current time.</del>
+        Eh, I've started it. Check out it's own page(s) <a href="/lasercraft/">here</a>.<br>
+        The main things I definitly know I want it (the mod in gneral) to do are:
         <ul>
           <li style="color:white">Run on RF (Redstone Flux from Thermal Expansion 3)</li>
-          <li style="color:white">Be able to be contolled by an upcomming feature in a later version of a mod called StargateTech (see <a href="#EnderBot">EnderBot's info</a> below)</li>
+          <li style="color:white">Have some sort of interaction with <a href="http://mod-stargatetech.com">StargateTech 2's</a> Abstract Bus system.</li>
         </ul>
       </p>
     </div>
