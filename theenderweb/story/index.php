@@ -5,12 +5,12 @@
   ini_set("log_errors", 1);
   ini_set("error_log", "./php-error.log");
 ?>
-<!doctype html>
+<!DOCTYPE HTML>
 <html class="no-js" lang="en">
 
   <?php include"../_resources/header.php"; ?>
 
-  <body style="background-color:black">
+  <body style="background-color:black;background-image:url('../_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     
     <?php include "../_resources/navbar.php"; ?>
     <div class="row">
