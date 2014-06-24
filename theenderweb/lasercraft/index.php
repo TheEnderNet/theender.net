@@ -21,7 +21,7 @@
         It adds, as the name suggests, lasers to Minecraft. This page (and other pages along this path) will have information about the mod.<br>
         For now it'll be an empty shell until the first initial release :)<br>
         If you want to come chat with me and see the progress I make, come on the IRC channel 
-        <a href="http://webchat.esper.net/?channels=LaserCraft&prompt=1" target="_blank">#LaserCraft @ irc.esper.net</a>
+        <a href="http://webchat.esper.net/?nick=SiteUser..&channels=LaserCraft&prompt=1" target="_blank">#LaserCraft @ irc.esper.net</a>
         (that is a link to the esper webchat, if you have a desktop client and are connected to esper just do /join #LaserCraft )
       </p>
     </div>
