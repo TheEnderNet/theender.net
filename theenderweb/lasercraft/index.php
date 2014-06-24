@@ -14,7 +14,7 @@
     
     <?php include "../_resources/navbar.php"; ?>
     <div class="row">
-      <h1 style="color:white"><center>Well, what <i>is</i> LaserCraft?</center></h1>
+      <h1 style="color:white">Well, what <i>is</i> LaserCraft?</h1>
       <hr>
       <p style="color:white">
         LaserCraft is a modification for Minecraft made by me (JoshTheEnder).<br>
@@ -26,6 +26,15 @@
       </p>
     </div>
     <br>
+
+    <div class="row">
+      <h2 style="color:white">Screenshots</h2>
+      <hr>
+      <p style="color:white">
+        <img src="http://puu.sh/9IeS2/0a727efefc.jpg"><br>
+        I'll fix the name later but \o/ lens item :)
+      </p>
+    </div>
        
     <script src="../_resources/js/vendor/jquery.js"></script>
     <script src="../_resources/js/foundation.min.js"></script>
