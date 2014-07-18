@@ -31,6 +31,7 @@
         </ul>
       </li>
       <li><a href="/story/">Story Corner</a></li>
+      <li><a href="/lasercraft/">LaserCraft</a></li>
     </ul>
   </section>
 </nav>
