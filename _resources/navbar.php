@@ -31,7 +31,12 @@
         </ul>
       </li>
       <li><a href="/story/">Story Corner</a></li>
-      <li><a href="/lasercraft/">LaserCraft</a></li>
+      <li class="has-dropdown">
+        <a href="#">Mods</a>
+        <ul class="dropdown">
+          <li><a href="/lasercraft/">LaserCraft</a></li>
+        </ul>
+      </li>
     </ul>
   </section>
 </nav>
