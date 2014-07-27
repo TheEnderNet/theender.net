@@ -1,5 +1,6 @@
 <div class="row">
 	<h1 style="color:white">Be all my sins remember'd</h1>
+	<p style="color:gray">Posted Sun, 15th of June, 2014</p>
 	<hr>
 	<p style="color:white">
 		Today, Sunday the 15th of June. My Father's cat, Collumbia, passed away at the old age of 16.<br>

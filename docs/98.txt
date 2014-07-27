@@ -1,0 +1,23 @@
+<div class="row">
+	<h1 style="color:white">Decisions and updates of stuff</h1>
+	<p style="color:gray">Posted Sun, 27th of July, 2014</p>
+	<hr>
+	<p style="color:white">
+		It just occured to me that my story needs a name but I cant think of any good ones :/ If you have a suggestion send it to me using one of my many means of contact :)<br>
+	</p>
+	<h2 style="color:white">LaserCraft</h2>
+	<p style="color:white">
+		Development is going slow at the moment, mainly because my main playing version is 1.6 and I don't want to attempt to backport so meh. 
+		Once ThermalExpansion is out for 1.7 I'll probably continue it (because then I'll be able to use the power system and LordFokas' StargateTech will also be released
+		so I can use the abstract bus system from that \o/ )<br>
+	</p>
+	<h2 style="color:white">Story</h2>
+	<p style="color:white">
+		I released chapter 4.2 yesterday \o/<br>
+		The next segment will probably be the last of the 4.x range and after that the chapters will probably start being semi random again.<br>
+		I have also been thinking about converging with ShadowKatStudios' Hexadecimal based calendar system and writing chapters to go with that 
+		but I haven't set anything in stone yet. I'm also not sure how I'll go about doing the hex-based chapters.<br>
+		Here, have an interesting gif I found today<br>
+		<img src="http://i.imgur.com/CBBXOIa.gif">That's probably all for now, Ender out o/
+	</p>
+</div>
