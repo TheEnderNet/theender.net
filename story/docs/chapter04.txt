@@ -3,7 +3,7 @@
 <hr>
 <p> <img src="../_resources/img/story/longsleep.png"></p><hr>
 <p style="color:white">
-    <i><b style="color:green">Current date: 1/6/2014 1200 hours</b></i><br>
+    <i><b style="color:green;font-family:'Audiowide'">Current date: 1/6/2014 1200 hours</b></i><br>
     Ender: "Urghh, morning EnderBot"<br>
     Bot: "I would say the same back to you but it's literally just turned noon" <br>
     Ender: "wow, I guess that time jumping drained a lot of energy from me"<br>

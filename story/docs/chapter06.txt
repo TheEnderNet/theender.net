@@ -4,7 +4,7 @@
 <p> <img src="../_resources/img/story/protocol2471.png"></p><hr>
 <p style="color:white">
 	<i>This chapter continues right from 4.2</i>
-    <i><b style="color:green">Current date: 15/6/2014 1430 hours</b></i><br>
+    <i><b style="color:green;font-family:'Audiowide'">Current date: 15/6/2014 1430 hours</b></i><br>
     Bot: "Oh, one last thing!"<br>
     Ender: "What?"<br>
     Bot: "So long and thanks for all the fish...."<br>

@@ -3,7 +3,7 @@
 <hr>
 <p> <img src="../_resources/img/story/protocol2471.png"></p><hr>
 <p style="color:white">
-    <i><b style="color:green">Current date: 15/6/2014 1400 hours</b></i><br>
+    <i><b style="color:green;font-family:'Audiowide'">Current date: 15/6/2014 1400 hours</b></i><br>
     Ender: "Right, should be ready to go"<br>
     Bot: "Initialization commencing"<br>
     Sparks suddenly erupted from the data terminal connectors of the satellite uplink device I had just spent a good 3-4 hours crafting together.<br>
