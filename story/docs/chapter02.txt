@@ -4,6 +4,7 @@
 	<hr>
 	<p> <img src="../_resources/img/story/backintime.png"></p><hr>
 	<p style="color:white">
+		<i><b style="color:red">This chapter continues on from 2.5/2.6 of SKS' story (link above)</b></i>
 		<i><b style="color:green">Current date 31/5/2024</b></i><br>
 		Kat: "do you think it worked?"<br>
 		Ender: "I think so, we still have a problem though..."<br>

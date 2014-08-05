@@ -17,7 +17,7 @@
       <h1 style="color:white"><i>Foreword</i></h1>
       <hr>
       <p style="color:white">
-        This story is semi-based around ShadowKatStudios' story so I may link
+        This story is semi-based around ShadowKatStudios' story (<a href="http://shadowkatstudios.gweb.io/story/index.htm">LINK</a>) so I may link
         parts for you ( the reader ) to go read before hand. When I write the
         story and post it up here, <b>it <del>will</del> <i>may</i> not be in chronological order</b>.
         If you have ever played <i>Beyond: Two Souls</i> on the PS3 then my
