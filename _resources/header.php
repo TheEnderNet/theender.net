@@ -4,4 +4,5 @@
     <title><?php echo $Title ?></title>
     <link rel="stylesheet" href="../_resources/css/foundation.css" />
     <script src="../_resources/js/modernizr.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Audiowide|Rock+Salt' rel='stylesheet' type='text/css'>
   </head>
