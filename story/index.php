@@ -13,7 +13,7 @@
   <body style="background-color:black;background-image:url('../_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     
     <?php include "../_resources/navbar.php"; ?>
-    <div class="row"><h1 style="color:white;font-family:'Rock Salt'"><center>The Ender's Game</center></h1></div>
+    <div class="row"><h1 style="color:white;font-family:'Rock Salt'"><center>The Ender's Game</center></h1><hr></div>
     <div class="row">
       <h1 style="color:white"><i>Foreword</i></h1>
       <hr>
