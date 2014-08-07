@@ -12,7 +12,7 @@
     <?php include "_resources/navbar.php"; ?>
 
     <div class="row">
-      <h1 style="color:white;font-family:'Rock Salt'"><center>Hello</center></h1>
+      <h1 style="color:white;font-family:'Rock Salt'"><center><b>Hello</b></center></h1>
       <hr>
       <p style="color:white">
         Well hello there, welcome to my site.<br>
@@ -22,7 +22,7 @@
       </p>
     </div>
     
-    <div class="row"><hr><center><h1 style="color:white;font-family:'Rock Salt'">News Be Below</h1></center><hr></div>
+    <div class="row"><center><b><h1 style="color:white;font-family:'Rock Salt'">News Be Below</h1><b></center><hr></div>
 
     <?php
       $dir = "docs";
