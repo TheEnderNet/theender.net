@@ -15,8 +15,10 @@
       <li class="has-dropdown">
         <a href="#">Sites</a>
         <ul class="dropdown">
-          <li class="active"><a href="http://www.theender.net">JoshTheEnder</a></li>
-          <li><a href="http://superminor2.no-ip.org/">SuPeRMiNoR2</a></li>
+          <li class="active"><a href="http://www.theender.net">EnderNet</a></li>
+          <li><a href="http://mod-stargatetech.com/">StargateTech2 Wiki</a></li>
+          <li><a href="http://stats.theender.net">IRC Statistics</a></li>
+          <li><a href="http://theender.net:8080">jenkins</a></li>
         </ul>
       </li>
     </ul>
