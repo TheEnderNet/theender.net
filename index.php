@@ -22,7 +22,7 @@
       </p>
     </div>
     
-    <div class="row"><center><b><h1 style="color:white;font-family:'Rock Salt'">News Be Below</h1><b></center><hr></div>
+    <div class="row"><center><b><h1 style="color:white;font-family:'Rock Salt'">News Be Below</h1><b></center><hr style="color:green"></div>
 
     <?php
       $dir = "docs";
