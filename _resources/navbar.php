@@ -13,12 +13,20 @@
         }
       ?>
       <li class="has-dropdown">
+        <a href="/information/">Informational Stuff</a>
+        <ul class="dropdown">
+          <li><a href="/information/#about">Who the hell am I?</a></li>
+          <li><a href="/information/#contact">How can I contact you?</a></li>
+        </ul>
+      </li>
+      
+      <li class="has-dropdown">
         <a href="#">Sites</a>
         <ul class="dropdown">
           <li class="active"><a href="http://www.theender.net">EnderNet</a></li>
           <li><a href="http://mod-stargatetech.com/">StargateTech2 Wiki</a></li>
           <li><a href="http://stats.theender.net">IRC Statistics</a></li>
-          <li><a href="http://theender.net:8080">jenkins</a></li>
+          <li><a href="http://www.theender.net/jenkins">Jenkins</a></li>
         </ul>
       </li>
     </ul>
