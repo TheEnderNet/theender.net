@@ -5,6 +5,7 @@
     <p style="color:white">
         Updates are comming today, I will link to the pack download when I have it ready. 
         I'm also going to put the 1.6.4 world + pack into a subfolder for previous players to get.<br>
+        1.6.4 world + pack can be found in the <b><a href="/downloads/enderverse164/">downloads</a></b><br>
         I'll edit this post more in a bit.
         <br>Ender out o/
     </p>
