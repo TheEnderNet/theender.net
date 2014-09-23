@@ -1,0 +1,11 @@
+<div class="row">
+    <h1 style="color:white">The Enderverse 1.7.10 update</h1>
+    <p style="color:gray">Posted Tue, 23rd of September, 2014</p>
+    <hr>
+    <p style="color:white">
+        Updates are comming today, I will link to the pack download when I have it ready. 
+        I'm also going to put the 1.6.4 world + pack into a subfolder for previous players to get.<br>
+        I'll edit this post more in a bit.
+        <br>Ender out o/
+    </p>
+</div>
