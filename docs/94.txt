@@ -7,7 +7,8 @@
         I'm also going to put the 1.6.4 world + pack into a subfolder for previous players to get.<br>
         1.6.4 world + pack can be found in the <b><a href="/downloads/enderverse164/">downloads</a></b><br>
         <h1 style="color:white"><b>Yes, it's finally here. Download be <a href="/downloads">here</a>. Apply on the OC Forums or just ask me on IRC. Happy Hacking!</b></h1>
-        I'll edit this post more in a bit.
-        <br>Ender out o/
+    </p>
+    <p style="color:white">
+        Ender out o/
     </p>
 </div>
