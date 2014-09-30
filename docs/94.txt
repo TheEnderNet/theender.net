@@ -6,7 +6,7 @@
         Updates are comming today, I will link to the pack download when I have it ready. 
         I'm also going to put the 1.6.4 world + pack into a subfolder for previous players to get.<br>
         1.6.4 world + pack can be found in the <b><a href="/downloads/enderverse164/">downloads</a></b><br>
-        <h1 style="color:white"><b>Yes, it's finally here. Download be <a href="/downloads">here</a>. Apply on the OC Forums or just ask me on IRC. Happy Hacking!</b></h1>
+        <h1 style="color:white"><b>Yes, it's finally here. We have a launcher now, it can be downloaded <a href="/minecraft">here</a>. Apply on the OC Forums or just ask me on IRC. Happy Hacking!</b></h1>
     </p>
     <p style="color:white">
         Ender out o/
