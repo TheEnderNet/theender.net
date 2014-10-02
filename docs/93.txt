@@ -1,0 +1,25 @@
+<div class="row">
+    <h1 style="color:white">Site update plans and other news</h1>
+    <p style="color:gray">Posted Thu, 2nd of October, 2014</p>
+    <hr>
+    <p style="color:white">
+        Few bits of news to go up here, first stuff is gonna be about the site and the plans I have for it.<br>
+        <b>Site Updates:</b><br>
+        The layout / style of the site will change a bit, have not fully decided what I'm going to do with it yet
+        but I want to change the layout a bit and also re-organise it slightly. For example on the main homepage
+        ( where you are now ) will probably not be entirely news, it may only have the most recent post and the
+        rest will be a dedicated page. The story corner will also get a facelift because the current way is a 
+        bit hard to navigate.<br>
+        <b>Minecraft Mods:</b><br>
+        You may have seen the tab I had for LaserCraft, I have not got much further with it because I didn't know 
+        ( and still don't ) how to do TileEntities. Lasercraft in itself is being discontinued and it's contents 
+        will be merged into a new mod I'm making called <i>Technical Shenanigans</i> which you can find on 
+        <a href="https://github.com/JoshTheEnder">My GitHub</a>. I do want to get LaserCraft up to the original
+        standard I wanted it but I have not really had the motivation to do so.<br>
+        
+        There may be more information posted here later but that will be all for now. Anyway, Ender out o/<br>
+    </p>
+    <p style="color:white">
+        Ender out o/
+    </p>
+</div>
