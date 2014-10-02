@@ -19,7 +19,4 @@
         
         There may be more information posted here later but that will be all for now. Anyway, Ender out o/<br>
     </p>
-    <p style="color:white">
-        Ender out o/
-    </p>
 </div>
