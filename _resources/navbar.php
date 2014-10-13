@@ -1,4 +1,4 @@
-<nav class="top-bar" data-topbar data-options="mobile_show_parent_link:true">
+<nav class="top-bar" data-topbar data-options="mobile_show_parent_link: true">
   <ul class="title-area">
     <li class="name">
       <h1><a href="#"><?php echo $PageName; ?></a></h1>
