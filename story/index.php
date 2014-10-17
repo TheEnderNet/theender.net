@@ -62,7 +62,8 @@
               variable_height: false, 
               circular: false,
               bullets: false
-          }
+          },
+          top-bar: {mobile_show_parent_link: true}
       });
     </script>
   </body>
