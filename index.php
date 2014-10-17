@@ -36,7 +36,8 @@
 
     
     <script src="_resources/js/vendor/jquery.js"></script>
-    <script src="_resources/js/foundation.min.js"></script>
+    <script src="_resources/js/foundation/foundation.js"></script>
+    <script src="_resources/js/foundation/foundation.topbar.js"></script>
     <script>
       $(document).foundation();
     </script>
