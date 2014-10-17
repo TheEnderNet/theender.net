@@ -32,7 +32,7 @@
     </ul>
 
     <!-- Left Nav Sesction -->
-    <ul class="left">
+    <ul class="left;show-for-medium-up">
       <li class="has-dropdown">
         <a href="/projects/">Projects</a>
         <ul class="dropdown">
