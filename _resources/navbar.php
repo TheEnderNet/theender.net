@@ -24,7 +24,7 @@
         <a href="#">Sites</a>
         <ul class="dropdown">
           <li class="active"><a href="http://www.theender.net">EnderNet</a></li>
-          <li><a href="http://mod-stargatetech.com/">StargateTech2 Wiki</a></li>
+          <li><a href="http://stargatetech.theender.net/">StargateTech2 Wiki</a></li>
           <li><a href="http://stats.theender.net">IRC Statistics</a></li>
           <li><a href="http://www.theender.net/jenkins">Jenkins</a></li>
         </ul>
