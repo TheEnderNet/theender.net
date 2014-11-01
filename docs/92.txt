@@ -4,8 +4,8 @@
     <hr>
     <p style="color:white">
     <i>Forenote: This was originally intended to go out on the 31st of October but me being me I forgot to post it, oh well</i>
-    <br>
-    Boo! Did I scare you? No? Oh well, I tried.<br>
+    <br><br>
+    Boo! Did I scare you? No? Oh well, I tried.<br><br>
 
     Secrets. We all have them, some more than others. Some share their secrets with others, some keep them all hidden away. 
     Some are stupid habits we have when no one is watching, others are more serious. Some of them we keep locked away and 
