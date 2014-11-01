@@ -1,10 +1,10 @@
 <div class="row">
-    <h1 style="color:white">Site update plans and other news</h1>
-    <p style="color:gray">Posted Thu, 2nd of October, 2014</p>
+    <h1 style="color:white">Secrets</h1>
+    <p style="color:gray">Posted Sat, 1st of November, 2014</p>
     <hr>
     <p style="color:white">
     <i>Forenote: This was originally intended to go out on the 31st of October but me being me I forgot to post it, oh well</i>
-	<br>
+    <br>
     Boo! Did I scare you? No? Oh well, I tried.<br>
 
     Secrets. We all have them, some more than others. Some share their secrets with others, some keep them all hidden away. 
