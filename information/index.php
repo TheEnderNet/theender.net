@@ -34,7 +34,7 @@
       <p style="color:white;font-family:'Arial'">
         Well, you can reach me by <a href="https://www.twitter.com/JoshTheEnder">Twitter @JoshTheEnder</a>,<br>
         via IRC on either EsperNet ( usually as "Ender" in #oc or #StargateTech ) or PC-Logix ( usually as "JoshTheEnder" ),<br>
-        via XMPP ( ender@coderollers.com ) or via the ( Currently non-existnat ) web form below.<br>
+        via XMPP ( ender@coderollers.com ) or via the ( Currently non-existent ) web form below.<br>
 
       </p>
     </div>
