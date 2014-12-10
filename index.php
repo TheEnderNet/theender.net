@@ -1,7 +1,7 @@
 <?php
   ini_set('display_errors','On');
   $Title = "Ender's Home";
-  $PageName = "Ender's Lare"
+  $PageName = "Ender's Lare";
 ?>
 <!DOCTYPE HTML>
 <html class="no-js" lang="en">
@@ -16,10 +16,7 @@
       <hr>
       <p style="color:white">
         Well hello there, welcome to my site.<br>
-        This site is home to my random projects and may include stuff from other people :) <br>
-        Use the links up the top or at the side or wherever I decide to throw them, to get to the other areas of my site. <br>
-        As you can probably tell at the moment theres not much on here, I know about it and I am adding more content when I have the time :) <br>
-      </p>
+        This site is home to my random projects and may include stuff from other people :)</p>
     </div>
     
     <div class="row"><center><b><h1 style="color:white;font-family:'Rock Salt'">News Be Below</h1><b></center><hr style="color:green"></div>
