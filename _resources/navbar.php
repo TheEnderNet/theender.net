@@ -22,12 +22,12 @@
                 </li>
           
                 <li class="has-dropdown">
-                    <a href="#">Sites</a>
+                    <a href="#">Other Sites</a>
                     <ul class="dropdown">
                         <li class="active"><a href="http://www.theender.net">EnderNet</a></li>
                         <li><a href="http://stargatetech.theender.net/">StargateTech2 Wiki</a></li>
-                        <li><a href="http://stats.theender.net">IRC Statistics</a></li>
-                        <li><a href="http://www.theender.net/jenkins">Jenkins</a></li>
+                        <li><a href="http://stats.theender.net">Ender's IRC Statistics</a></li>
+                        <li><a href="http://www.theender.net/jenkins">Ender's Jenkins CI</a></li>
                     </ul>
                 </li>
             </ul>
