@@ -49,6 +49,8 @@
     <script src="/_resources/js/vendor/jquery.js"></script>
     <script src="/_resources/js/vendor/fastclick.js"></script>
     <script src="/_resources/js/foundation.min.js"></script>
+    <script> $(document).foundation(); </script>
+    <!--
     <script>
       $(document).foundation({
           orbit: {
@@ -65,5 +67,6 @@
           }nk: true}
       });
     </script>
+    -->
   </body>
 </html>
