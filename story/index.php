@@ -64,7 +64,7 @@
               variable_height: false, 
               circular: false,
               bullets: false
-          }nk: true}
+          }
       });
     </script>
     -->
