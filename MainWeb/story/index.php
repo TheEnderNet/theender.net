@@ -8,11 +8,11 @@
 <!DOCTYPE HTML>
 <html class="no-js" lang="en">
 
-  <?php include"../_resources/header.php"; ?>
+  <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/header.php"; ?>
 
-  <body style="background-color:black;background-image:url('../_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
+  <body style="background-color:black;background-image:url('/_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     
-    <?php include "../_resources/navbar.php"; ?>
+    <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <div class="row"><h1 style="color:white;font-family:'Rock Salt'"><center>The Ender's Game</center></h1><hr></div>
     <div class="row">
       <h1 style="color:white"><i>Foreword</i></h1>
@@ -52,20 +52,7 @@
     <!--script> $(document).foundation(); </script-->
     
     <script>
-      $(document).foundation({
-          orbit: {
-              animation: 'slide',
-              next_on_click: true, 
-              animation_speed: 1500, 
-              stack_on_small: false,
-              navigation_arrows: true,
-              slide_number: false,
-              timer: false, 
-              variable_height: false, 
-              circular: false,
-              bullets: false
-          }
-      });
+      $(document).foundation();
     </script>
   </body>
 </html>
