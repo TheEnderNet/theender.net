@@ -13,21 +13,27 @@
   <body style="background-color:black;background-image:url('/_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
-    <div class="row"><h1 style="color:white;font-family:'Indie Flower'"><center>Ender's Story Corner</center></h1></div>
+    <div class="row"><h1 style="color:white;font-family:'Rock Salt'"><center>Ender's Story Corner</center></h1></div>
     <div class="row">
       <h2 style="color:white"><i><center>Why hello there!</center></i></h2>
       <hr>
       <p style="color:white">
-        You've found my story corner, feel free to stay and look around :)
+        <center>You've found my story corner, feel free to stay and look around :)</center>
       </p>
     </div>
     <br>
     <div class="row">
       <div class="large-6 medium-6 columns">
         <h2 style="color:white;font-family:'Rock Salt'"><center>Ender's Game</center></h2>
+        <p style="color:white">
+          Super human beings breaking the laws of Time & Space one at a time.
+        </p>
       </div>
       <div class="large-6 medium-6 columns">
         <h2 style="color:white;font-family:'Audiowide'"><center>Zero Hour</center></h2>
+        <p style="color:white">
+          Spoilers...
+        </p>
       </div>
     </div>
 
