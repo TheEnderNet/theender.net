@@ -27,15 +27,22 @@
         <h2 style="color:white;font-family:'Rock Salt';text-align:center">Ender's Game</h2>
         <p style="color:white;text-align:center">
           Super human beings breaking the laws of the Space-Time Continuum one at a time.<br>
-          <a href="/story/endersgame/" class="button large expanded radius">Shaddup and tell me a damn story</a>
         </p>
       </div>
       <div class="large-6 medium-6 columns">
         <h2 style="color:white;font-family:'Audiowide';text-align:center">Zero Hour</h2>
         <p style="color:white;text-align:center">
           Spoilers...<br>
-          <a href="#" class="button large expanded radius">Enter the void</a>
         </p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="large-6 medium-6 columns">
+        <a href="/story/endersgame/" class="button large expanded radius">Shaddup and tell me a damn story</a>
+      </div>
+      <div class="large-6 medium-6 columns">
+        <a href="#" class="button large expanded radius">Enter the void</a>
       </div>
     </div>
 
