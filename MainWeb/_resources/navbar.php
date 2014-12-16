@@ -44,6 +44,7 @@
             </li>
             <li class="divider"></li>
             <li><a href="/story/">Story Corner</a></li>
+            <li class="divider"></li>
             <li class="has-dropdown">
                 <a href="#">Mods</a>
                 <ul class="dropdown">
