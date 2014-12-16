@@ -36,7 +36,7 @@
         $files = array_diff(scandir($DocDir), array('..', '.'));
         foreach ($files as $file) {
           $mfile = fopen($DocDir."/".$file, "r") or die("Unable to open file!");
-          if (basename($mfile) === $_GET["page"]) {
+          if (basename($DocDir."/".$file) === $_GET["page"]) {
             echo $file;
           };
         };
