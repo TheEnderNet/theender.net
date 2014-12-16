@@ -24,10 +24,10 @@
     <br>
     <div class="row">
       <div class="large-6 medium-6 columns">
-        <h2 style="color:white;font-family:'Rock Salt'">Ender's Game</h2>
+        <h2 style="color:white;font-family:'Rock Salt'"><center>Ender's Game</center></h2>
       </div>
       <div class="large-6 medium-6 columns">
-        <h2 style="color:white;font-family:'Audiowide'">Zero Hour</h2>
+        <h2 style="color:white;font-family:'Audiowide'"><center>Zero Hour</center></h2>
       </div>
     </div>
 
