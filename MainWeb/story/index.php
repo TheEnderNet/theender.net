@@ -42,7 +42,7 @@
     <div class="row">
       <div class="large-6 medium-6 columns">
         <p style="color:white;text-align:center">
-          <a href="/story/endersgame/" class="button large-expanded-radius">Shaddup and tell me a damn story</a>
+          <a href="/story/endersgame/" class="button [large] [expanded] [radius]">Shaddup and tell me a damn story</a>
         </p>
       </div>
       <div class="large-6 medium-6 columns">
