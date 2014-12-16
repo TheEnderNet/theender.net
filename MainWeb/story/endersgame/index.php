@@ -33,6 +33,7 @@
     <br>
     <div class="row">
       <?php
+        echo "BLAHBLAH".$_GET["page"]."BLAHBLAH<br>";
         $files = array_diff(scandir($DocDir), array('..', '.'));
         if (is_null($_GET["page"]) == FALSE ) {
           foreach ($files as $file) {
