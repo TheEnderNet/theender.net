@@ -39,7 +39,7 @@
           foreach ($files as $file) {
             $mfile = fopen($DocDir."/".$file, "r") or die("Unable to open file!");
             if (basename($DocDir."/".$file) === $_GET["page"]) {
-              echo $file;
+              echo fread($mfile, filesize($DocDir."/".$file));
             };
           };
         } else {
