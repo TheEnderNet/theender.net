@@ -43,7 +43,7 @@
             };
           };
         } else {
-          $file = fopen($DocDir."/".$file, "r") or die("Oh Shit!");
+          $file = fopen($DocDir."/01.txt", "r") or die("Oh Shit!");
           echo fread($file, filesize($file));
           fclose($file);
         };
