@@ -9,7 +9,8 @@
         <!-- Right Nav Section -->
         <ul class="right">
             <?php if ($_SERVER['PHP_SELF'] !== "/index.php") {
-                echo "<li><a href=\"/\" style=\"color:green\">Back Home</a></li>";
+                echo "<li><a href=\"/\" style=\"color:green\">Back Home</a></li>".
+                    "<li class=\"divider\"></li>";
                 }
             ?>
             <li class="has-dropdown">
@@ -19,7 +20,7 @@
                     <li><a href="/information/#contact">How can I contact you?</a></li>
                 </ul>
             </li>
-      
+            <li class="divider"></li>
             <li class="has-dropdown">
                 <a href="#">Other Sites</a>
                 <ul class="dropdown">
@@ -33,6 +34,7 @@
     
     <!-- Left Nav Sesction -->
         <ul class="left">
+            <li class="divider"></li>
             <li class="has-dropdown">
                 <a href="/projects/">Projects</a>
                 <ul class="dropdown">
@@ -40,6 +42,7 @@
                     <li><a href="/projects/#EnderBot">EnderBot</a></li>
                 </ul>
             </li>
+            <li class="divider"></li>
             <li><a href="/story/">Story Corner</a></li>
             <li class="has-dropdown">
                 <a href="#">Mods</a>

@@ -1,5 +1,5 @@
 
-  <h1 style="color:white">Prologue</h1>
+  <a href=".." class="button success">Back to Story Corner</a><h1 style="color:white;text-align:center">Prologue</h1><a href="?page=02" class="button">Next</a>
   <p style="color:gray"><i>Chapter 1</i></p>
   <hr>
   <p> <img src="/_resources/img/story/prologue.png"></p><hr>
