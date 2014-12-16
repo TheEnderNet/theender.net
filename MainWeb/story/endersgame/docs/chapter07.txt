@@ -1,7 +1,7 @@
 <h1 style="color:white">A1_C4T</h1>
 <p style="color:gray"><i>Chapter 4.4</i></p>
 <hr>
-<p> <img src="../_resources/img/story/a1_c4t.png"></p><hr>
+<p> <img src="/_resources/img/story/a1_c4t.png"></p><hr>
 <p style="color:white">
     <i><b style="color:green;font-family:'Audiowide'">Current date: 23/5/2024 1900 hours</b></i><br>
     The network changed from its usual 4-beat rhythm to Morse code:<br>

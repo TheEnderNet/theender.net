@@ -1,7 +1,7 @@
 <h1 style="color:white">The Long Sleep</h1>
 <p style="color:gray"><i>Chapter 4.1</i></p>
 <hr>
-<p> <img src="../_resources/img/story/longsleep.png"></p><hr>
+<p> <img src="/_resources/img/story/longsleep.png"></p><hr>
 <p style="color:white">
     <i><b style="color:green;font-family:'Audiowide'">Current date: 1/6/2014 1200 hours</b></i><br>
     Ender: "Urghh, morning EnderBot"<br>

@@ -1,7 +1,7 @@
 <h1 style="color:white">EnderBot Falls</h1>
 <p style="color:gray"><i>Chapter 4.3</i></p>
 <hr>
-<p> <img src="../_resources/img/story/protocol2471.png"></p><hr>
+<p> <img src="/_resources/img/story/protocol2471.png"></p><hr>
 <p style="color:white">
 	<i style="color:red">This chapter continues right from 4.2</i><br>
     <i><b style="color:green;font-family:'Audiowide'">Current date: 15/6/2014 1430 hours</b></i><br>

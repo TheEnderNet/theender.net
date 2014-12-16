@@ -2,7 +2,7 @@
 	<h1 style="color:white">Back In Time</h1>
 	<p style="color:gray"><i>Chapter 2</i></p>
 	<hr>
-	<p> <img src="../_resources/img/story/backintime.png"></p><hr>
+	<p> <img src="/_resources/img/story/backintime.png"></p><hr>
 	<p style="color:white">
 		<i><b style="color:red">This chapter continues on from 2.5/2.6 of SKS' story (link above)</b></i><br>
 		<i><b style="color:green;font-family:'Audiowide'">Current date 31/5/2024</b></i><br>

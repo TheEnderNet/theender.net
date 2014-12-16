@@ -1,7 +1,7 @@
 <h1 style="color:white">The Bot That Time Forgot</h1>
 <p style="color:gray"><i>Chapter 3</i></p>
 <hr>
-<p> <img src="../_resources/img/story/tbttf.png"></p><hr>
+<p> <img src="/_resources/img/story/tbttf.png"></p><hr>
 <p style="color:white">
 	<i><b style="color:green;font-family:'Audiowide'">Current date: Unknown</b></i><br>
 	Well, since I've got some time to kill I might as well explain what I look like. 
