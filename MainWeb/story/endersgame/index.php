@@ -38,6 +38,7 @@
         if (!empty($_GET["page"]) ) {
           foreach ($files as $file) {
             $mfile = fopen($DocDir."/".$file, "r") or die("Unable to open file!");
+            echo basename($DocDir."/".$file);
             if (basename($DocDir."/".$file) === $_GET["page"]) {
               echo fread($mfile, filesize($DocDir."/".$file));
             };
