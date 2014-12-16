@@ -13,7 +13,9 @@
   <body style="background-color:black;background-image:url('/_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
-    <div class="row"><h1 style="color:white;font-family:'Indie Flower';text-align:center">Ender's Story Corner</h1></div>
+    <div class="row">
+      <h1 style="color:white;font-family:'Indie Flower';text-align:center">Ender's Story Corner</h1>
+    </div>
     <div class="row">
       <h2 style="color:white;text-align:center"><i>Why hello there!</i></h2>
       <hr>
@@ -40,12 +42,12 @@
     <div class="row">
       <div class="large-6 medium-6 columns">
         <p style="color:white;text-align:center">
-          <a href="/story/endersgame/" class="button large expanded radius">Shaddup and tell me a damn story</a>
+          <a href="/story/endersgame/" class="button large-expanded-radius">Shaddup and tell me a damn story</a>
         </p>
       </div>
       <div class="large-6 medium-6 columns">
         <p style="color:white;text-align:center">
-          <a href="#" class="button large expanded radius">Enter the void</a>
+          <a href="/story/zerohour" class="button large-expanded-radius">Enter the void</a>
         </p>
       </div>
     </div>
