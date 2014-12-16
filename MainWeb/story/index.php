@@ -15,7 +15,7 @@
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <div class="row"><h1 style="color:white;font-family:'Rock Salt'"><center>Ender's Story Corner</center></h1></div>
     <div class="row">
-      <h1 style="color:white"><i>Why hello there!</i></h1>
+      <h2 style="color:white"><i><center>Why hello there!</center></i></h2>
       <hr>
       <p style="color:white">
         You've found my story corner, feel free to stay and look around :)
