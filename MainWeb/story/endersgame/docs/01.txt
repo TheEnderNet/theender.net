@@ -1,5 +1,15 @@
-
-  <a href=".." class="button success">Back to Story Corner</a><h1 style="color:white;text-align:center">Prologue</h1><a href="?page=02" class="button">Next</a>
+<div class="row">
+  <div class="large-1 medium-1 columns">
+    <a href=".." class="button success">Back to Story Corner</a>
+  </div>
+  <div class="large-10 medium-10 columns">
+    <h1 style="color:white;text-align:center">Prologue</h1>
+  </div>
+  <div class="large-1 medium-1 columns">
+    <a href="?page=02" class="button">Next</a>
+  </div>
+</div>
+<div class="row">
   <p style="color:gray"><i>Chapter 1</i></p>
   <hr>
   <p> <img src="/_resources/img/story/prologue.png"></p><hr>
@@ -12,3 +22,4 @@
     “Urghh, that wasn’t the experience I had expected” I say to myself. <br>
     As I rest myself against a light post, I check my heartbeat locator and see a blip. "There he is...” I say to myself as I walk off in the direction of the blip. <br>
   </p>
+</div>
