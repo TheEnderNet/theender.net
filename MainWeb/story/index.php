@@ -13,23 +13,23 @@
   <body style="background-color:black;background-image:url('/_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
-    <div class="row"><h1 style="color:white;font-family:'Rock Salt'"><center>The Ender's Game</center></h1><hr></div>
+    <div class="row"><h1 style="color:white;font-family:'Rock Salt'"><center>Ender's Story Corner</center></h1></div>
     <div class="row">
-      <h1 style="color:white"><i>Foreword</i></h1>
+      <h1 style="color:white"><i>Why hello there!</i></h1>
       <hr>
       <p style="color:white">
-        This story is semi-based around ShadowKatStudios' story (<a href="http://shadowkatstudios.gweb.io/story/index.htm">LINK</a>) so I may link
-        parts for you ( the reader ) to go read before hand. When I write the
-        story and post it up here, <b>it <del>will</del> <i>may</i> not be in chronological order</b>.
-        If you have ever played <i>Beyond: Two Souls</i> on the PS3 then my
-        uploading style may be similar to that. I will post a 'timeline' picture
-        to indicate where abouts that chapter happens :)<br>
-        Also some of the characters may be based on people I know in real life; If your character does
-        something unlike real life, just remember that it's fiction :)<br>
-        Anyway, Ender out o/
+        You've found my story corner, feel free to stay and look around :)
       </p>
     </div>
     <br>
+    <div class="row">
+      <div class="large-6 medium-6 columns">
+        <h2 style="color:white;font-family:'Rock Salt'">Ender's Game</h2>
+      </div>
+      <div class="large-6 medium-6 columns">
+        <h2 style="color:white;font-family:'Audiowide'">Zero Hour</h2>
+      </div>
+    </div>
 
     <script src="/_resources/js/vendor/jquery.js"></script>
     <script src="/_resources/js/vendor/fastclick.js"></script>
