@@ -44,7 +44,7 @@
           };
         } else {
           $file = fopen($DocDir."/01.txt", "r") or die("Oh Shit!");
-          echo fread($file, filesize($file));
+          echo fread($file, filesize($DocDir."/01.txt"));
           fclose($file);
         };
       ?>
