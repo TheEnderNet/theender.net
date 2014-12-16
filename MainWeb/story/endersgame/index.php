@@ -34,11 +34,17 @@
     <div class="row">
       <?php
         $files = array_diff(scandir($DocDir), array('..', '.'));
-        foreach ($files as $file) {
-          $mfile = fopen($DocDir."/".$file, "r") or die("Unable to open file!");
-          if (basename($DocDir."/".$file) === $_GET["page"]) {
-            echo $file;
+        if (is_null($_GET["page"]) == FALSE ) {
+          foreach ($files as $file) {
+            $mfile = fopen($DocDir."/".$file, "r") or die("Unable to open file!");
+            if (basename($DocDir."/".$file) === $_GET["page"]) {
+              echo $file;
+            };
           };
+        } else {
+          $file = fopen($DocDir."/".$file, "r") or die("Oh Shit!");
+          echo fread($file, filesize($file));
+          fclose($file);
         };
       ?>
     </div>
