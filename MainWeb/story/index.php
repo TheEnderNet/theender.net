@@ -13,7 +13,7 @@
   <body style="background-color:black;background-image:url('/_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
-    <div class="row"><h1 style="color:white;font-family:'Rock Salt'"><center>Ender's Story Corner</center></h1></div>
+    <div class="row"><h1 style="color:white;font-family:'Indie Flower'"><center>Ender's Story Corner</center></h1></div>
     <div class="row">
       <h2 style="color:white"><i><center>Why hello there!</center></i></h2>
       <hr>
