@@ -4,6 +4,7 @@
   $PageName = "Ender's Story Corner";
   ini_set("log_errors", 1);
   ini_set("error_log", "./php-error.log");
+  $DocDir = "docs";
 ?>
 <!DOCTYPE HTML>
 <html class="no-js" lang="en">
@@ -13,7 +14,7 @@
   <body style="background-color:black;background-image:url('/_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
-    <div class="row"><h1 style="color:white;font-family:'Rock Salt'"><center>The Ender's Game</center></h1><hr></div>
+    <div class="row"><h1 style="color:white;font-family:'Rock Salt'"><center>Ender's Game</center></h1><hr></div>
     <div class="row">
       <h1 style="color:white"><i>Foreword</i></h1>
       <hr>
@@ -30,21 +31,28 @@
       </p>
     </div>
     <br>
-
     <div class="row">
-      <ul class="orbit" data-orbit>
-        <?php
+      <?php
+        $files = array_diff(scandir($dir), array('..', '.'));
+        foreach ($files as $file) {
+          $mfile = fopen($dir."/".$file, "r") or die("Unable to open file!");
+          if (basename($mfile) === $_GET["page"]) {
+            echo $file;
+          };
+        };
+      ?>
+    </div>
+
+        <?php /*
           $dir = "docs";
-          $files = array_diff(scandir($dir), array('..', '.'));
           #print_r($files);
           foreach ($files as $file) {
-            $myfile = fopen($dir."/".$file, "r") or die("Unable to open file!");
+            $myfile = 
             echo "<li>".fread($myfile,filesize($dir."/".$file))."</li>";
             fclose($myfile);
           };
+        */
         ?>
-      </ul>
-    </div>
     
     <script src="/_resources/js/vendor/jquery.js"></script>
     <script src="/_resources/js/vendor/fastclick.js"></script>
