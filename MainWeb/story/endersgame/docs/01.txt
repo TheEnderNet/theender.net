@@ -1,11 +1,11 @@
 <div class="row">
-  <div class="large-1 medium-1 columns">
+  <div class="large-2 medium-2 columns">
     <a href=".." class="button success">Back to Story Corner</a>
   </div>
-  <div class="large-10 medium-10 columns">
+  <div class="large-8 medium-8 columns">
     <h1 style="color:white;text-align:center">Prologue</h1>
   </div>
-  <div class="large-1 medium-1 columns">
+  <div class="large-2 medium-2 columns">
     <a href="?page=02" class="button">Next</a>
   </div>
 </div>
