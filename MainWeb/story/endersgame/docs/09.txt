@@ -1,72 +1,89 @@
-<h1 style="color:white">The Path To Present</h1>
-<hr>
-<p> <img src="/_resources/img/story/siren.png"></p><hr>
-<p style="color:white">
-    <i><b style="color:green;font-family:'Audiowide'">Current date: Sometime after the events of "The Siren"</b></i><br>
-    Ender: “Right, I think it is about time that I tell you about my past”<br>
-    <br>
-    Lizzy: “You mean our past?!”<br>
-    <br>
-    Ender: “Yes. Well. First things first, some background information on me and Lizzy. 
-    I’m 986 years old, Lizzy is 942 years old. The term years being relative to our home planet, 
-    Thra’s standard year. In Earth years it would be about 1470 years for me, 1440 years for Lizzy 
-    so we’ve been around a while.”<br>
-    <br>
-    Lizzy: “Yeah, also another major difference between Earth and Thra is the way we do what you 
-    humans call “Marriage”, here on Earth you exchange vowels and treasures as a way of saying 
-    that you’ll look after your spouse. On Thra it’s a bit different, the same basic principle of 
-    “I swear to be with you till death do us part” but we don’t exchange vowels or have a whole 
-    ceremony for it. It’s a bit deeper than that, with our version the couple perform an ancient 
-    ritual which is the joining and combining of the souls of the couple. The ritual is only 
-    successful if the couple are right for each other. If it fails then there is no harm done, 
-    the couple can stay with each other or venture out to find their true soul mate”<br>
-    <br>
-    Ender: “If it succeeds, like it did in our case then the souls are bound for all eternity
-    and the couple’s abilities are enhanced tenfold. If for whatever reason one of the couple
-    is to pass away, the soul of the deceased shall become a spirit guardian to the remaining
-    physical soul.”<br>
-    <br>
-    Lizzy: “Basically, if you manage to kill one of us in the flesh, the other becomes as powerful
-    as both combined with the free soul keeping their psychic abilities”<br>
-    <br>
-    Ender: “If you were to compare us to, say, legendary pokemon then Lizzy would be Dialga and I
-    would be Giratina. We do have a friend who would match the style of Palkia but they haven’t
-    been introduced in the story yet so we’re not going to spoil it, hehe”<br>
-    <br>
-    Lizzy: “Ender! Quit breaking the 4th wall” Ender: “Sorry”<br>
-    <br>
-    Lizzy: “To allow you to put things into perspective in terms of timelines, we initially started
-    the binding ritual when we were only about 100/70 (Thra years) but about 5 minutes into the 
-    ritual a race known as the <i>Imperious</i> attacked.”<br>
-    <br>
-    Ender: “The Imperious were and probably still are brutal savages that will wipe out entire
-    civilisations just to get their technologies. Even if the owning race is very open at sharing
-    they will not hesitate to wipe them out so that they are the only race to have it.”<br>
-    <br>
-    Ender: “we were slightly prepared when it came to them using our stuff. It was programmed to
-    violently explode in the event that they tried to use it. Which would have been fine had they
-    not all tried to use a lot of them at once on our planet. Luckily most of us planned for that
-    potential flaw and escaped before it happened. The Imperious are also not that smart. When
-    attacking planets they will use anything and everything they can, which means that they could
-    be efficiently wiped out if the planet was to explode. Which is what happened with Thra.”<br>
-    <br>
-    Lizzy: “our heritage is also a bit messy, my mother and Ender’s father are native to Thra. 
-    The other half of our parents? Not so much. My father was a Timelord from the planet Galifrey,
-    I’m not sure if he’s still out there or not. Ender’s mother was from a race known in their
-    native tongue as Anquiatas, they have all ascended or died of old age by now.”<br>
-    <br>
-    Ender: “You might also be wondering where I got my unnatural appendages from. In truth, I
-    don’t know. I have had them for as long as I can remember but I don’t think I had them during
-    the binding ritual.”<br>
-    <br>
-    Lizzy: “I saw you take a shotgun blast to your back when we were fleeing, that might have
-    something to with it. It also makes more sense of you think about the fact that we had only
-    half completed the ritual.”<br>
-    <br>
-    Ender: “makes sense I suppose. I think that’s all we needed to discuss. Can’t remember what
-    we’re doing in the next chapter but I think it has death and explosions so it’s going to be cool”<br>
-    <br>
-    Lizzy: “You like breaking the 4th wall don’t you?”<br>
-    <br>
-    Ender: “Yes. Here’s the end of the chapter” <br>
-</p>
+<div class="row">
+  <div class="large-3 medium-3 columns">
+    <a href="?page=08" class="button success">Previous</a>
+  </div>
+  <div class="large-6 medium-6 columns">
+    <h1 style="color:white;text-align:center">The Path To Present</h1>
+  </div>
+  <div class="large-3 medium-3 columns">
+    <a href="#" data-reveal-id="nextChapter" class="button">Next</a>
+  </div>
+</div>
+<div class="row">
+  <p> <img src="/_resources/img/story/siren.png"></p><hr>
+  <p style="color:white">
+      <i><b style="color:green;font-family:'Audiowide'">Current date: Sometime after the events of "The Siren"</b></i><br>
+      Ender: “Right, I think it is about time that I tell you about my past”<br>
+      <br>
+      Lizzy: “You mean our past?!”<br>
+      <br>
+      Ender: “Yes. Well. First things first, some background information on me and Lizzy. 
+      I’m 986 years old, Lizzy is 942 years old. The term years being relative to our home planet, 
+      Thra’s standard year. In Earth years it would be about 1470 years for me, 1440 years for Lizzy 
+      so we’ve been around a while.”<br>
+      <br>
+      Lizzy: “Yeah, also another major difference between Earth and Thra is the way we do what you 
+      humans call “Marriage”, here on Earth you exchange vowels and treasures as a way of saying 
+      that you’ll look after your spouse. On Thra it’s a bit different, the same basic principle of 
+      “I swear to be with you till death do us part” but we don’t exchange vowels or have a whole 
+      ceremony for it. It’s a bit deeper than that, with our version the couple perform an ancient 
+      ritual which is the joining and combining of the souls of the couple. The ritual is only 
+      successful if the couple are right for each other. If it fails then there is no harm done, 
+      the couple can stay with each other or venture out to find their true soul mate”<br>
+      <br>
+      Ender: “If it succeeds, like it did in our case then the souls are bound for all eternity
+      and the couple’s abilities are enhanced tenfold. If for whatever reason one of the couple
+      is to pass away, the soul of the deceased shall become a spirit guardian to the remaining
+      physical soul.”<br>
+      <br>
+      Lizzy: “Basically, if you manage to kill one of us in the flesh, the other becomes as powerful
+      as both combined with the free soul keeping their psychic abilities”<br>
+      <br>
+      Ender: “If you were to compare us to, say, legendary pokemon then Lizzy would be Dialga and I
+      would be Giratina. We do have a friend who would match the style of Palkia but they haven’t
+      been introduced in the story yet so we’re not going to spoil it, hehe”<br>
+      <br>
+      Lizzy: “Ender! Quit breaking the 4th wall” Ender: “Sorry”<br>
+      <br>
+      Lizzy: “To allow you to put things into perspective in terms of timelines, we initially started
+      the binding ritual when we were only about 100/70 (Thra years) but about 5 minutes into the 
+      ritual a race known as the <i>Imperious</i> attacked.”<br>
+      <br>
+      Ender: “The Imperious were and probably still are brutal savages that will wipe out entire
+      civilisations just to get their technologies. Even if the owning race is very open at sharing
+      they will not hesitate to wipe them out so that they are the only race to have it.”<br>
+      <br>
+      Ender: “we were slightly prepared when it came to them using our stuff. It was programmed to
+      violently explode in the event that they tried to use it. Which would have been fine had they
+      not all tried to use a lot of them at once on our planet. Luckily most of us planned for that
+      potential flaw and escaped before it happened. The Imperious are also not that smart. When
+      attacking planets they will use anything and everything they can, which means that they could
+      be efficiently wiped out if the planet was to explode. Which is what happened with Thra.”<br>
+      <br>
+      Lizzy: “our heritage is also a bit messy, my mother and Ender’s father are native to Thra. 
+      The other half of our parents? Not so much. My father was a Timelord from the planet Galifrey,
+      I’m not sure if he’s still out there or not. Ender’s mother was from a race known in their
+      native tongue as Anquiatas, they have all ascended or died of old age by now.”<br>
+      <br>
+      Ender: “You might also be wondering where I got my unnatural appendages from. In truth, I
+      don’t know. I have had them for as long as I can remember but I don’t think I had them during
+      the binding ritual.”<br>
+      <br>
+      Lizzy: “I saw you take a shotgun blast to your back when we were fleeing, that might have
+      something to with it. It also makes more sense of you think about the fact that we had only
+      half completed the ritual.”<br>
+      <br>
+      Ender: “makes sense I suppose. I think that’s all we needed to discuss. Can’t remember what
+      we’re doing in the next chapter but I think it has death and explosions so it’s going to be cool”<br>
+      <br>
+      Lizzy: “You like breaking the 4th wall don’t you?”<br>
+      <br>
+      Ender: “Yes. Here’s the end of the chapter” <br>
+  </p>
+</div>
+
+<div id="nextChapter" class="reveal-modal" data-reveal>
+  <h2>Coming soon...</h2>
+  <p>There is more planned for this story but it's not here yet, check back every few weeks for an update :)</p>
+  <a class="close-reveal-modal">&#215;</a>
+</div>

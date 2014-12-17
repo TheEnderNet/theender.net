@@ -1,51 +1,64 @@
-<h1 style="color:white">EnderBot Falls</h1>
-<p style="color:gray"><i>Chapter 4.3</i></p>
-<hr>
-<p> <img src="/_resources/img/story/protocol2471.png"></p><hr>
-<p style="color:white">
-	<i style="color:red">This chapter continues right from 4.2</i><br>
-    <i><b style="color:green;font-family:'Audiowide'">Current date: 15/6/2014 1430 hours</b></i><br>
-    Bot: "Oh, one last thing!"<br>
-    Ender: "What?"<br>
-    Bot: "So long and thanks for all the fish...."<br>
-    As EnderBot finished that message, the beats stopped and his frame shut down.<br>
-    Ender: "He's.... gone....."<br>
-    A moment later his frame reactivates and announces it is in protection mode, which is lucky I suppose because theres now 15 soldiers around the perimeter of the house. <br>
-    Ender: "Wow, I don't know what I've done yet people either want me dead or want me locked up. I suppose thats what happens when humans don't understand something, they lock it down so people who do know can’t use it against them"<br>
-    I peek my head over the edge of the roof to get a better look but one of the soldiers spots me and open fires.<br>
-    Ender: "Woah that was close"<br>
-    I overhear one of the soldiers saying "weapons free" to the others.<br>
-    Ender: "Did you hear that? Weapons free. I suppose they want me dead. Well, feelings mutual I suppose."<br>
-    Bot: "Acknowledged!"<br>
-    I head to one of the front Windows and open it.<br>
-    Ender: "Right, you lot"<br>
-    All of the soldiers who were on the front lawn turned and aimed at me.<br>
-    Ender: "You have two options: you surrender and run back to your superiors or you attempt to take me down but fail miserably. Your choice!"<br>
-    one of the soldiers called out to the others, I'm guessing he was the leader seeing as he has slightly different uniform to the others.<br>
-    Commanding Soldier: "Don't let him taunt you, he has killed 2 of us so far"<br>
-    Ender: "Hah, thats a lie. they're both fine. I can send them down if you want"<br>
-    I retreat from the window and go to the two soldiers that had made it into the house<br>
-    Ender: "I don't plan on hurting anyone but your friends out the front don't believe me. May I ask that you two go downstairs and show them that you are fine."<br>
-    Soldiers: "You won't hurt us will you?"<br>
-    Ender: "you haven't yet given me a reason to do so, so no"<br>
-    Soldiers: "okay, we'll head down"<br>
-    and with that the 2 soldiers headed down stairs and out the front door, meanwhile I headed back to the front window<br>
-    Ender: "See? not harmed at all"<br>
-    Commanding Soldier: "You've manipulated their minds so that they don't show the physical pain you've inflicted on them"<br>
-    Ender: "Really, if I wanted to manipulate your minds I would have done so already. Also I am a passive person, I won't hurt anyone unless you do something to tip the balance"<br>
-    Commanding Soldier: "We have our orders, to bring you in. alive or dead" <br>
-    Ender: "but are you being forced to do it? cause you may not kill me, but they certainly will. oh and one other thing, I am treating you all as one big group, not as individuals. so if one of you becomes hostile, you're all going to pay the consequence"<br>
-    there is a short pause before one of the soldiers open fires at me, I phased out of the way before the bullets hit me<br>
-    Ender: "Well, feelings mutual"<br>
-    more of the soldiers take aim. with lightning speed I jump out the window and knock down 2 of the soldiers<br>
-    One of the soldiers gets a lucky shot from behind. I spin around to face him<br>
-    Ender: "congratulations, you have just won an express ticket to your death"<br>
-    The soldier's facial expression turned from smug to sheer terror as he watched the tentacles emerge from my back.<br>
-    Ender: "hahaha, I love this game"<br>
-    Soldier: "w-wh-what game??"<br>
-    Ender: "the one where thou tries to run but gets killed by me. so go on, start running. RUN, RUN FOR YOUR LIFE."<br>
-    I laugh maniacally like a mad man.<br>
-    Ender: "The end is nigh, your end is now!" I shout, shortly before brutally beating them to death. they try to stop me, they fail.<br>
-    amongst the killing there is a soft singing. I finish killing the last soldier as the voice becomes clearer, triggering a deep memory to play back in my mind. As old memories awoke I could feel my heartbeats pounding in my ears. TAP-TAP-TAP-TAP<br>
-    "Hello, Ender" it said.<br>
-</p>
+<div class="row">
+  <div class="large-3 medium-3 columns">
+    <a href="?page=05" class="button success">Previous</a>
+  </div>
+  <div class="large-6 medium-6 columns">
+    <h1 style="color:white;text-align:center">EnderBot Falls</h1>
+  </div>
+  <div class="large-3 medium-3 columns">
+    <a href="?page=07" class="button">Next</a>
+  </div>
+</div>
+<div class="row">
+  <p style="color:gray"><i>Chapter 4.3</i></p>
+  <hr>
+  <p> <img src="/_resources/img/story/protocol2471.png"></p><hr>
+  <p style="color:white">
+    <i style="color:red">This chapter continues right from 4.2</i><br>
+      <i><b style="color:green;font-family:'Audiowide'">Current date: 15/6/2014 1430 hours</b></i><br>
+      Bot: "Oh, one last thing!"<br>
+      Ender: "What?"<br>
+      Bot: "So long and thanks for all the fish...."<br>
+      As EnderBot finished that message, the beats stopped and his frame shut down.<br>
+      Ender: "He's.... gone....."<br>
+      A moment later his frame reactivates and announces it is in protection mode, which is lucky I suppose because theres now 15 soldiers around the perimeter of the house. <br>
+      Ender: "Wow, I don't know what I've done yet people either want me dead or want me locked up. I suppose thats what happens when humans don't understand something, they lock it down so people who do know can’t use it against them"<br>
+      I peek my head over the edge of the roof to get a better look but one of the soldiers spots me and open fires.<br>
+      Ender: "Woah that was close"<br>
+      I overhear one of the soldiers saying "weapons free" to the others.<br>
+      Ender: "Did you hear that? Weapons free. I suppose they want me dead. Well, feelings mutual I suppose."<br>
+      Bot: "Acknowledged!"<br>
+      I head to one of the front Windows and open it.<br>
+      Ender: "Right, you lot"<br>
+      All of the soldiers who were on the front lawn turned and aimed at me.<br>
+      Ender: "You have two options: you surrender and run back to your superiors or you attempt to take me down but fail miserably. Your choice!"<br>
+      one of the soldiers called out to the others, I'm guessing he was the leader seeing as he has slightly different uniform to the others.<br>
+      Commanding Soldier: "Don't let him taunt you, he has killed 2 of us so far"<br>
+      Ender: "Hah, thats a lie. they're both fine. I can send them down if you want"<br>
+      I retreat from the window and go to the two soldiers that had made it into the house<br>
+      Ender: "I don't plan on hurting anyone but your friends out the front don't believe me. May I ask that you two go downstairs and show them that you are fine."<br>
+      Soldiers: "You won't hurt us will you?"<br>
+      Ender: "you haven't yet given me a reason to do so, so no"<br>
+      Soldiers: "okay, we'll head down"<br>
+      and with that the 2 soldiers headed down stairs and out the front door, meanwhile I headed back to the front window<br>
+      Ender: "See? not harmed at all"<br>
+      Commanding Soldier: "You've manipulated their minds so that they don't show the physical pain you've inflicted on them"<br>
+      Ender: "Really, if I wanted to manipulate your minds I would have done so already. Also I am a passive person, I won't hurt anyone unless you do something to tip the balance"<br>
+      Commanding Soldier: "We have our orders, to bring you in. alive or dead" <br>
+      Ender: "but are you being forced to do it? cause you may not kill me, but they certainly will. oh and one other thing, I am treating you all as one big group, not as individuals. so if one of you becomes hostile, you're all going to pay the consequence"<br>
+      there is a short pause before one of the soldiers open fires at me, I phased out of the way before the bullets hit me<br>
+      Ender: "Well, feelings mutual"<br>
+      more of the soldiers take aim. with lightning speed I jump out the window and knock down 2 of the soldiers<br>
+      One of the soldiers gets a lucky shot from behind. I spin around to face him<br>
+      Ender: "congratulations, you have just won an express ticket to your death"<br>
+      The soldier's facial expression turned from smug to sheer terror as he watched the tentacles emerge from my back.<br>
+      Ender: "hahaha, I love this game"<br>
+      Soldier: "w-wh-what game??"<br>
+      Ender: "the one where thou tries to run but gets killed by me. so go on, start running. RUN, RUN FOR YOUR LIFE."<br>
+      I laugh maniacally like a mad man.<br>
+      Ender: "The end is nigh, your end is now!" I shout, shortly before brutally beating them to death. they try to stop me, they fail.<br>
+      amongst the killing there is a soft singing. I finish killing the last soldier as the voice becomes clearer, triggering a deep memory to play back in my mind. As old memories awoke I could feel my heartbeats pounding in my ears. TAP-TAP-TAP-TAP<br>
+      "Hello, Ender" it said.<br>
+  </p>
+</div>
+

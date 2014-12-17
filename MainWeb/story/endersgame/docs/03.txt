@@ -1,54 +1,67 @@
-<h1 style="color:white">The Bot That Time Forgot</h1>
-<p style="color:gray"><i>Chapter 3</i></p>
-<hr>
-<p> <img src="/_resources/img/story/tbttf.png"></p><hr>
-<p style="color:white">
-	<i><b style="color:green;font-family:'Audiowide'">Current date: Unknown</b></i><br>
-	Well, since I've got some time to kill I might as well explain what I look like. 
-	My height is roughly 6.3 foot. <br>
-	Black converse, dark blue denim jeans with a few rips and tears here and there. 
-	I have a jet black top that comes down to about a hands length below my waist with random words printed on it. <br>
-	I have long jet-black hair that ends halfway down my back with a full beard and moustache to match. <br>
-	My eyes are a acid-green colour that glow slightly in the dark and goggles that rest upon my forehead. <br>
-	Oh, I also have 2 hearts, because having just one is lame :P
-	<br><br>
-	"There you are..." I say as I see EnderBot.<br>
-	Bot: "well aren't you a sight for sore eyes"<br>
-	Ender: "eh, why did you think crossing the time rift was a good idea?"<br>
-	Bot: "I live dangerously"<br>
-	Ender: "thats fairly obvious, you lunatic"
-	<br><br>
-	Eh, while I'm here I might as well explain who/what EnderBot is. His appearance is similar to that of Wall-e with a highly advanced AI core I got from someone sometime on my travels. <br>He has managed to pick up his sassy nature from me which is funny at times. <br>I developed a power source for him that allows him to run off of either caffeine or propane, whichever I happen to have on hand.<br>
-	<br>
-	Ender: "Right, come on. let's go find somewhere to spend the night."<br>
-	Bot: "Well, while I was waiting for you to arrive I scanned the local area, there seems to be an abandoned building over there"<br>
-	Ender: "Lead the way!" <br>
-	And with that, EnderBot set off in the direction that he had been looking at with me following behind.<br>
-	<br>
-	You're probably also wondering what was going on before me and EnderBot time-jumped. <br>
-	Well, we (me, Kat and Shadow) used 2 space-time manipulators to alter the past, one of them to copying 2024 shadow to 2014 and the other to bring back 2014 shadow from the dead. <br>
-	Both of these 'tamperings' created a rift in space-time which me and EnderBot used to travel back to the past. <br>
-	I don't think Kat or Shadow have the knowlege to transverse the rift so at least we wont be creating more paradoxes anytime soon.<br>
-	<br>
-	Ender: "Say, have you managed to work out what date it is yet?"<br>
-	Bot: "Ermm, from what I've detected in radio waves and stuff, it's just turned 1st of June, 2014"<br>
-	Ender: "Ah, seems that rift took us 10 years into the past"<br>
-	Bot: "Indeed"<br>
-	Ender: "How much longer til----"<br>
-	Bot: "HEEEEYAAAAA"<br>
-	Startled I looked at EnderBot who had just kicked a door in of an old abandoned house<br>
-	Ender: "Great way to not attract attention, you idiot"<br>
-	Bot: "I scared you, didn't I?"<br>
-	Ender: "No, now shut up"<br>
-	Bot: "Fine!.."<br>
-	Looking at the house from the outside, it was an old worn down brick house with the windows borded up with wood. The door seems like it wouldn't take that much effort to break it, mainly because it was in bits from where EnderBot had /dismantled/ it.<br>
-	Inside there was an old couch that had a few tears in it, as for the other rooms, they were all empty except from one of the upstairs that had a pile of wood and an old mattress. the garden was just as wrecked with bits of metal and wires across what was left of the grass. Back inside I headed to the front room. "Ohh look, we have electricity" I say aloud as I turn on the light. <br><br>
-	Ender: "Right, I don't know about you but I'm tired"<br>
-	Bot:  "Eh, my fuel cells are a bit low"<br>
-	Ender: "Well, good thing I got this"<br>
-	I pull out a can of propane and proceed to recharge EnderBot with it<br>
-	Bot: "Ahh, much better" <br>
-	I put the can on the floor, turn off the light and lay down on the couch.<br>
-	Ender: "Good night EnderBot"<br>
-	Bot: "Sleep mode activated"<br>
-</p>
+<div class="row">
+  <div class="large-3 medium-3 columns">
+    <a href="?page=02" class="button success">Previous</a>
+  </div>
+  <div class="large-6 medium-6 columns">
+    <h1 style="color:white;text-align:center">The Bot That Time Forgot</h1>
+  </div>
+  <div class="large-3 medium-3 columns">
+    <a href="?page=04" class="button">Next</a>
+  </div>
+</div>
+<div class="row">
+  <p style="color:gray"><i>Chapter 3</i></p>
+  <hr>
+  <p> <img src="/_resources/img/story/tbttf.png"></p><hr>
+  <p style="color:white">
+    <i><b style="color:green;font-family:'Audiowide'">Current date: Unknown</b></i><br>
+    Well, since I've got some time to kill I might as well explain what I look like. 
+    My height is roughly 6.3 foot. <br>
+    Black converse, dark blue denim jeans with a few rips and tears here and there. 
+    I have a jet black top that comes down to about a hands length below my waist with random words printed on it. <br>
+    I have long jet-black hair that ends halfway down my back with a full beard and moustache to match. <br>
+    My eyes are a acid-green colour that glow slightly in the dark and goggles that rest upon my forehead. <br>
+    Oh, I also have 2 hearts, because having just one is lame :P
+    <br><br>
+    "There you are..." I say as I see EnderBot.<br>
+    Bot: "well aren't you a sight for sore eyes"<br>
+    Ender: "eh, why did you think crossing the time rift was a good idea?"<br>
+    Bot: "I live dangerously"<br>
+    Ender: "thats fairly obvious, you lunatic"
+    <br><br>
+    Eh, while I'm here I might as well explain who/what EnderBot is. His appearance is similar to that of Wall-e with a highly advanced AI core I got from someone sometime on my travels. <br>He has managed to pick up his sassy nature from me which is funny at times. <br>I developed a power source for him that allows him to run off of either caffeine or propane, whichever I happen to have on hand.<br>
+    <br>
+    Ender: "Right, come on. let's go find somewhere to spend the night."<br>
+    Bot: "Well, while I was waiting for you to arrive I scanned the local area, there seems to be an abandoned building over there"<br>
+    Ender: "Lead the way!" <br>
+    And with that, EnderBot set off in the direction that he had been looking at with me following behind.<br>
+    <br>
+    You're probably also wondering what was going on before me and EnderBot time-jumped. <br>
+    Well, we (me, Kat and Shadow) used 2 space-time manipulators to alter the past, one of them to copying 2024 shadow to 2014 and the other to bring back 2014 shadow from the dead. <br>
+    Both of these 'tamperings' created a rift in space-time which me and EnderBot used to travel back to the past. <br>
+    I don't think Kat or Shadow have the knowlege to transverse the rift so at least we wont be creating more paradoxes anytime soon.<br>
+    <br>
+    Ender: "Say, have you managed to work out what date it is yet?"<br>
+    Bot: "Ermm, from what I've detected in radio waves and stuff, it's just turned 1st of June, 2014"<br>
+    Ender: "Ah, seems that rift took us 10 years into the past"<br>
+    Bot: "Indeed"<br>
+    Ender: "How much longer til----"<br>
+    Bot: "HEEEEYAAAAA"<br>
+    Startled I looked at EnderBot who had just kicked a door in of an old abandoned house<br>
+    Ender: "Great way to not attract attention, you idiot"<br>
+    Bot: "I scared you, didn't I?"<br>
+    Ender: "No, now shut up"<br>
+    Bot: "Fine!.."<br>
+    Looking at the house from the outside, it was an old worn down brick house with the windows borded up with wood. The door seems like it wouldn't take that much effort to break it, mainly because it was in bits from where EnderBot had /dismantled/ it.<br>
+    Inside there was an old couch that had a few tears in it, as for the other rooms, they were all empty except from one of the upstairs that had a pile of wood and an old mattress. the garden was just as wrecked with bits of metal and wires across what was left of the grass. Back inside I headed to the front room. "Ohh look, we have electricity" I say aloud as I turn on the light. <br><br>
+    Ender: "Right, I don't know about you but I'm tired"<br>
+    Bot:  "Eh, my fuel cells are a bit low"<br>
+    Ender: "Well, good thing I got this"<br>
+    I pull out a can of propane and proceed to recharge EnderBot with it<br>
+    Bot: "Ahh, much better" <br>
+    I put the can on the floor, turn off the light and lay down on the couch.<br>
+    Ender: "Good night EnderBot"<br>
+    Bot: "Sleep mode activated"<br>
+  </p>
+</div>
+
