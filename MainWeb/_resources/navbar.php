@@ -57,6 +57,6 @@
 
 
 <div class="row">
-  <center><img src="/_resources/img/bannerAlt.png"></center>
+  <center><img src="/_resources/img/banner2015.png"></center>
 </div>
 <br>
