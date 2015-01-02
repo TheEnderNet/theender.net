@@ -4,6 +4,7 @@
   <link rel="shortcut icon" type="image/png" href="/favico.png">
   <title><?php echo $Title ?></title>
   <link rel="stylesheet" type="text/css" href="/_resources/css/foundation.css">
+  <link rel="stylesheet" type="text/css" href="/_resources/css/foundation-icons.css">
   <script type="text/javascript" src="/_resources/js/modernizr.js"></script>
   <link href='http://fonts.googleapis.com/css?family=Audiowide|Rock+Salt|Inconsolata|Indie+Flower' rel='stylesheet' type='text/css'>
 </head>

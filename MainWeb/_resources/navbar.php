@@ -9,8 +9,8 @@
         <!-- Right Nav Section -->
         <ul class="right">
             <?php if ($_SERVER['PHP_SELF'] !== "/index.php") {
-                echo "<li><a href=\"/\" style=\"color:green\">Back Home</a></li>".
-                    "<li class=\"divider\"></li>";
+                echo "<li><a href='/' style='color:green'><i class='fi-home' style='font-size: 18px'></i> Back Home</a></li>".
+                    "<li class='divider'></li>";
                 }
             ?>
             <li class="has-dropdown">
