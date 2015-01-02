@@ -1,7 +1,7 @@
 <?php
   ini_set('display_errors','On');
   $Title = "Ender's Home";
-  $PageName = "Ender's Lare";
+  $PageName = "Ender's Lair";
 ?>
 <!DOCTYPE HTML>
 <html class="no-js" lang="en">
