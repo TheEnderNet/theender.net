@@ -17,7 +17,6 @@
     <div class="row"><h1 style="color:white;font-family:'Rock Salt'"><center>Ender's Game</center></h1><hr></div>
     <div class="row">
       <h1 style="color:white"><i>Foreword</i></h1>
-      <hr>
       <p style="color:white">
         This story is semi-based around ShadowKatStudios' story (<a href="http://shadowkatstudios.gweb.io/story/index.htm">LINK</a>) so I may link
         parts for you ( the reader ) to go read before hand. When I write the
@@ -48,25 +47,10 @@
         };
       ?>
     </div>
-
-        <?php /*
-          $dir = "docs";
-          #print_r($files);
-          foreach ($files as $file) {
-            $myfile = 
-            echo "<li>".fread($myfile,filesize($dir."/".$file))."</li>";
-            fclose($myfile);
-          };
-        */
-        ?>
     
     <script src="/_resources/js/vendor/jquery.js"></script>
     <script src="/_resources/js/vendor/fastclick.js"></script>
     <script src="/_resources/js/foundation.min.js"></script>
-    <!--script> $(document).foundation(); </script-->
-    
-    <script>
-      $(document).foundation();
-    </script>
+    <script> $(document).foundation(); </script>
   </body>
 </html>

@@ -6,7 +6,7 @@
     <h1 style="color:white;text-align:center">The Path To Present</h1>
   </div>
   <div class="large-3 medium-3 columns">
-    <a href="#" data-reveal-id="nextChapter" class="button">Next</a>
+    <a href="?page=10" class="button">Next</a>
   </div>
 </div>
 <div class="row">
