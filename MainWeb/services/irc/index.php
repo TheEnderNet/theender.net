@@ -6,10 +6,10 @@
 <!DOCTYPE HTML>
 <html class="no-js" lang="en">
   
-  <?php include $_SERVER['DOCUMENT_ROOT']."_resources/header.php"; ?>
+  <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/header.php"; ?>
   
   <body style="background-color:black;background-image:url('../_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
-    <?php include $_SERVER['DOCUMENT_ROOT']."_resources/navbar.php"; ?>
+    <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <row>
       <div>
         <p style="color:white">
