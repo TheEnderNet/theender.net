@@ -10,7 +10,13 @@
   
   <body style="background-color:black;background-image:url('../_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     <?php include $_SERVER['DOCUMENT_ROOT']."_resources/navbar.php"; ?>
-    
+    <row>
+      <div>
+        <p style="color:white">
+          Hai
+        </p>
+      </div>
+    </row>
     <script src="/_resources/js/vendor/jquery.js"></script>
     <script src="/_resources/js/vendor/fastclick.js"></script>
     <script src="/_resources/js/foundation.min.js"></script>
