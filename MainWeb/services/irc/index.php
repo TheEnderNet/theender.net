@@ -11,13 +11,13 @@
   <body style="background-color:black;background-image:url('../_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <row>
-      <div class="large-6 columns panel">
+      <div class="large-5 columns panel">
         <p style="color:white">
           meep-de-meep
         </p>
       </div>
-      <div class="large-1 columns"><p></p></div>
-      <div class="large-6 columns panel">
+      <div class="large-2 columns"><p></p></div>
+      <div class="large-5 columns panel">
         <p style="color:white">
           meep-de-meep
         </p>
