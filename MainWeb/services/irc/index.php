@@ -16,7 +16,7 @@
           meep-de-meep
         </p>
       </div>
-      <div class="large-1 columns"></div>
+      <div class="large-1 columns"><p></p></div>
       <div class="large-6 columns panel">
         <p style="color:white">
           meep-de-meep
