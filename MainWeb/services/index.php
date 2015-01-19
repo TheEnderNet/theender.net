@@ -20,9 +20,6 @@
     </div>
     <div class="row">
         <?php
-            echo $_SERVER['SCRIPT_FILENAME'];
-            echo $_SERVER['PHP_SELF'];
-            echo $_SERVER['SCRIPT_URI'];
             echo getcwd();
         ?>
     
