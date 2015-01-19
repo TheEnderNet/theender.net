@@ -47,6 +47,18 @@
             <li><a href="/story/">Story Corner</a></li>
             <li class="divider"></li>
             <li class="has-dropdown">
+                <a href="#">Services</a>
+                <ul class="dropdown">
+                    <li class="has-dropdown">
+                        <a href="/services/irc/">IRC services</a>
+                        <ul class="dropdown">
+                            <li><a href="/services/irc/networks/">IRC Networks</a></li>
+                            <li><a href="/services/irc/bnc/">IRC Bouncer</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li class="has-dropdown">
                 <a href="#">Mods</a>
                 <ul class="dropdown">
                     <li><a href="/lasercraft/">LaserCraft</a></li>

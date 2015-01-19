@@ -11,9 +11,14 @@
   <body style="background-color:black;background-image:url('../_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <row>
-      <div>
+      <div class="panel">
         <p style="color:white">
-          Hai
+          meep-de-meep
+        </p>
+      </div>
+      <div class="panel">
+        <p style="color:white">
+          meep-de-meep
         </p>
       </div>
     </row>
