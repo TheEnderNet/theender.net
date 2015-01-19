@@ -10,7 +10,7 @@
   
   <body style="background-color:black;background-image:url('../_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
-    <row>
+    <!--<row>-->
       <div class="panel">
         <p style="color:white">
           meep-de-meep
@@ -21,7 +21,7 @@
           meep-de-meep
         </p>
       </div>
-    </row>
+    <!--</row>-->
     <script src="/_resources/js/vendor/jquery.js"></script>
     <script src="/_resources/js/vendor/fastclick.js"></script>
     <script src="/_resources/js/foundation.min.js"></script>
