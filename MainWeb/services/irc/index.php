@@ -1,7 +1,7 @@
 <?php
   ini_set('display_errors','On');
   $Title = "Ender's Services";
-  $PageName = "Ender's Services";
+  $PageName = "Ender's IRC Services";
 ?>
 <!DOCTYPE HTML>
 <html class="no-js" lang="en">
