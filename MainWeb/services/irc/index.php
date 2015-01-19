@@ -12,11 +12,11 @@
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <div class="row">
         <div class="large-6 columns panel">
-            <h2>IRC Networks</h2>
+            <h2 style="text-align:center">IRC Networks</h2>
             <p style="text-align:center">1</p>
         </div>
         <div class="large-6 columns panel">
-            <h2>IRC Bouncer</h2>
+            <h2 style="text-align:center">IRC Bouncer</h2>
             <p style="text-align:center">2</p>
         </div>
     </div>
