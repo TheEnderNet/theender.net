@@ -10,19 +10,14 @@
   
   <body style="background-color:black;background-image:url('../_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
-    <row>
-      <div class="large-5 columns panel">
-        <p style="color:white">
-          meep-de-meep
-        </p>
-      </div>
-      <div class="large-2 columns"><p></p></div>
-      <div class="large-5 columns panel">
-        <p style="color:white">
-          meep-de-meep
-        </p>
-      </div>
-    </row>
+    <div class="row">
+        <div class="large-6 panel">
+            <p style="color:white">1</p>
+        </div>
+        <div class="large-6 panel">
+            <p style="color:white">2</p>
+        </div>
+    </div>
     <script src="/_resources/js/vendor/jquery.js"></script>
     <script src="/_resources/js/vendor/fastclick.js"></script>
     <script src="/_resources/js/foundation.min.js"></script>
