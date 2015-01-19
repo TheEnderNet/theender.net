@@ -19,7 +19,7 @@
         <div class="large-6 columns panel">
             <h2 style="text-align:center">IRC Bouncer</h2>
             <p style="text-align:center">2</p>
-            <p style="text-align:center"><i class="fi-usb"></i></p>
+            <ul class="icon-styles"><p style="text-align:center"><i class="fi-usb"></i></p><ul>
         </div>
     </div>
     <script src="/_resources/js/vendor/jquery.js"></script>
