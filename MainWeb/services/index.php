@@ -28,7 +28,8 @@
     
     
     <?php
-      $files = array_diff(scandir($dir), array('..', '.'));
+      $files = array_diff(scandir(getcwd()), array('..', '.'));
+      echo $files;
       foreach ($files as $file) {
         $myfile = fopen($dir."/".$file, "r") or die("Unable to open file!");
         echo fread($myfile,filesize($dir."/".$file));
