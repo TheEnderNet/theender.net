@@ -11,7 +11,7 @@
   <body style="background-color:black;background-image:url('/_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <div class="row">
-        <div class="large-6-centered columns panel">
+        <div class="large-6-centered columns">
             <p style="text-shadow: 0 0 3px #FFFFFF;text-align:center">
                 This page is still a WIP
             </p>
