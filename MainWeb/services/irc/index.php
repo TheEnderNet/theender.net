@@ -14,12 +14,12 @@
         <div class="large-6 columns panel">
             <h2 style="text-align:center">IRC Networks</h2>
             <p style="text-align:center">1</p>
-            <p style="text-align:center"><i class="fi-web style5"></i></p>
+            <p style="text-align:center"><i class="fi-web style2"></i></p>
         </div>
         <div class="large-6 columns panel">
             <h2 style="text-align:center">IRC Bouncer</h2>
             <p style="text-align:center">2</p>
-            <ul class="icon-styles"><li><i class="fi-usb"></i></li><ul>
+            <p style="text-align:center"><i class="fi-usb style2"></i></p>
         </div>
     </div>
     <script src="/_resources/js/vendor/jquery.js"></script>
