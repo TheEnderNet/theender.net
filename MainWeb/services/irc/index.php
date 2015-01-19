@@ -14,7 +14,7 @@
         <div class="large-6 columns panel">
             <h2 style="text-align:center">IRC Networks</h2>
             <p style="text-align:center">1</p>
-            <p style="text-align:center"><i class="fi-web" style="size:42px"></i></p>
+            <p style="text-align:center"><i class="fi-web" style="font-size:42px"></i></p>
         </div>
         <div class="large-6 columns panel">
             <h2 style="text-align:center">IRC Bouncer</h2>
