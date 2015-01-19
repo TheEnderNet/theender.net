@@ -22,7 +22,7 @@
         <?php
             echo $_SERVER['SCRIPT_FILENAME'];
             echo $_SERVER['PHP_SELF'];
-            echo $_SERVER['SCRIPT_UR'];
+            echo $_SERVER['SCRIPT_URI'];
         ?>
     
     
