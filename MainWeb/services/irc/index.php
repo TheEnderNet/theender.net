@@ -12,7 +12,7 @@
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <dib class="row">
         <div class="large-6-centered columns panel">
-            <p style="text-shadow: 2px 2px 8px #FFFFFF;text-align:center">
+            <p style="text-shadow: 0 0 3px #FFFFFF;text-align:center">
                 This page is still a WIP
             </p>
         </div>
