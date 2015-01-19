@@ -11,11 +11,11 @@
   <body style="background-color:black;background-image:url('../_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <div class="row">
-        <div class="large-6 panel">
-            <p style="color:white">1</p>
+        <div class="large-6 columns panel">
+            <p>1</p>
         </div>
-        <div class="large-6 panel">
-            <p style="color:white">2</p>
+        <div class="large-6 columns panel">
+            <p>2</p>
         </div>
     </div>
     <script src="/_resources/js/vendor/jquery.js"></script>
