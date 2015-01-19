@@ -21,6 +21,7 @@
     <div class="row">
         <?php
             echo $_SERVER['SCRIPT_FILENAME'];
+            echo $_SERVER['PATH_TRANSLATED'];
         ?>
     
     
