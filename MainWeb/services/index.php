@@ -13,7 +13,7 @@
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <div class="row">
         <div class="large-6-centered columns">
-            <h1 style="text-shadow: 0 0 8px #FFFFFF;text-align:center">
+            <h1 style="text-shadow: 0 0 8px #FF00FF;text-align:center">
                 This section is still a WIP
             </h1>
         </div>
