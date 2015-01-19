@@ -15,6 +15,7 @@
             <h2 style="text-align:center">IRC Networks</h2>
             <p style="text-align:center">1</p>
             <p style="text-align:center"><i class="fi-web style2"></i></p>
+            <ul class="icon-styles large-block-grid-5 small-block-grid-3"><li><i class="fi-heart style3"></i></li></ul>
         </div>
         <div class="large-6 columns panel">
             <h2 style="text-align:center">IRC Bouncer</h2>
