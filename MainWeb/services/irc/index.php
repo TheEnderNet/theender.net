@@ -12,10 +12,10 @@
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <div class="row">
         <div class="large-6 columns panel">
-            <p>1</p>
+            <p style="text-align:center">1</p>
         </div>
         <div class="large-6 columns panel">
-            <p>2</p>
+            <p style="text-align:center">2</p>
         </div>
     </div>
     <script src="/_resources/js/vendor/jquery.js"></script>
