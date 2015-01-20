@@ -17,14 +17,21 @@
         <h1 style="text-shadow: 0 0 8px #FF00FF;text-align:center">
           This section is still a WIP, also I didn't know css could do text effects
         </h1>
+        <p>
+          I run my fair share of public accessible services, the majority of them being IRC based.<br>
+          Click the links below to be taking to pages for the relevant area.
+        </p>
       </div>
     </div>
     
     <div class="row">
-      <div class="small-6 columns panel">
+      <div class="small-4 columns panel">
         
       </div>
-      <div class="small-6 columns panel">
+      <div class="small-4 columns panel">
+        
+      </div>
+      <div class="small-4 columns panel">
         
       </div>
     </div>
