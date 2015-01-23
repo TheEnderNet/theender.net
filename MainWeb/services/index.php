@@ -26,10 +26,10 @@
     
     <div class="row">
       <div class="small-4 columns panel">
-        
+        <h2>Minecraft</h2>
       </div>
       <div class="small-4 columns panel">
-        
+        <h2>IRC</h2>
       </div>
       <div class="small-4 columns panel">
         
