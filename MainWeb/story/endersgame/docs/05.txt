@@ -1,62 +1,64 @@
 <div class="row">
-  <div class="large-3 medium-3 columns">
+  <div class="small-3 columns">
     <a href="?page=04" class="button success">Previous</a>
   </div>
-  <div class="large-6 medium-6 columns">
+  <div class="small-6 columns">
     <h1 style="color:white;text-align:center">Protocol 2471</h1>
   </div>
-  <div class="large-3 medium-3 columns">
+  <div class="small-3 columns">
     <a href="?page=06" class="button">Next</a>
   </div>
 </div>
 <div class="row">
-  <p style="color:gray"><i>Chapter 4.2</i></p>
-  <hr>
-  <p> <img src="/_resources/img/story/protocol2471.png"></p><hr>
-  <p style="color:white">
-      <i><b style="color:green;font-family:'Audiowide'">Current date: 15/6/2014 1400 hours</b></i><br>
-      Ender: "Right, should be ready to go"<br>
-      Bot: "Initialization commencing"<br>
-      Sparks suddenly erupted from the data terminal connectors of the satellite uplink device I had just spent a good 3-4 hours crafting together.<br>
-      Ender: "Ah crap"<br>
-      Bot: "Well, that didn't seem good"<br>
-      Ender: "Okay, let's try it at 26.48 Hz"<br>
-      Bot: "Commencing initialization "<br>
-      The copper wires that connect the satellite antenna to the power bank started to glow and then melted,<br>
-      Ender: "Okay, less amps"<br>
-      Bot: "Third time's the charm, attempting uplink"<br>
-      EnderBot starts making sounds imitating those of a 56k dial-up modem<br>
-      Ender: "Will you stop that?"<br>
-      Bot: "Fine...."<br><br>
-      Bot: "Woohoo o have a connection, not that fast but that might change when the connection stabilizes"<br>
-      Ender: "Awesome"<br>
-      Bot: "Right, to work out where we are"<br>
-      Bot: "Well, we're still in Australia, and roughly 10 miles from where we were in 2024" <br>
-      Ender: "Huh, kinda weird but okay"<br><br>
-      Bot: "Uhh"<br>
-      Ender: "What?"<br>
-      Bot: "Just going through government files and stuff, most of it's just garbage but there is one title that stuck out from the rest." <br>
-      Ender: "What is it?"<br>
-      Bot: "Operation end the Ender"<br>
-      Ender: "That cant be good, does it have any more info?"<br>
-      Bot: "Tes, it has about us coming back in time and getting parts for a computer and this contraption you made"<br>
-      Ender: "well, this isn't go--"<br>
-      Bot: "New information added, coordinates and a time last seen"<br>
-      Ender: "That means there pretty close, seeing as we've been here for the whole day...."<br>
-      Bot: "I have detected >5 hostile in the general vicinity, activating protocol 2471"<br>
-      Ender: "What is protocol 2471, I never programmed that into you..."<br>
-      Bot: "Your salvation "<br>
-      Ender: "What do you mean salv-" <br>
-      I stop abruptly because EnderBot started emitting a series of beeps, theres seems like theres a pattern to the beeps. 250ms on, 250Ms off repeated 4 times and then a 1 second pause.<br>
-      Ender: "That beat..."<br>
-      Bot: "Beginning upload"<br>
-      Ender: "Wait what are you uploading?!? "<br>
-      Bot: "I told you I had found a datacenter, to make sure that past events happen and the future events play as they should. This is where our paths seperate, old friend."<br>
-      Ender: "What do you mean?? you cant leave me here alone, think of all we've done together "<br>
-      Bot: "I am the reason computers are not allowed in >2015, it was always my destiny. I was constructed for 2 reasons, to trigger the events that set us on this path and to reunite 2 lost souls."<br>
-      Ender: "Well, you're doing one of them now but if you're uploading yourself how do you plan on doing the other?"<br>
-      Bot: "You will find out soon enough, not long left now. The upload is almost done, I will leave this body in protection mode once I go. I only hope it will be enough."<br>
-      Ender: "Enough?!! Enough for what??!?"<br>
-      Bot: "Spoilers, old friend"<br>
-  </p>
+  <div class="small-12 columns">
+    <p style="color:gray"><i>Chapter 4.2</i></p>
+    <hr>
+    <p> <img src="/_resources/img/story/protocol2471.png"></p><hr>
+    <p style="color:white">
+        <i><b style="color:green;font-family:'Audiowide'">Current date: 15/6/2014 1400 hours</b></i><br>
+        Ender: "Right, should be ready to go"<br>
+        Bot: "Initialization commencing"<br>
+        Sparks suddenly erupted from the data terminal connectors of the satellite uplink device I had just spent a good 3-4 hours crafting together.<br>
+        Ender: "Ah crap"<br>
+        Bot: "Well, that didn't seem good"<br>
+        Ender: "Okay, let's try it at 26.48 Hz"<br>
+        Bot: "Commencing initialization "<br>
+        The copper wires that connect the satellite antenna to the power bank started to glow and then melted,<br>
+        Ender: "Okay, less amps"<br>
+        Bot: "Third time's the charm, attempting uplink"<br>
+        EnderBot starts making sounds imitating those of a 56k dial-up modem<br>
+        Ender: "Will you stop that?"<br>
+        Bot: "Fine...."<br><br>
+        Bot: "Woohoo o have a connection, not that fast but that might change when the connection stabilizes"<br>
+        Ender: "Awesome"<br>
+        Bot: "Right, to work out where we are"<br>
+        Bot: "Well, we're still in Australia, and roughly 10 miles from where we were in 2024" <br>
+        Ender: "Huh, kinda weird but okay"<br><br>
+        Bot: "Uhh"<br>
+        Ender: "What?"<br>
+        Bot: "Just going through government files and stuff, most of it's just garbage but there is one title that stuck out from the rest." <br>
+        Ender: "What is it?"<br>
+        Bot: "Operation end the Ender"<br>
+        Ender: "That cant be good, does it have any more info?"<br>
+        Bot: "Tes, it has about us coming back in time and getting parts for a computer and this contraption you made"<br>
+        Ender: "well, this isn't go--"<br>
+        Bot: "New information added, coordinates and a time last seen"<br>
+        Ender: "That means there pretty close, seeing as we've been here for the whole day...."<br>
+        Bot: "I have detected >5 hostile in the general vicinity, activating protocol 2471"<br>
+        Ender: "What is protocol 2471, I never programmed that into you..."<br>
+        Bot: "Your salvation "<br>
+        Ender: "What do you mean salv-" <br>
+        I stop abruptly because EnderBot started emitting a series of beeps, theres seems like theres a pattern to the beeps. 250ms on, 250Ms off repeated 4 times and then a 1 second pause.<br>
+        Ender: "That beat..."<br>
+        Bot: "Beginning upload"<br>
+        Ender: "Wait what are you uploading?!? "<br>
+        Bot: "I told you I had found a datacenter, to make sure that past events happen and the future events play as they should. This is where our paths seperate, old friend."<br>
+        Ender: "What do you mean?? you cant leave me here alone, think of all we've done together "<br>
+        Bot: "I am the reason computers are not allowed in >2015, it was always my destiny. I was constructed for 2 reasons, to trigger the events that set us on this path and to reunite 2 lost souls."<br>
+        Ender: "Well, you're doing one of them now but if you're uploading yourself how do you plan on doing the other?"<br>
+        Bot: "You will find out soon enough, not long left now. The upload is almost done, I will leave this body in protection mode once I go. I only hope it will be enough."<br>
+        Ender: "Enough?!! Enough for what??!?"<br>
+        Bot: "Spoilers, old friend"<br>
+    </p>
+  </div>
 </div>
