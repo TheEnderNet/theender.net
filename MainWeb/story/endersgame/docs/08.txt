@@ -1,60 +1,62 @@
 <div class="row">
-  <div class="large-3 medium-3 columns">
+  <div class="small-3 columns">
     <a href="?page=07" class="button success">Previous</a>
   </div>
-  <div class="large-6 medium-6 columns">
+  <div class="small-6 columns">
     <h1 style="color:white;text-align:center">The Siren</h1>
   </div>
-  <div class="large-3 medium-3 columns">
+  <div class="small-3 columns">
     <a href="?page=09" class="button">Next</a>
   </div>
 </div>
 <div class="row">
-  <p> <img src="/_resources/img/story/siren.png"></p><hr>
-  <p style="color:white">
-      <i style="color:red">This chapter continues right from EnderBot Falls</i><br>
-      <i><b style="color:green;font-family:'Audiowide'">Current date: 15/6/2014 1630 hours</b></i><br>
-      I looked round to where I had heard the voice call from. At that very moment a mysterious... portal, if you will, appeared and a few moments later something emerged from it. 
-      I quickly identified that the figure was female and as I looked at her a sudden feeling of loss came over me. From her appearance I guessed that she wasn't human, 
-      or at least of the normal kind anyway. She looked to be about 5", 9’ tall, she had jet-black hair similar to mine that came down to her waist, 
-      and I also noticed that her hair was a vibrant blue in some places. Upon her head she had a pair of goggles that looked remarkably similar to my own. 
-      She had vibrant blue eyes and light toned skin. She had some strange markings or tattoos around her left eye that followed down her left side and then disappeared under clothes. 
-      Her top mainly consisted of a patchy blue and green t-shirt; she had what looked to be a leather jacket tied around her waist. On her bottom half she wore black skin-tight denim jeans and had blue converse. 
-      There were bandages on her left arm but it didn't look injured in any way. <br><br>
-      A few moments passed and her facial expression changed from happy to worry as she spoke.<br>
-      "Don’t you recognize me Ender?" she said in a sad, worried tone<br>
-      "I sense that I knew you once a very long time ago though I only have that, a feeling. I'm sorry if I was ever something more than just a passer-by to you" <br>
-      She started walking over to me slowly, slightly trembling in her walk. Probably due to her supposed knowledge of me and what I'm capable of.<br>
-      "I have a special ability which allows me to share my thoughts with others, would you mind if I shared some with you?" she said, now immediately in front of me.<br>
-      she raised her hands to the side of my head and the moment they touched I saw her head tilt back before a wave of emotions and memories started flooding my mind, 
-      I felt old memories being revisited with new perspectives added which I'm guessing are from the girl standing in front of me. After what seemed like hours but in reality
-      was only a few minutes or so the data finished consuming my mind and I was returned to reality. The moment I got my vision I saw the girl let her hands go from my head and 
-      stumble backwards a bit. From the memories that surfaced due to the memory link I understood that this girl was someone very important to me but I still didn't have all the 
-      pieces of the puzzle.<br><br>
-      "Who are you?" I beckoned, anger and rage in my voice<br>
-      "I am your soul mate, you have the memories, I saw them when I was giving you my perspective on them in the hopes that you would recognize me but I guess we've been separated 
-      for more than a century and it has had an effect on your memories" she said with a sad tone<br>
-      "I get that but I don't trust people whose names I don't know" I say, starting to get angry at this girl who apparently knows about me<br>
-      "Well, seeing as the memories didn't convince you, I'll tell you what I am to you. I am the creator of protocol 2471, I am your salvation and my name is-"<br>
-      She paused for a bit before pulling out a fairly large katana and proceeding to cut one of the soldiers that had somehow managed to not get decimated by me. Once she had divided 
-      the soldier into 3 sections she walked back over to me. <br>
-      "Where was I? Oh yeah, you're an Eridan. Your, well, our home planet is called Thra. I'm a siren" she rips the bandages off of her left arm, showing me the tattoos that come hand 
-      in hand with being a siren. "And we were performing the binding ritual before those bastards attacked and blew it up - " small flash backs getting triggered as she recalled previous 
-      events " - and we got separated" she handed me the katana she had used to slice the soldier with "this is yours, you left it behind when we got separated. Oh yeah, I almost forgot, 
-      my name is Lizzy!" the remaining emotions and memories that hadn't been awoken yet did so at the sound of her name. That was the last piece of the puzzle, the puzzle of the key that 
-      would unlock all the memories buried deep in my mind. I knew who she was now; she wasn't just another person trying to potentially attack me. She was my soul mate. The person that 
-      the universe decided would be the perfect match for me, which she was. <br><br>
+  <div class="small-12 columns">
+    <p> <img src="/_resources/img/story/siren.png"></p><hr>
+    <p style="color:white">
+        <i style="color:red">This chapter continues right from EnderBot Falls</i><br>
+        <i><b style="color:green;font-family:'Audiowide'">Current date: 15/6/2014 1630 hours</b></i><br>
+        I looked round to where I had heard the voice call from. At that very moment a mysterious... portal, if you will, appeared and a few moments later something emerged from it. 
+        I quickly identified that the figure was female and as I looked at her a sudden feeling of loss came over me. From her appearance I guessed that she wasn't human, 
+        or at least of the normal kind anyway. She looked to be about 5", 9’ tall, she had jet-black hair similar to mine that came down to her waist, 
+        and I also noticed that her hair was a vibrant blue in some places. Upon her head she had a pair of goggles that looked remarkably similar to my own. 
+        She had vibrant blue eyes and light toned skin. She had some strange markings or tattoos around her left eye that followed down her left side and then disappeared under clothes. 
+        Her top mainly consisted of a patchy blue and green t-shirt; she had what looked to be a leather jacket tied around her waist. On her bottom half she wore black skin-tight denim jeans and had blue converse. 
+        There were bandages on her left arm but it didn't look injured in any way. <br><br>
+        A few moments passed and her facial expression changed from happy to worry as she spoke.<br>
+        "Don’t you recognize me Ender?" she said in a sad, worried tone<br>
+        "I sense that I knew you once a very long time ago though I only have that, a feeling. I'm sorry if I was ever something more than just a passer-by to you" <br>
+        She started walking over to me slowly, slightly trembling in her walk. Probably due to her supposed knowledge of me and what I'm capable of.<br>
+        "I have a special ability which allows me to share my thoughts with others, would you mind if I shared some with you?" she said, now immediately in front of me.<br>
+        she raised her hands to the side of my head and the moment they touched I saw her head tilt back before a wave of emotions and memories started flooding my mind, 
+        I felt old memories being revisited with new perspectives added which I'm guessing are from the girl standing in front of me. After what seemed like hours but in reality
+        was only a few minutes or so the data finished consuming my mind and I was returned to reality. The moment I got my vision I saw the girl let her hands go from my head and 
+        stumble backwards a bit. From the memories that surfaced due to the memory link I understood that this girl was someone very important to me but I still didn't have all the 
+        pieces of the puzzle.<br><br>
+        "Who are you?" I beckoned, anger and rage in my voice<br>
+        "I am your soul mate, you have the memories, I saw them when I was giving you my perspective on them in the hopes that you would recognize me but I guess we've been separated 
+        for more than a century and it has had an effect on your memories" she said with a sad tone<br>
+        "I get that but I don't trust people whose names I don't know" I say, starting to get angry at this girl who apparently knows about me<br>
+        "Well, seeing as the memories didn't convince you, I'll tell you what I am to you. I am the creator of protocol 2471, I am your salvation and my name is-"<br>
+        She paused for a bit before pulling out a fairly large katana and proceeding to cut one of the soldiers that had somehow managed to not get decimated by me. Once she had divided 
+        the soldier into 3 sections she walked back over to me. <br>
+        "Where was I? Oh yeah, you're an Eridan. Your, well, our home planet is called Thra. I'm a siren" she rips the bandages off of her left arm, showing me the tattoos that come hand 
+        in hand with being a siren. "And we were performing the binding ritual before those bastards attacked and blew it up - " small flash backs getting triggered as she recalled previous 
+        events " - and we got separated" she handed me the katana she had used to slice the soldier with "this is yours, you left it behind when we got separated. Oh yeah, I almost forgot, 
+        my name is Lizzy!" the remaining emotions and memories that hadn't been awoken yet did so at the sound of her name. That was the last piece of the puzzle, the puzzle of the key that 
+        would unlock all the memories buried deep in my mind. I knew who she was now; she wasn't just another person trying to potentially attack me. She was my soul mate. The person that 
+        the universe decided would be the perfect match for me, which she was. <br><br>
 
-      View switch => Lizzy<br>
-      I stood there for a moment watching him as he processed all the information I'd just thrown at him. A few moments passed before he came back to the living at which point his facial 
-      expression changed to that of sorrow or regret as he quickly hugged me, tentacles and all. "Lizzy! I'm so sorry I didn't recognize you." he said with a trembling, sympathetic voice. <br>
-      A few moments passed before he spoke again.<br>
-      "Lizzy?"<br>
-      "Yes?"<br>
-      "Make sure we never get separated again."<br>
-      "We won't, but first we need to complete that ritual" I say, noticing my hair has started going back to its natural blue and that Ender's is also going back to its natural green. 
-      "Oh look, your hair is going back to blue" he says, noticing my hair. "Yours is doing it to!" I say back to him. I kiss him before leading him back into the house he'd supposedly 
-      been living in for a month or so<br>
-      "Let’s finish what we started long ago" I say as we walk towards the house. "Sounds like a plan to me" he says<br>
-  </p>
+        View switch => Lizzy<br>
+        I stood there for a moment watching him as he processed all the information I'd just thrown at him. A few moments passed before he came back to the living at which point his facial 
+        expression changed to that of sorrow or regret as he quickly hugged me, tentacles and all. "Lizzy! I'm so sorry I didn't recognize you." he said with a trembling, sympathetic voice. <br>
+        A few moments passed before he spoke again.<br>
+        "Lizzy?"<br>
+        "Yes?"<br>
+        "Make sure we never get separated again."<br>
+        "We won't, but first we need to complete that ritual" I say, noticing my hair has started going back to its natural blue and that Ender's is also going back to its natural green. 
+        "Oh look, your hair is going back to blue" he says, noticing my hair. "Yours is doing it to!" I say back to him. I kiss him before leading him back into the house he'd supposedly 
+        been living in for a month or so<br>
+        "Let’s finish what we started long ago" I say as we walk towards the house. "Sounds like a plan to me" he says<br>
+    </p>
+  </div>
 </div>

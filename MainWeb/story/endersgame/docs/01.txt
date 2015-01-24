@@ -1,25 +1,27 @@
 <div class="row">
-  <div class="large-3 medium-3 columns">
+  <div class="small-3 columns">
     <a href=".." class="button success">Back to Story Corner</a>
   </div>
-  <div class="large-6 medium-6 columns">
+  <div class="small-6 columns">
     <h1 style="color:white;text-align:center">Prologue</h1>
   </div>
-  <div class="large-3 medium-3 columns">
+  <div class="small-3 columns">
     <a href="?page=02" class="button">Next</a>
   </div>
 </div>
 <div class="row">
-  <p style="color:gray"><i>Chapter 1</i></p>
-  <hr>
-  <p> <img src="/_resources/img/story/prologue.png"></p><hr>
-  <p style="color:white">
-    <i><b style="color:green;font-family:'Audiowide'">Current date: Unknown</b></i><br>
-    <b>*loud gasp*</b><br>
-    I awake suddenly, body aching, in what appears to be a circular road.<br>
-    Completely disoriented I get myself to my feet and begin to wander to the sidewalk. <br>
-    I look around; all I can see is dimly lit bits of what looks like a small residential district. I look up to see the sky; it's a full moon tonight. <br>
-    “Urghh, that wasn’t the experience I had expected” I say to myself. <br>
-    As I rest myself against a light post, I check my heartbeat locator and see a blip. "There he is...” I say to myself as I walk off in the direction of the blip. <br>
-  </p>
+  <div class="small-12 columns">
+    <p style="color:gray"><i>Chapter 1</i></p>
+    <hr>
+    <p> <img src="/_resources/img/story/prologue.png"></p><hr>
+    <p style="color:white">
+      <i><b style="color:green;font-family:'Audiowide'">Current date: Unknown</b></i><br>
+      <b>*loud gasp*</b><br>
+      I awake suddenly, body aching, in what appears to be a circular road.<br>
+      Completely disoriented I get myself to my feet and begin to wander to the sidewalk. <br>
+      I look around; all I can see is dimly lit bits of what looks like a small residential district. I look up to see the sky; it's a full moon tonight. <br>
+      “Urghh, that wasn’t the experience I had expected” I say to myself. <br>
+      As I rest myself against a light post, I check my heartbeat locator and see a blip. "There he is...” I say to myself as I walk off in the direction of the blip. <br>
+    </p>
+  </div>
 </div>

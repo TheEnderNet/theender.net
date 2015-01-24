@@ -1,50 +1,52 @@
 <div class="row">
-  <div class="large-3 medium-3 columns">
+  <div class="small-3 columns">
     <a href="?page=09" class="button success">Previous</a>
   </div>
-  <div class="large-6 medium-6 columns">
+  <div class="small-6 columns">
     <h1 style="color:white;text-align:center">Nightmare Tolls</h1>
   </div>
-  <div class="large-3 medium-3 columns">
+  <div class="small-3 columns">
     <a href="#" data-reveal-id="nextChapter" class="button">Next</a>
   </div>
 </div>
 <div class="row">
-  <p> <img src="/_resources/img/story/nightmaretolls.png"></p><hr>
-  <p style="color:white">
-      <i><b style="color:green;font-family:'Audiowide'">Current date: 22/6/2014 1430 hours</b></i><br>
-      The room was silent, the only noise I could hear was the trees swaying in the wind. I felt a heavy object on my face. 
-      At first I thought it was EnderBot being mischevious but I felt it and it was warm and feathery, in a blind panic I got 
-      up at lightning speed and pinned the object that the warm feathery things belonged to against the wall with my tentacles.<br><br>
-      "The fuck Ender?" said Lizzy in a bitter tone, "That's the 4th time you've done that this week!". 
-      I stood there as waves upon waves of what could only be described as a mix of shock, horror and confusion swept over me. 
-      "You gonna let me down?" Lizzy said in an exasperated tone. I moved my tentacles to behind her back and pulled her close to 
-      me and hugged her tightly. <br><br>
-      "Gah, too tight too tight!" Lizzy groaned as I hugged her with most of my strength. I released my gip a little so she 
-      wouldnt be as squashed. <br>
-      "I'm sorry Lizzy, I'm still not used to having living company about" I said in an apologetic tone with tears rolling 
-      down my face. <br>
-      "Well you better get used to it because we're not getting separated again" She said in a stern voice. "How did you forget 
-      me though? We've only been separated for just over a month." said Lizzy. <br>
-      "For you, yes. For me, well. It's been about 103 years since I last saw your face." I said while releasing my grip on her.
-      "How did that happen? Did you get the Vortex Drive in The Darcath working?" Said Lizzy with a smile on her face.<br>
-      "Well, yes and no. Yes it worked, no it doesn't work to design. It's a lottery, it doesn't listen to any of the input 
-      controls apart from the activate button." I said with a sigh.<br>
-      "Well, I might be able to help with that" Said Lizzy, giggling. "How so?" I said in a puzzeled tone.
-      "Well, when we completed the binding ritual I gained the ability to time travel. Want me to show you?" said Lizzy, sounding 
-      proud of the fact that she could possibly time travel.<br>
-      "Err, sure." I said. "Okay, my watch currently says 15:45 and I'm going to jump forward 5 minutes." said Lizzy
-      "Oka-" I said getting cut off by Lizzy time-shifting out. "Huh" I muttered aloud.<br><br>
+  <div class="small-12 columns">
+    <p> <img src="/_resources/img/story/nightmaretolls.png"></p><hr>
+    <p style="color:white">
+        <i><b style="color:green;font-family:'Audiowide'">Current date: 22/6/2014 1430 hours</b></i><br>
+        The room was silent, the only noise I could hear was the trees swaying in the wind. I felt a heavy object on my face. 
+        At first I thought it was EnderBot being mischevious but I felt it and it was warm and feathery, in a blind panic I got 
+        up at lightning speed and pinned the object that the warm feathery things belonged to against the wall with my tentacles.<br><br>
+        "The fuck Ender?" said Lizzy in a bitter tone, "That's the 4th time you've done that this week!". 
+        I stood there as waves upon waves of what could only be described as a mix of shock, horror and confusion swept over me. 
+        "You gonna let me down?" Lizzy said in an exasperated tone. I moved my tentacles to behind her back and pulled her close to 
+        me and hugged her tightly. <br><br>
+        "Gah, too tight too tight!" Lizzy groaned as I hugged her with most of my strength. I released my gip a little so she 
+        wouldnt be as squashed. <br>
+        "I'm sorry Lizzy, I'm still not used to having living company about" I said in an apologetic tone with tears rolling 
+        down my face. <br>
+        "Well you better get used to it because we're not getting separated again" She said in a stern voice. "How did you forget 
+        me though? We've only been separated for just over a month." said Lizzy. <br>
+        "For you, yes. For me, well. It's been about 103 years since I last saw your face." I said while releasing my grip on her.
+        "How did that happen? Did you get the Vortex Drive in The Darcath working?" Said Lizzy with a smile on her face.<br>
+        "Well, yes and no. Yes it worked, no it doesn't work to design. It's a lottery, it doesn't listen to any of the input 
+        controls apart from the activate button." I said with a sigh.<br>
+        "Well, I might be able to help with that" Said Lizzy, giggling. "How so?" I said in a puzzeled tone.
+        "Well, when we completed the binding ritual I gained the ability to time travel. Want me to show you?" said Lizzy, sounding 
+        proud of the fact that she could possibly time travel.<br>
+        "Err, sure." I said. "Okay, my watch currently says 15:45 and I'm going to jump forward 5 minutes." said Lizzy
+        "Oka-" I said getting cut off by Lizzy time-shifting out. "Huh" I muttered aloud.<br><br>
 
 
-      Not more than five minutes later I detected space-time distortions around where Lizzy had been. There was a thunderous clap 
-      and a flash of bright light as Lizzy emerged from the void.<br><br>
+        Not more than five minutes later I detected space-time distortions around where Lizzy had been. There was a thunderous clap 
+        and a flash of bright light as Lizzy emerged from the void.<br><br>
 
-      "15:45 my watch says" said Lizzy with a proud smirk on her face. I grabbed her hand and looked at her watch, it did indeed 
-      show 15:45 before jumping to 15:51 because of it's automatic corrector. "Well" I said, "This changes everything."<br>
-      I pull Lizzy in close and kiss her passionately.<br>
-      "Come on you, we've got work to do" I say with a smile. "Ohh what do you have planned?" said Lizzy, giggling 
-  </p>
+        "15:45 my watch says" said Lizzy with a proud smirk on her face. I grabbed her hand and looked at her watch, it did indeed 
+        show 15:45 before jumping to 15:51 because of it's automatic corrector. "Well" I said, "This changes everything."<br>
+        I pull Lizzy in close and kiss her passionately.<br>
+        "Come on you, we've got work to do" I say with a smile. "Ohh what do you have planned?" said Lizzy, giggling 
+    </p>
+  </div>
 </div>
 
 <div id="nextChapter" class="reveal-modal" data-reveal>

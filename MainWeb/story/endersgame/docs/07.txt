@@ -1,101 +1,103 @@
 <div class="row">
-  <div class="large-3 medium-3 columns">
+  <div class="small-3 columns">
     <a href="?page=06" class="button success">Previous</a>
   </div>
-  <div class="large-6 medium-6 columns">
+  <div class="small-6 columns">
     <h1 style="color:white;text-align:center">A1_C4T</h1>
   </div>
-  <div class="large-3 medium-3 columns">
+  <div class="small-3 columns">
     <a href="?page=08" class="button">Next</a>
   </div>
 </div>
 <div class="row">
-  <p style="color:gray"><i>Chapter 4.4</i></p>
-  <hr>
-  <p> <img src="/_resources/img/story/a1_c4t.png"></p><hr>
-  <p style="color:white">
-      <i><b style="color:green;font-family:'Audiowide'">Current date: 23/5/2024 1900 hours</b></i><br>
-      The network changed from its usual 4-beat rhythm to Morse code:<br>
+  <div class="small-12 columns">
+    <p style="color:gray"><i>Chapter 4.4</i></p>
+    <hr>
+    <p> <img src="/_resources/img/story/a1_c4t.png"></p><hr>
+    <p style="color:white">
+        <i><b style="color:green;font-family:'Audiowide'">Current date: 23/5/2024 1900 hours</b></i><br>
+        The network changed from its usual 4-beat rhythm to Morse code:<br>
 
-      .- ..- - .... --- .-. .. --.. .- - .. --- -. / -.-. --- -.. . / ..... ----- ...-- --... ..... .-.-.- / - .... .. ... / .. ... / - .... . / ..-. .- - .... . .-. ... / .-. . --.- ..- . ... - .. -. --. / .- ... ... .. ... - .- -. -.-. . / ..-. .-. --- -- / - .... . / . -. -.. . .-. / <br> / -.-. --- -.. . / .- -.-. -.-. . .--. - . -.. --..-- / .-- .... .- - / .. ... / .. - / - .... .- - / -.-- --- ..- / .-. . --.- ..- .. .-. . / .... . .-.. .--. / .-- .. - .... ..--.. / <br><br>
-      .-- . / -. . . -.. / .... . .-.. .--. / .-- .. - .... / .- / .--. .-. --- .--- . -.-. - / .-- .... .. -.-. .... / .. ... / -.-. --- -.. . -. .- -- . -.. / -.. ...-- ....- -. .-.-.- / -- .- -.-- / .-- . / .-. . --.- ..- . ... - / .- ... ... .. ... - .- -. -.-. . / .. -. / .--. . .-. ... --- -. ..--.. / <br><br>
-      -- . . - / -- . / .- - / - .... . / .--. .-. . .- .-. .-. .- -. --. . -.. / .--. .-.. .- -.-. . / .- - / - .... . / -. . -..- - / --- -.-. -.-. ..- .-. .-. . -. -.-. . / --- ..-. / ----- ...-- ----- ----- / .... --- ..- .-. ... / <br><br>
-      ..- -. -.. . .-. ... - --- --- -.. --..-- / ..-. .- - .... . .-. ... / --- ..- - <br><br>
-      <b style="color:yellow;font-family:'Audiowide'">Translations</b><br>
-      "Authorization code 50375. this is the fathers requesting assistance from the Ender"<br>
-      "Code accepted, what is it that you require help with?”<br>
-      “We need help with a project which is codenamed D34N. May we request assistance in person?”<br>
-      “Meet me at the prearranged place at the next occurrence of 0300 hours”<br>
-      “Understood, Fathers out”<br><br>
-      There was a 1 second pause before the network resumed the 4-beat rhythm.<br>
-      Ender: “Right, come along EnderBot.”<br>
-      Bot: “Ok”<br>
-      <br>
-      ****************<br>
-      <br>
-      <i><b style="color:green;font-family:'Audiowide'">Current date: 24/5/2024 0300 hours</b></i><br>
-      Fathers: "It's good to see you again Ender"<br>
-      Ender: "Same to you, lets get down to business shall we?"<br>
-      Fathers: "Yes, this way"<br>
-      The fathers lead me to a trap door that seems to lead to some sort of lab. Upon entering the lab I am greeted by the blue hue of the lights that illuminate the room. “I like these, I should get some” I think to myself<br>
-      after my eyes adjust to the light of the room, I see that there is various computer parts and wires spewed all over the place.<br>
-      Fathers: "We need help with an AI we found and repaired. For you see it’s structure and materials are not that of earth origin."<br>
-      Ender: "Ahh, yes I understand. Don’t want the humans getting hold of an advanced technology and then killing each other over it."<br>
-      Fathers: "Preciscly, do you have any ideas of how we can keep it hidden from them?"<br>
-      I think to myself of a way to put it in a different body when the Fathers’ old cat brushes up against me.<br>
-      Ender: "Hello Eve, how have you been?"<br>
-      Fathers: "She hasn’t been well, she’s usually quite slow a moving and responding though she seems to be a bit better today."<br>
-      Ender: "Hmm, lets have a look shall we."<br>
-      I pick up Eve and cradled here in my arms.<br>
-      Fathers: "What are you going to attempt to do?"<br>
-      Ender: "See whats wrong with her, there is one specific detail about my existence that I haven’t told you about."<br>
-      Fathers: "What would that be?"<br>
-      Ender: "That I am not of this world and I know where that AI core was made, about 1045 earth years ago."<br>
-      Fathers: "Interesting, We gathered that you were not an ordinary citizen. If you don't mind our asking, what are you proposing we do with the AI and Eve?"<br>
-      Ender: "She’s old though you probably already knew that. I have also sensed that her liver stopped functioning about 30 seconds ago, one of her kidneys is failing and it is unlikely that she will not live to see the dawn of the sun."<br>
-      Fathers: "Is there anything you can do to help her?"<br>
-      Ender: "Not keeping her the same as she is now, no. But I do have a way to save her and deal with the AI in one operation."<br>
-      Fathers: "What are you proposing?"<br>
-      Ender: "I’m proposing something I’ve just dubbed as the A1_C4T."<br>
-      Fathers: "Are you suggesting some sort of merge?"<br>
-      Ender: "Yes, and it shouldn’t take me that long to do."<br>
-      About an hour and a half later and I had merged the cat and the AI cube.<br>
-      Ender: "Right, now to put her in her bed to give her a power boost, EnderBot, come here"<br>
-      I wire D34N and EnderBot together with data cables.<br>
-      Ender: "Send the wake up command"<br>
-      Bot: "Sending..."<br>
-      A few moments later there is some twitching from Eve, indicating that the wakeup call completed. I connect a monitor to some of EnderBot’s data terminals<br>
-      Ender: "Any data you get back put them on the screen"<br>
-      Bot: "Processing..."<br>
-      Text starts appearing on the screen:<br>
-  </p>
-  <p style="color:white;font-family:'Inconsolata'">
-      Locating kernel……………………….<br>
-      Kernel found……………..<br>
-      Initialising the kernel…………..<br>
-      Kernel load complete: starting sub-system inits<br>
-  </p>
-  <p style="color:white">
-      That’s all I saw before the black suits came knocking on the door<br>
-      Ender: "They cannot know I was here, or that D34N exists for that matter. If they ask just say I came and stole your computer parts or something because they will kill you for helping me."<br>
-      Fathers: "But, you're helping us."<br>
-      Ender: "Yes, but they don't care about that. All they care about is destoying anything and everything related to me."
-      Fathers: "Ahh, we understand, take her with you. Theres a door at the back that you can use. Just promise us one thing."<br>
-      Ender: "Yes?"<br>
-      Fathers: "Keep her safe"<br>
-      Theres a thumping at the door as the black suits start trying to break the door in.<br>
-      Endwer: "I will." I say as I pick up D34N and EnderBot and bolt for the back door clutching enderbot and D34N in each arm<br>
-      Ender: "Any progress on D34N, EnderBot?"<br>
-      Bot: "Normal startup ended abruptedly, sending emergency wakeup call and bursting basic survival data."<br>
-      I round the corner at the end of the road and get behind a bush<br>
-      Ender: "EnderBot, how is that data burst doing."<br>
-      Bot: "Just finished."<br>
-      Ender: "Right, give her one last message."<br>
-      Bot: "Yes?"<br>
-      Ender: "This is where our paths must separate for now, the beats will guide them, follow the beats"<br>
-      Bot: "Done"<br>
-      Ender: "Right, she should be safe here till she fully awakes, lets get out of here."<br>
-      I disconnect the cables frm D34N, pick up enderbot and continue running from the black suits, who have spotted me and started persuing me<br>
-      Ender: "I hope she’ll be ok."" I say as I bolt past a platoon of blacksuits<br>
-  </p>
+        .- ..- - .... --- .-. .. --.. .- - .. --- -. / -.-. --- -.. . / ..... ----- ...-- --... ..... .-.-.- / - .... .. ... / .. ... / - .... . / ..-. .- - .... . .-. ... / .-. . --.- ..- . ... - .. -. --. / .- ... ... .. ... - .- -. -.-. . / ..-. .-. --- -- / - .... . / . -. -.. . .-. / <br> / -.-. --- -.. . / .- -.-. -.-. . .--. - . -.. --..-- / .-- .... .- - / .. ... / .. - / - .... .- - / -.-- --- ..- / .-. . --.- ..- .. .-. . / .... . .-.. .--. / .-- .. - .... ..--.. / <br><br>
+        .-- . / -. . . -.. / .... . .-.. .--. / .-- .. - .... / .- / .--. .-. --- .--- . -.-. - / .-- .... .. -.-. .... / .. ... / -.-. --- -.. . -. .- -- . -.. / -.. ...-- ....- -. .-.-.- / -- .- -.-- / .-- . / .-. . --.- ..- . ... - / .- ... ... .. ... - .- -. -.-. . / .. -. / .--. . .-. ... --- -. ..--.. / <br><br>
+        -- . . - / -- . / .- - / - .... . / .--. .-. . .- .-. .-. .- -. --. . -.. / .--. .-.. .- -.-. . / .- - / - .... . / -. . -..- - / --- -.-. -.-. ..- .-. .-. . -. -.-. . / --- ..-. / ----- ...-- ----- ----- / .... --- ..- .-. ... / <br><br>
+        ..- -. -.. . .-. ... - --- --- -.. --..-- / ..-. .- - .... . .-. ... / --- ..- - <br><br>
+        <b style="color:yellow;font-family:'Audiowide'">Translations</b><br>
+        "Authorization code 50375. this is the fathers requesting assistance from the Ender"<br>
+        "Code accepted, what is it that you require help with?”<br>
+        “We need help with a project which is codenamed D34N. May we request assistance in person?”<br>
+        “Meet me at the prearranged place at the next occurrence of 0300 hours”<br>
+        “Understood, Fathers out”<br><br>
+        There was a 1 second pause before the network resumed the 4-beat rhythm.<br>
+        Ender: “Right, come along EnderBot.”<br>
+        Bot: “Ok”<br>
+        <br>
+        ****************<br>
+        <br>
+        <i><b style="color:green;font-family:'Audiowide'">Current date: 24/5/2024 0300 hours</b></i><br>
+        Fathers: "It's good to see you again Ender"<br>
+        Ender: "Same to you, lets get down to business shall we?"<br>
+        Fathers: "Yes, this way"<br>
+        The fathers lead me to a trap door that seems to lead to some sort of lab. Upon entering the lab I am greeted by the blue hue of the lights that illuminate the room. “I like these, I should get some” I think to myself<br>
+        after my eyes adjust to the light of the room, I see that there is various computer parts and wires spewed all over the place.<br>
+        Fathers: "We need help with an AI we found and repaired. For you see it’s structure and materials are not that of earth origin."<br>
+        Ender: "Ahh, yes I understand. Don’t want the humans getting hold of an advanced technology and then killing each other over it."<br>
+        Fathers: "Preciscly, do you have any ideas of how we can keep it hidden from them?"<br>
+        I think to myself of a way to put it in a different body when the Fathers’ old cat brushes up against me.<br>
+        Ender: "Hello Eve, how have you been?"<br>
+        Fathers: "She hasn’t been well, she’s usually quite slow a moving and responding though she seems to be a bit better today."<br>
+        Ender: "Hmm, lets have a look shall we."<br>
+        I pick up Eve and cradled here in my arms.<br>
+        Fathers: "What are you going to attempt to do?"<br>
+        Ender: "See whats wrong with her, there is one specific detail about my existence that I haven’t told you about."<br>
+        Fathers: "What would that be?"<br>
+        Ender: "That I am not of this world and I know where that AI core was made, about 1045 earth years ago."<br>
+        Fathers: "Interesting, We gathered that you were not an ordinary citizen. If you don't mind our asking, what are you proposing we do with the AI and Eve?"<br>
+        Ender: "She’s old though you probably already knew that. I have also sensed that her liver stopped functioning about 30 seconds ago, one of her kidneys is failing and it is unlikely that she will not live to see the dawn of the sun."<br>
+        Fathers: "Is there anything you can do to help her?"<br>
+        Ender: "Not keeping her the same as she is now, no. But I do have a way to save her and deal with the AI in one operation."<br>
+        Fathers: "What are you proposing?"<br>
+        Ender: "I’m proposing something I’ve just dubbed as the A1_C4T."<br>
+        Fathers: "Are you suggesting some sort of merge?"<br>
+        Ender: "Yes, and it shouldn’t take me that long to do."<br>
+        About an hour and a half later and I had merged the cat and the AI cube.<br>
+        Ender: "Right, now to put her in her bed to give her a power boost, EnderBot, come here"<br>
+        I wire D34N and EnderBot together with data cables.<br>
+        Ender: "Send the wake up command"<br>
+        Bot: "Sending..."<br>
+        A few moments later there is some twitching from Eve, indicating that the wakeup call completed. I connect a monitor to some of EnderBot’s data terminals<br>
+        Ender: "Any data you get back put them on the screen"<br>
+        Bot: "Processing..."<br>
+        Text starts appearing on the screen:<br>
+    </p>
+    <p style="color:white;font-family:'Inconsolata'">
+        Locating kernel……………………….<br>
+        Kernel found……………..<br>
+        Initialising the kernel…………..<br>
+        Kernel load complete: starting sub-system inits<br>
+    </p>
+    <p style="color:white">
+        That’s all I saw before the black suits came knocking on the door<br>
+        Ender: "They cannot know I was here, or that D34N exists for that matter. If they ask just say I came and stole your computer parts or something because they will kill you for helping me."<br>
+        Fathers: "But, you're helping us."<br>
+        Ender: "Yes, but they don't care about that. All they care about is destoying anything and everything related to me."
+        Fathers: "Ahh, we understand, take her with you. Theres a door at the back that you can use. Just promise us one thing."<br>
+        Ender: "Yes?"<br>
+        Fathers: "Keep her safe"<br>
+        Theres a thumping at the door as the black suits start trying to break the door in.<br>
+        Endwer: "I will." I say as I pick up D34N and EnderBot and bolt for the back door clutching enderbot and D34N in each arm<br>
+        Ender: "Any progress on D34N, EnderBot?"<br>
+        Bot: "Normal startup ended abruptedly, sending emergency wakeup call and bursting basic survival data."<br>
+        I round the corner at the end of the road and get behind a bush<br>
+        Ender: "EnderBot, how is that data burst doing."<br>
+        Bot: "Just finished."<br>
+        Ender: "Right, give her one last message."<br>
+        Bot: "Yes?"<br>
+        Ender: "This is where our paths must separate for now, the beats will guide them, follow the beats"<br>
+        Bot: "Done"<br>
+        Ender: "Right, she should be safe here till she fully awakes, lets get out of here."<br>
+        I disconnect the cables frm D34N, pick up enderbot and continue running from the black suits, who have spotted me and started persuing me<br>
+        Ender: "I hope she’ll be ok."" I say as I bolt past a platoon of blacksuits<br>
+    </p>
+  </div>
 </div>
