@@ -20,7 +20,7 @@
                     "<li class='divider'></li>";
                 }
             ?>
-            <li class="<?php if ($docRoot === "/information/") {echo $hd.$a;} else {echo $hd;}; ?>">
+            <li class="<?php if (stripos($docRoot,"/information/") === 0) {echo $hd.$a;} else {echo $hd;}; ?>">
                 <a href="/information/">Informational Stuff</a>
                 <ul class="dropdown">
                     <li><a href="/information/#about">Who the hell am I?</a></li>
@@ -43,7 +43,7 @@
     <!-- Left Nav Sesction -->
         <ul class="left">
             <li class="divider"></li>
-            <li class="<?php if ($docRoot === "/projects/") {echo $hd.$a;} else {echo $hd;}; ?>">
+            <li class="<?php if (stripos($docRoot,"/projects/") === 0) {echo $hd.$a;} else {echo $hd;}; ?>">
                 <a href="/projects/">Projects</a>
                 <ul class="dropdown">
                     <li><a href="/projects/#LaserCraft">Laser Craft</a></li>
@@ -51,7 +51,7 @@
                 </ul>
             </li>
             <li class="divider"></li>
-            <li class="<?php if($docRoot==="/story/"){echo $a;};?>">
+            <li class="<?php if(stripos($docRoot,"/story/") === 0){echo $a;};?>">
               <a href="/story/">Story Corner</a>
             </li>
             <li class="divider"></li>
