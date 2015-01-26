@@ -32,7 +32,7 @@
                 <a href="#">Other Sites</a>
                 <ul class="dropdown">
                     <li class="active"><a href="http://www.theender.net">EnderNet (You're here)</a></li>
-                    <li class=""><a href="http://stargatetech.theender.net">StargateTech2 Wiki</a></li>
+                    <li><a href="http://stargatetech.theender.net">StargateTech2 Wiki</a></li>
                     <li><a href="http://superminor2.net">SuPeRMiNoR2</a></li>
                     <li><a href="http://stats.theender.net">Ender's IRC Statistics</a></li>
                     <li><a href="http://www.theender.net/jenkins">Ender's Jenkins CI</a></li>
