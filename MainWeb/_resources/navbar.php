@@ -1,3 +1,10 @@
+<?php 
+  $AB = "meep";
+  $docRoot = str_ireplace("index.php","", $_SERVER['PHP_SELF']);
+  $hd = "has-dropdown ";
+  $a = "active";
+?>
+
 <nav class="top-bar" data-topbar>
   <ul class="title-area">
     <li class="name">
@@ -8,12 +15,12 @@
     <section class="top-bar-section">
         <!-- Right Nav Section -->
         <ul class="right">
-            <?php if ($_SERVER['PHP_SELF'] !== "/index.php") {
-                echo "<li><a href='/'><i class='fi-home' style='font-size: 18px'></i> Back Home</a></li>".
+            <?php if ($docRoot !== "/") {
+                echo "<li><a href='/'><i class='fi-home'></i> Back Home</a></li>".
                     "<li class='divider'></li>";
                 }
             ?>
-            <li class="has-dropdown">
+            <li class="<?php if ($docRoot === "/information/") {echo $hd.$a;} else {echo $hd;}; ?>">
                 <a href="/information/">Informational Stuff</a>
                 <ul class="dropdown">
                     <li><a href="/information/#about">Who the hell am I?</a></li>
@@ -25,8 +32,8 @@
                 <a href="#">Other Sites</a>
                 <ul class="dropdown">
                     <li class="active"><a href="http://www.theender.net">EnderNet (You're here)</a></li>
-                    <li><a href="http://stargatetech.theender.net/">StargateTech2 Wiki</a></li>
-                    <li><a href="http://superminor2.net/">SuPeRMiNoR2</a></li>
+                    <li class=""><a href="http://stargatetech.theender.net">StargateTech2 Wiki</a></li>
+                    <li><a href="http://superminor2.net">SuPeRMiNoR2</a></li>
                     <li><a href="http://stats.theender.net">Ender's IRC Statistics</a></li>
                     <li><a href="http://www.theender.net/jenkins">Ender's Jenkins CI</a></li>
                 </ul>
@@ -36,7 +43,7 @@
     <!-- Left Nav Sesction -->
         <ul class="left">
             <li class="divider"></li>
-            <li class="has-dropdown">
+            <li class="<?php if ($docRoot === "/projects/") {echo $hd.$a;} else {echo $hd;}; ?>">
                 <a href="/projects/">Projects</a>
                 <ul class="dropdown">
                     <li><a href="/projects/#LaserCraft">Laser Craft</a></li>
@@ -44,12 +51,14 @@
                 </ul>
             </li>
             <li class="divider"></li>
-            <li><a href="/story/">Story Corner</a></li>
+            <li class="<?php if($docRoot==="/story/"){echo $a;};?>">
+              <a href="/story/">Story Corner</a>
+            </li>
             <li class="divider"></li>
-            <li class="has-dropdown">
+            <li class="<?php if (stripos($docRoot,"/services/") === 0) {echo $hd.$a;} else {echo $hd;}; ?>">
                 <a href="#">Services</a>
                 <ul class="dropdown">
-                    <li class="has-dropdown">
+                    <li class="<?php if (stripos($docRoot,"/services/irc/") === 0) {echo $hd.$a;} else {echo $hd;}; ?>">
                         <a href="/services/irc/">IRC services</a>
                         <ul class="dropdown">
                             <li><a href="/services/irc/networks/">IRC Networks</a></li>
@@ -58,6 +67,7 @@
                     </li>
                 </ul>
             </li>
+            <li class="divider"></li>
             <li class="has-dropdown">
                 <a href="#">Mods</a>
                 <ul class="dropdown">
