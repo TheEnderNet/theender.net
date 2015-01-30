@@ -9,30 +9,40 @@
 
   <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/header.php"; ?>
 
-  <!--<body style="background-color:black;background-image:url('/_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">-->
-  <body>
+  <body style="background-color:black;background-image:url('/_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <div class="row">
       <div class="large-6-centered columns">
         <h1 style="text-shadow: 0 0 8px #FF00FF;text-align:center">
-          This section is still a WIP, also I didn't know css could do text effects
+          <b style="font-family:'Audiowide';<?php echo $Color; ?>">Ender's Services</b>
         </h1>
-        <p>
-          I run my fair share of public accessible services, the majority of them being IRC based.<br>
+        <h3 style="<?php echo $Color; ?>">
+          I run my fair share of public accessible services, the majority of them being IRC based.
           Click the links below to be taking to pages for the relevant area.
-        </p>
+        </h3>
       </div>
     </div>
     
-    <div class="row">
-      <div class="small-4 columns panel">
-        <h2>Minecraft</h2>
+    <div class="row" data-equalizer>
+      <div class="small-5 columns panel" data-equalizer-watch>
+        <h2 style="text-align:center;font-family:'Audiowide'">Minecraft</h2><hr>
+        <p style="text-align:center">
+          I host a Minecraft server called <b>The Enderverse</b>
+          on a Kimsufi Dedicated server hosted in Canada.
+        </p>
+        <p style="text-align:center"><a href="/services/enderverse/" class="button expand">More info through here <i class="fi-link"></i></a></p>
       </div>
-      <div class="small-4 columns panel">
-        <h2>IRC</h2>
-      </div>
-      <div class="small-4 columns panel">
-        
+      <div class="small-7 columns panel" data-equalizer-watch>
+        <h2 style="text-align:center;font-family:'Audiowide'">IRC</h2><hr>
+        <p style="text-align:center">
+          I host an IRC bouncer (ZNC), a network and a node for another network (confusing, isn't it?').<br>
+        </p>
+        <p style="text-align:center">
+          <ul class="button-group even-2">
+            <li><a href="/services/irc/znc/" class="button">Bouncer <i class="fi-link"></i></a></li>
+            <li><a href="/services/irc/networks/" class="button">Networks <i class="fi-link"></i></a></li>
+          </ul>
+        </p>
       </div>
     </div>
 
