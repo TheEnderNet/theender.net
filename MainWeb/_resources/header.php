@@ -8,3 +8,4 @@
   <script type="text/javascript" src="/_resources/js/modernizr.js"></script>
   <link href='http://fonts.googleapis.com/css?family=Audiowide|Rock+Salt|Inconsolata|Indie+Flower' rel='stylesheet' type='text/css'>
 </head>
+<?php $Color="color:white"; ?>
