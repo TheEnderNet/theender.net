@@ -36,6 +36,7 @@
         <h2 style="text-align:center;font-family:'Audiowide'">IRC</h2><hr>
         <p style="text-align:center">
           I host an IRC bouncer (ZNC), a network and a node for another network (confusing? Yes, it is.).<br>
+          <b>NOTE:</b> These don't go anywhere at the moment, there should be information on them by the end of the week!<br>
         </p>
         <p style="text-align:center">
           <ul class="button-group even-2">
