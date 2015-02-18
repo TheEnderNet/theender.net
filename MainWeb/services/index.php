@@ -27,15 +27,15 @@
       <div class="small-6 columns panel" data-equalizer-watch>
         <h2 style="text-align:center;font-family:'Audiowide'">Minecraft</h2><hr>
         <p style="text-align:center">
-          I host a Minecraft server called <b>The Enderverse</b>
-          on a Kimsufi Dedicated server hosted in Canada.
+          I host a Minecraft server called <em><b>The Enderverse</b></em>
+          on a Kimsufi Dedicated server named <em><b>Thor</b></em> hosted in Canada.
         </p>
         <p style="text-align:center"><a href="/services/enderverse/" class="button expand">More info through here <i class="fi-link"></i></a></p>
       </div>
       <div class="small-6 columns panel" data-equalizer-watch>
         <h2 style="text-align:center;font-family:'Audiowide'">IRC</h2><hr>
         <p style="text-align:center">
-          I host an IRC bouncer (ZNC), a network and a node for another network (confusing, isn't it?').<br>
+          I host an IRC bouncer (ZNC), a network and a node for another network (confusing? Yes, it is.).<br>
         </p>
         <p style="text-align:center">
           <ul class="button-group even-2">
