@@ -27,21 +27,53 @@
       <div class="small-6-centered columns">
         <h2 style="color:white;font-family:Inconsolata;text-align:center;text-shadow: 0 0 5px #00FFFF">Servers</h2>
       </div>
-    </div>
-    <div class="row">
-      <div class="small-12 columns panel">
-        <div class="small-6 columns panel">
-          <h3>Anquietas</h3>
-          <p>
-            Located: London, UK.<br>Owner: Lizzy<br>
-            Status:
-            <?php 
-              $fp = @fsockopen("anquietas.thedarkirc.co", 6667, $errno, $errmsg, 5);
-              if($fp == false) { echo "<i style=\"color:red\"><b>Down</b></i><br>"; echo "Error: {$errno}, {$errmsg}";}
-              else { echo "<i style=\"color:green\"><b>Up</b></i>";}
-            ?><br>
-          </p>
-        </div>
+      <div class="small-6 medium-4 columns panel">
+        <h3>Anquietas</h3>
+        <p>
+          Located: London, UK.<br>Owner: Lizzy<br>
+          Status:
+          <?php 
+            $fp = @fsockopen("anquietas.thedarkirc.co", 6667, $errno, $errmsg, 5);
+            if($fp == false) { echo "<i style=\"color:red\"><b>Down</b></i><br>"; echo "Error: {$errno}, {$errmsg}";}
+            else { echo "<i style=\"color:green\"><b>Up</b></i>";}
+          ?><br>
+        </p>
+      </div>
+      <div class="small-6 medium-4 columns panel">
+        <h3>Thor</h3>
+        <p>
+          Located: Canada.<br>Owner: Lizzy<br>
+          Status:
+          <?php 
+            $fp = @fsockopen("thor.thedarkirc.co", 6667, $errno, $errmsg, 5);
+            if($fp == false) { echo "<i style=\"color:red\"><b>Down</b></i><br>"; echo "Error: {$errno}, {$errmsg}";}
+            else { echo "<i style=\"color:green\"><b>Up</b></i>";}
+          ?><br>
+        </p>
+      </div>
+      <div class="small-6 medium-4 columns panel">
+        <h3>Nano</h3>
+        <p>
+          Located: London, UK.<br>Owner: Skye<br>
+          Status:
+          <?php 
+            $fp = @fsockopen("nano.thedarkirc.co", 6667, $errno, $errmsg, 5);
+            if($fp == false) { echo "<i style=\"color:red\"><b>Down</b></i><br>"; echo "Error: {$errno}, {$errmsg}";}
+            else { echo "<i style=\"color:green\"><b>Up</b></i>";}
+          ?><br>
+        </p>
+      </div>
+      <div class="small-6 medium-4 columns panel">
+        <h3>Lain</h3>
+        <p>
+          Located: Australia.<br>Owner: Izaya<br>
+          Status:
+          <?php 
+            $fp = @fsockopen("lain.thedarkirc.co", 6667, $errno, $errmsg, 5);
+            if($fp == false) { echo "<i style=\"color:red\"><b>Down</b></i><br>"; echo "Error: {$errno}, {$errmsg}";}
+            else { echo "<i style=\"color:green\"><b>Up</b></i>";}
+          ?><br>
+        </p>
       </div>
     </div>
     
