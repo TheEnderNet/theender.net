@@ -62,7 +62,7 @@
                     <li class="<?php if (stripos($docRoot,"/services/irc/") === 0) {echo $hd.$a;} else {echo $hd;}; ?>">
                         <a href="/services/irc/">IRC services</a>
                         <ul class="dropdown">
-                            <li><a href="/services/irc/networks/">IRC Networks</a></li>
+                            <li><a href="/services/irc/network/">IRC Networks</a></li>
                             <li><a href="/services/irc/bnc/">IRC Bouncer</a></li>
                         </ul>
                     </li>
