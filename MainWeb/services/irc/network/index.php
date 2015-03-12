@@ -28,8 +28,8 @@
         <h2 style="color:white;font-family:Inconsolata;text-align:center;text-shadow: 0 0 5px #00FFFF">Servers</h2>
       </div>
       <div class="small-6 medium-4 columns panel">
-        <h3>Anquietas</h3>
-        <p>
+        <h3 style="text-align:center">Anquietas</h3>
+        <p style="text-align:center">
           Located: London, UK.<br>Owner: Lizzy<br>
           Status:
           <?php 
@@ -40,8 +40,8 @@
         </p>
       </div>
       <div class="small-6 medium-4 columns panel">
-        <h3>Thor</h3>
-        <p>
+        <h3 style="text-align:center">Thor</h3>
+        <p style="text-align:center">
           Located: Canada.<br>Owner: Lizzy<br>
           Status:
           <?php 
@@ -51,9 +51,11 @@
           ?><br>
         </p>
       </div>
+    </div>
+    <div class="row">
       <div class="small-6 medium-4 columns panel">
-        <h3>Nano</h3>
-        <p>
+        <h3 style="text-align:center">Nano</h3>
+        <p style="text-align:center">
           Located: London, UK.<br>Owner: Skye<br>
           Status:
           <?php 
@@ -64,8 +66,8 @@
         </p>
       </div>
       <div class="small-6 medium-4 columns panel">
-        <h3>Lain</h3>
-        <p>
+        <h3 style="text-align:center">Lain</h3>
+        <p style="text-align:center">
           Located: Australia.<br>Owner: Izaya<br>
           Status:
           <?php 
