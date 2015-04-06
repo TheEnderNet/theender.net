@@ -2,6 +2,7 @@
   ini_set('display_errors','On');
   $Title = "Ender's Services";
   $PageName = "Ender's IRC Services";
+  $mods = "./mods/"
 ?>
 <!DOCTYPE HTML>
 <html class="no-js" lang="en">
@@ -48,6 +49,18 @@
             </tr>
           </thead>
           <tbody>
+            <?php 
+              $files = array_diff(scandir($mods), array('..','.'));
+              foreach ($files as $file) {
+                echo "<tr>";
+                echo "<td>".$file."</td>";
+                echo "<td>Generic Bill</td>";
+                echo "<td>v0.0.0</td>";
+                echo "<td>Generic Description</td>";
+                echo "</tr>";
+              }
+            ?>
+
             <tr>
               <td>OpenComputers</td>
               <td>Sangar</td>
