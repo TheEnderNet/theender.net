@@ -20,7 +20,11 @@
         <img src="http://imgs.xkcd.com/comics/joshing.png">
       </p>
     </div>
-
+    <div class="row">
+      <div class="small-1-centered columns">
+        <h6 style="color:gray;text-align:center"><a href="browser.php">What's This?</a></h6>
+      </div>
+    </div>
 
     <script src="/_resources/js/vendor/jquery.js"></script>
     <script src="/_resources/js/vendor/fastclick.js"></script>

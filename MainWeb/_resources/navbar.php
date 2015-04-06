@@ -55,6 +55,9 @@
             <li class="<?php if(stripos($docRoot,"/story/") === 0){echo $a;};?>">
               <a href="/story/"><i class="fi-pencil"></i> Story Corner</a>
             </li>
+            <li class="<?php if(stripos($docRoot,"/art/") === 0){echo $a;};?>">
+              <a href="/art/"><i class="fi-photo"></i> Art Corner</a>
+            </li>
             <li class="divider"></li>
             <li class="<?php if (stripos($docRoot,"/services/") === 0) {echo $hd.$a;} else {echo $hd;}; ?>">
                 <a href="/services/"><i class="fi-wrench"></i> Services</a>
