@@ -15,7 +15,7 @@
         <h3 style="<?php echo $Color; ?>">
           I run an IRC bouncer. If you would like to request an account please message me on 
           <a href="/services/irc/network/">my network</a> as <b>Lizzy</b> or fill out
-          <a href="">this form</a>.<br><br>
+          <a href="http://goo.gl/forms/6Wh6BnTpL0">thttp://goo.gl/forms/6Wh6BnTpL0his form</a>.<br><br>
           <a href="" data-reveal-id="modModal">Terms &amp; Conditions for bouncer use.</a>
         </h3>
       </div>
