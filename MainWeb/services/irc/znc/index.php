@@ -9,37 +9,15 @@
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <div class="row">
       <div class="large-6-centered columns">
-        <h1 style="text-shadow: 0 0 8px #FF00FF;text-align:center">
-          <b style="font-family:'Audiowide';<?php echo $Color; ?>">Ender's Services</b>
+        <h1 style="text-shadow: 0 0 1px #000000, 0 0 10px #FFFFFF;text-align:center">
+          <b style="font-family:'Audiowide';color:white">Ender/Lizzy's Bouncer</b>
         </h1>
         <h3 style="<?php echo $Color; ?>">
-          I run my fair share of public accessible services, the majority of them being IRC based.
-          Click the links below to be taking to pages for the relevant area.
+          I run an IRC bouncer on my 3 servers, Heyo, Anquietas and Thor. Most of the current users are
+          primararilly on the EsperNet network but there are no limitations on what network you can join
+          using my bouncer. If you would like to request an account please message me on 
+          <a href="/services/irc/network/">my network</a> as <b>Lizzy</b>.
         </h3>
-      </div>
-    </div>
-    
-    <div class="row" data-equalizer>
-      <div class="small-6 columns panel" data-equalizer-watch>
-        <h2 style="text-align:center;font-family:'Audiowide'">Minecraft</h2><hr>
-        <p style="text-align:center">
-          I host a Minecraft server called <em><b>The Enderverse</b></em>
-          on a Kimsufi Dedicated server named <em><b>Thor</b></em> hosted in Canada.
-        </p>
-        <p style="text-align:center"><a href="/services/enderverse/" class="button expand">More info through here <i class="fi-link"></i></a></p>
-      </div>
-      <div class="small-6 columns panel" data-equalizer-watch>
-        <h2 style="text-align:center;font-family:'Audiowide'">IRC</h2><hr>
-        <p style="text-align:center">
-          I host an IRC bouncer (ZNC), a network and a node for another network (confusing? Yes, it is.).<br>
-          <b>NOTE:</b> These don't go anywhere at the moment, there should be information on them by the end of the week!<br>
-        </p>
-        <p style="text-align:center">
-          <ul class="button-group even-2">
-            <li><a href="/services/irc/znc/" class="button">Bouncer <i class="fi-link"></i></a></li>
-            <li><a href="/services/irc/network/" class="button">Network <i class="fi-link"></i></a></li>
-          </ul>
-        </p>
       </div>
     </div>
 
