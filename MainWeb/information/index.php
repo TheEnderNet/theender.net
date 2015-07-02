@@ -1,7 +1,7 @@
 <?php
   ini_set('display_errors','On');
-  $PageName = "About";
-  $Title = $PageName." | Ender";
+  $PageName = "Ender's Information";
+  $Title = $PageName;
 ?>
 <!DOCTYPE HTML>
 <html class="no-js" lang="en">
@@ -14,10 +14,10 @@
     <div class="row">
       <h1 style="color:white;font-family:'Rock Salt'">About</h1>
       <p style="color:white;font-family:'Arial'">
-        Well, I'm roughly 934 earth years old. My home planet is called Thra-- Oh, you mean my real self?
+        Well, I'm roughly 924 earth years old. My home planet is called Thra-- Oh, you mean my real self?
         hmm, okay.<br><br>
 
-        I'm an extremely sarcastic 18 year old male from England. I do random stuff on the internet like host this
+        I'm an extremely sarcastic 18 year old female from England. I do random stuff on the internet like host this
         and other's sites ( see StargateTech2's wiki for example ). I also run an IRC bouncer for people ( though I
         generally prefer that I know before hand in various IRC channels on the EsperNet network ).<br><br>
 
@@ -32,9 +32,9 @@
     <div class="row">
       <h1 style="color:white;font-family:'Rock Salt'">Ways to contact me</h1>
       <p style="color:white;font-family:'Arial'">
-        Well, you can reach me by <a href="https://www.twitter.com/JoshTheEnder">Twitter @JoshTheEnder</a>,<br>
-        via IRC on either EsperNet ( usually as "Ender" in #oc or #StargateTech ) or PC-Logix ( usually as "JoshTheEnder" ),<br>
-        via XMPP ( ender@coderollers.com ) or via the ( Currently non-existent ) web form below.<br>
+        Well, you can reach me by <a href="https://www.twitter.com/LizzyTheSiren">Twitter @LizzyTheSiren</a>,<br>
+        via IRC on either EsperNet ( usually as "Lizzy" in #oc or #vifino ) or PC-Logix ( usually as "Lizzy" ),<br>
+        via XMPP ( trickster@coderollers.com ) or via the ( Currently non-existent ) web form below.<br>
 
       </p>
     </div>
