@@ -12,12 +12,13 @@
   <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/header.php"; ?>
 
   <body style="background-color:black;background-image:url('/_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
-    
+
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <div class="row"><h1 style="color:white;font-family:'Rock Salt'"><center>Ender's Game</center></h1><hr></div>
     <div class="row">
       <h1 style="color:white"><i>Foreword</i></h1>
       <p style="color:white">
+        <b>This story was written in bits while on public transport to and from college, it's not going to be the best...</b><br>
         This story is semi-based around ShadowKatStudios' story (<a href="http://shadowkatstudios.gweb.io/story/index.htm">LINK</a>) so I may link
         parts for you ( the reader ) to go read before hand. When I write the
         story and post it up here, <b>it <del>will</del> <i>may</i> not be in chronological order</b>.
@@ -47,7 +48,7 @@
         };
       ?>
     </div>
-    
+
     <script src="/_resources/js/vendor/jquery.js"></script>
     <script src="/_resources/js/vendor/fastclick.js"></script>
     <script src="/_resources/js/foundation.min.js"></script>
