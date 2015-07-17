@@ -12,7 +12,7 @@
   <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/header.php"; ?>
 
   <body style="background-color:black;background-image:url('/_resources/img/bg.png');background-repeat:no-repeat;background-position:center top;">
-    
+
     <?php include $_SERVER['DOCUMENT_ROOT']."/_resources/navbar.php"; ?>
     <div class="row"><h1 style="color:white;font-family:'Audiowide'"><center>Zero Hour</center></h1><hr></div>
     <div class="row">
@@ -28,23 +28,25 @@
     </div>
     <br>
     <div class="row">
-      <?php
-        $files = array_diff(scandir($DocDir), array('..', '.'));
-        if (!empty($_GET["page"]) ) {
-          foreach ($files as $file) {
-            $mfile = fopen($DocDir."/".$file, "r") or die("Unable to open file!");
-            if (basename($DocDir."/".$file, ".html") === $_GET["page"]) {
-              echo fread($mfile, filesize($DocDir."/".$file));
+      <div class="panel">
+        <?php
+          $files = array_diff(scandir($DocDir), array('..', '.'));
+          if (!empty($_GET["page"]) ) {
+            foreach ($files as $file) {
+              $mfile = fopen($DocDir."/".$file, "r") or die("Unable to open file!");
+              if (basename($DocDir."/".$file, ".html") === $_GET["page"]) {
+                echo fread($mfile, filesize($DocDir."/".$file));
+              };
             };
+          } else {
+            $file = fopen($DocDir."/01.html", "r") or die("Oh Shit!");
+            echo fread($file, filesize($DocDir."/01.html"));
+            fclose($file);
           };
-        } else {
-          $file = fopen($DocDir."/01.html", "r") or die("Oh Shit!");
-          echo fread($file, filesize($DocDir."/01.html"));
-          fclose($file);
-        };
-      ?>
+        ?>
+      </div>
     </div>
-    
+
     <script src="/_resources/js/vendor/jquery.js"></script>
     <script src="/_resources/js/vendor/fastclick.js"></script>
     <script src="/_resources/js/foundation.min.js"></script>
