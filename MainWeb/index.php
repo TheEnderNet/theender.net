@@ -16,9 +16,12 @@
       <hr>
       <p style="color:white">
         Well hello there, welcome to my site.<br>
-        This site is home to my random projects and may include stuff from other people :)</p>
+        I'm Lizzy, a 19 year-old Punk chick from England. This site is the home to my stories: <i>Ender's Game</i> (not to be confused with the novels/film of the same name)
+        and <i>Zero Hour</i>, incomplete information pages for some of the services I provide, some art and some of my (incomplete) minecraft mods. Head over to the 
+        <a href="/information/">info page</a> to see how you can contact me.
+      </p>
     </div>
-    
+    <br>
     <div class="row"><center><b><h1 style="color:white;font-family:'Rock Salt'">News Be Below</h1><b></center><hr style="color:green"></div>
 
     <?php
