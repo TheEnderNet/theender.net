@@ -6,6 +6,6 @@
   <link rel="stylesheet" type="text/css" href="/_resources/css/foundation.css">
   <link rel="stylesheet" type="text/css" href="/_resources/css/foundation-icons.css">
   <script type="text/javascript" src="/_resources/js/modernizr.js"></script>
-  <link href='http://fonts.googleapis.com/css?family=Audiowide|Rock+Salt|Inconsolata|Indie+Flower' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Audiowide|Rock+Salt|Inconsolata|Indie+Flower' rel='stylesheet' type='text/css'>
 </head>
 <?php $Color="color:white"; ?>
