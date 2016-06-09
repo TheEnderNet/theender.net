@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#This be old
+# This be old
 
 GitRoot = "/home/znc/gitcrap/OETFWeb/"
 WebRoot = "/home/znc/www/oetf/"
