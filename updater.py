@@ -69,7 +69,7 @@ class HttpThingy(BaseHTTPRequestHandler):
                 self.end_headers()
                 print( "Decoding json")
                 dta = json.loads( recv )
-                print( "Got {0}".format(dta['repository']['name']) )
+                print( "Got {0}, Branch: {1}".format(dta['repository']['name'],dta['ref'].split("/")[2]) )
                 doGitThing( dta['repository']['name'], dta['ref'].split("/")[2] )
                 return
 
