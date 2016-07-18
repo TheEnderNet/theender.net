@@ -68,6 +68,7 @@ class HttpThingy(BaseHTTPRequestHandler):
                 print( "Decoding json")
                 dta = json.loads( recv )
                 print( "Got {0}".format(dta['repository']['name']) )
+                print( json.dumps( dta ) )
                 doGitThing( dta['repository']['name'] )
                 return
 
