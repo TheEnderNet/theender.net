@@ -2,12 +2,13 @@
 # -*- coding: utf-8 -*-
 # This be old
 
-GitRoot = "/home/znc/gitcrap/OETFWeb/"
-WebRoot = "/home/znc/www/oetf/"
+#GitRoot = "/home/znc/gitcrap/OETFWeb/"
+#WebRoot = "/home/znc/www/oetf/"
 
 
 import string, cgi, socket, json, sys
 import subprocess as sub
+from colorama import Fore
 from os import curdir, sep, system
 from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 
