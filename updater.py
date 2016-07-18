@@ -12,18 +12,19 @@ from colorama import Fore
 from os import curdir, sep, system
 from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 
-def doGitThing( name ):
-    if name == "OETFWeb":
-        print( "Attempting to perform Git pull on "+name+"!")
-        p = sub.Popen(['git','pull'],stdout=sub.PIPE,stderr=sub.PIPE,cwd=GitRoot)
-        output, errors = p.communicate()
-        print( "**OUTPUT:  " + output )
-        print( "**ERRORS:  " + errors )
-        print( Fore.YELLOW+"copying files" )
-        c = sub.Popen( ["cp","-vuR","bootstrap.py","controllers/","models/","pycore/", "views/", WebRoot], stdout=sub.PIPE,stderr=sub.PIPE,cwd=GitRoot)
-        output, errors = c.communicate()
-        print( "**OUTPUT:  " + output )
-        print( "**ERRORS:  " + errors )
+def doGitThing( name, branch="master" ):
+    if name == "theender.net":
+        if branch == "master":
+            p = sub.Popen(['git','pull'],stdout=sub.PIPE,stderr=sub.PIPE,cwd="/var/www/www.theender.net/git")
+            output, errors = p.communicate()
+            print( "**OUTPUT:  " + output )
+            print( "**ERRORS:  " + errors )
+        if branch == "dev":
+            p = sub.Popen(['git','pull'],stdout=sub.PIPE,stderr=sub.PIPE,cwd="/var/www/test.theender.net/git")
+            output, errors = p.communicate()
+            print( "**OUTPUT:  " + output )
+            print( "**ERRORS:  " + errors )
+
     print( "End of doGitThing" )
 
 class HttpThingy(BaseHTTPRequestHandler):
@@ -69,8 +70,7 @@ class HttpThingy(BaseHTTPRequestHandler):
                 print( "Decoding json")
                 dta = json.loads( recv )
                 print( "Got {0}".format(dta['repository']['name']) )
-                print( json.dumps( dta ) )
-                doGitThing( dta['repository']['name'] )
+                doGitThing( dta['repository']['name'], dta['ref'].split("/")[2] )
                 return
 
             else:
