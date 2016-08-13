@@ -39,9 +39,7 @@ Stuff = {
   "STOR_COLOR": "black",
   "PROJ_COLOR": "black",
   "CONT_COLOR": "black",
-  "CONTENT": row,
-  "PAN": "<div class='small-12 large-1 columns callout'><i class='label'>~bsbsbs</i></div>" * 12,
-  "PON": "<div class='small-12 large-3 columns callout'><i class='label'>~bsbsbs</i></div>" * 4
+  "CONTENT": row
 
 }
 
