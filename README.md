@@ -1,3 +1,6 @@
+**NOTE: This repo is extremely outdated and also isn't running on `theender.net` anymore. I have left this up here for Archival purposes.**
+
+
 EnderNet
 ========
 
